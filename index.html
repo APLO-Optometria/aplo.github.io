@@ -91,7 +91,7 @@
             <p class="text-center max-w-2xl mx-auto mb-8 text-lg text-gray-600">
                 Esta sondagem obteve uma participação significativa, fornecendo uma amostra estatisticamente fiável das opiniões dos membros. Mais de um quarto do total de membros efectivos participou. Os dados seguintes estabelecem a base para a análise, refletindo o forte envolvimento da comunidade.
             </p>
-            <div class="grid grid-cols-1 md:grid-cols-3 gap-6 text-center">
+            <div class="flex justify-center flex-wrap gap-6 text-center"> <!-- Alterado para flex justify-center -->
                 <div class="stat-card bg-white p-6 rounded-lg shadow-md">
                     <h3 class="text-5xl font-bold mb-2">27,7%</h3>
                     <p class="text-gray-600 font-semibold">Taxa de Participação</p>
@@ -412,7 +412,7 @@
             });
             
             const maintainVsReduceData = {
-                labels: ['Manter 10 CFCO', 'Reduzir número de CFCO'],
+                labels: ['Manter número de 10 CFCO', 'Reduzir número de CFCO'],
                 datasets: [{
                     data: [74.7, 25.3],
                     backgroundColor: [colorPalette[1], colorPalette[3]],
