@@ -39,6 +39,42 @@
         .section-title {
             color: #003f5c;
         }
+        /* Estilo para o modal */
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            overflow: auto;
+            background-color: rgba(0,0,0,0.4);
+            justify-content: center;
+            align-items: center;
+        }
+        .modal-content {
+            background-color: #fefefe;
+            margin: auto;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            width: 80%;
+            max-width: 500px;
+            position: relative;
+        }
+        .close-button {
+            color: #aaa;
+            float: right;
+            font-size: 28px;
+            font-weight: bold;
+        }
+        .close-button:hover,
+        .close-button:focus {
+            color: black;
+            text-decoration: none;
+            cursor: pointer;
+        }
     </style>
 </head>
 <body class="text-gray-800">
@@ -79,6 +115,7 @@
                 <div class="chart-container">
                     <canvas id="admissionCriteriaChart"></canvas>
                 </div>
+                <button class="mt-4 w-full bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded-lg transition duration-300" onclick="generateAnalysis('admission')">Gerar Análise ✨</button>
             </div>
 
             <div class="bg-white rounded-lg shadow-md p-6">
@@ -87,6 +124,7 @@
                 <div class="chart-container">
                     <canvas id="cfcoOpinionChart"></canvas>
                 </div>
+                <button class="mt-4 w-full bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded-lg transition duration-300" onclick="generateAnalysis('cfco')">Gerar Análise ✨</button>
             </div>
 
             <div class="bg-white rounded-lg shadow-md p-6 md:col-span-2">
@@ -106,6 +144,7 @@
                         </div>
                     </div>
                 </div>
+                <button class="mt-4 w-full bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded-lg transition duration-300" onclick="generateAnalysis('cfco_deep_dive')">Gerar Análise ✨</button>
             </div>
             
             <div class="bg-white rounded-lg shadow-md p-6">
@@ -114,6 +153,7 @@
                 <div class="chart-container">
                     <canvas id="conferenceMotivationChart"></canvas>
                 </div>
+                <button class="mt-4 w-full bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded-lg transition duration-300" onclick="generateAnalysis('conference_motivation')">Gerar Análise ✨</button>
             </div>
 
             <!-- Nova secção para Análise Composta de Conferências Abertas -->
@@ -123,6 +163,7 @@
                 <div class="chart-container">
                     <canvas id="conferenceCompositeChart"></canvas>
                 </div>
+                <button class="mt-4 w-full bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded-lg transition duration-300" onclick="generateAnalysis('conference_composite')">Gerar Análise ✨</button>
             </div>
             <!-- Fim da nova secção -->
 
@@ -132,6 +173,7 @@
                 <div class="chart-container">
                     <canvas id="prescriptionMethodChart"></canvas>
                 </div>
+                <button class="mt-4 w-full bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded-lg transition duration-300" onclick="generateAnalysis('prescription_method')">Gerar Análise ✨</button>
             </div>
         </div>
 
@@ -140,6 +182,20 @@
     <footer class="mt-12 text-center p-6 bg-gray-100 border-t">
         <p class="text-gray-600">Infográfico gerado com base na sondagem realizada aos membros da APLO.</p>
     </footer>
+
+    <!-- Modal para exibir a análise da Gemini API -->
+    <div id="analysisModal" class="modal">
+        <div class="modal-content">
+            <span class="close-button" onclick="closeModal()">&times;</span>
+            <h2 class="text-2xl font-bold mb-4">Análise Gerada ✨</h2>
+            <p id="analysisText" class="text-gray-700"></p>
+            <div id="analysisLoading" class="hidden text-center mt-4">
+                <div class="inline-block animate-spin rounded-full h-8 w-8 border-b-2 border-gray-900"></div>
+                <p>A gerar análise...</p>
+            </div>
+        </div>
+    </div>
+
 
     <script>
         // Registrar o plugin de datalabels globalmente
@@ -367,6 +423,140 @@
                 options: commonChartOptions
             });
         });
+
+        // Funções para o modal
+        function openModal() {
+            document.getElementById('analysisModal').style.display = 'flex';
+        }
+
+        function closeModal() {
+            document.getElementById('analysisModal').style.display = 'none';
+            document.getElementById('analysisText').textContent = '';
+            document.getElementById('analysisLoading').classList.add('hidden');
+        }
+
+        async function generateAnalysis(section) {
+            openModal();
+            document.getElementById('analysisLoading').classList.remove('hidden');
+            document.getElementById('analysisText').textContent = '';
+
+            let prompt = "";
+            let dataForPrompt = {};
+
+            // Preparar os dados para o prompt com base na secção
+            if (section === 'admission') {
+                dataForPrompt = {
+                    title: "Critérios de Admissão de Novos Membros",
+                    options: [
+                        { label: 'Apenas a titularidade de licenciatura em Optometria válida nos termos da legislação portuguesa', value: 63.4 },
+                        { label: 'Deve ser obrigatória a realização de um curso de admissão e/ou exame de admissão', value: 36.6 }
+                    ]
+                };
+            } else if (section === 'cfco') {
+                dataForPrompt = {
+                    title: "Opinião sobre a Formação Contínua (CFCO)",
+                    options: [
+                        { label: 'Manter 10 CFCO, mas sem suspensão no 1º incumprimento', value: 41.4 },
+                        { label: 'Eliminar a obrigatoriedade de CFCO', value: 21.0 },
+                        { label: 'Reduzir o número de CFCO anuais', value: 20.0 },
+                        { label: 'Manter 10 CFCO como adequado', value: 17.6 }
+                    ]
+                };
+            } else if (section === 'cfco_deep_dive') {
+                dataForPrompt = {
+                    title: "Aprofundando a Formação Contínua",
+                    subSections: [
+                        {
+                            title: "Manter vs. Eliminar CFCO",
+                            options: [
+                                { label: 'Manter Formação Contínua', value: 79.0 },
+                                { label: 'Eliminar Formação Contínua', value: 21.0 }
+                            ]
+                        },
+                        {
+                            title: "Manter 10 Créditos vs. Reduzir",
+                            options: [
+                                { label: 'Manter número de 10 CFCO', value: 74.7 },
+                                { label: 'Reduzir número de CFCO', value: 25.3 }
+                            ]
+                        }
+                    ]
+                };
+            } else if (section === 'conference_motivation') {
+                dataForPrompt = {
+                    title: "Motivação para Participar em Conferências",
+                    options: [
+                        { label: 'Aprender e atualizar conhecimentos científicos e clínicos em Optometria', value: 52.9 },
+                        { label: 'Conviver, partilhar experiências e contactar com colegas da profissão', value: 20.7 },
+                        { label: 'Cumprir os 10 Créditos de Formação Contínua em Optometria (CFCO)', value: 19.3 },
+                        { label: 'Nenhuma das anteriores', value: 7.1 }
+                    ]
+                };
+            } else if (section === 'conference_composite') {
+                dataForPrompt = {
+                    title: "Análise Composta: Conferências Abertas",
+                    options: [
+                        { label: 'Aprender em Optometria ou Conviver', value: 79.2 },
+                        { label: 'Cumprir CFCO', value: 20.8 }
+                    ]
+                };
+            } else if (section === 'prescription_method') {
+                dataForPrompt = {
+                    title: "Modernização das Prescrições Manuais",
+                    options: [
+                        { label: 'Permitir o descarregamento direto na área de membro, de um modelo com validação eletrónica oficial da APLO, para impressão e preenchimento manual', value: 79.0 },
+                        { label: 'Manter o modelo e regime atual, com produção e envio centralizado pela gráfica', value: 21.0 }
+                    ]
+                };
+            }
+
+            if (dataForPrompt.title) {
+                prompt = `Dada a seguinte informação da sondagem da APLO sobre "${dataForPrompt.title}":\n`;
+                if (dataForPrompt.options) {
+                    dataForPrompt.options.forEach(opt => {
+                        prompt += `- ${opt.label}: ${opt.value}%\n`;
+                    });
+                } else if (dataForPrompt.subSections) {
+                    dataForPrompt.subSections.forEach(sub => {
+                        prompt += `\nSub-secção: ${sub.title}\n`;
+                        sub.options.forEach(opt => {
+                            prompt += `- ${opt.label}: ${opt.value}%\n`;
+                        });
+                    });
+                }
+                prompt += "\nPor favor, forneça uma análise concisa e de alto nível (máximo 50 palavras) para apresentar aos membros da APLO, destacando o principal *insight*.";
+            }
+
+            try {
+                let chatHistory = [];
+                chatHistory.push({ role: "user", parts: [{ text: prompt }] });
+                const payload = { contents: chatHistory };
+                const apiKey = "";
+                const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${apiKey}`;
+
+                const response = await fetch(apiUrl, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify(payload)
+                });
+
+                const result = await response.json();
+
+                if (result.candidates && result.candidates.length > 0 &&
+                    result.candidates[0].content && result.candidates[0].content.parts &&
+                    result.candidates[0].content.parts.length > 0) {
+                    const text = result.candidates[0].content.parts[0].text;
+                    document.getElementById('analysisText').textContent = text;
+                } else {
+                    document.getElementById('analysisText').textContent = "Não foi possível gerar a análise. Tente novamente.";
+                }
+            } catch (error) {
+                console.error("Erro ao chamar a API Gemini:", error);
+                document.getElementById('analysisText').textContent = "Ocorreu um erro ao gerar a análise. Verifique a sua ligação ou tente mais tarde.";
+            } finally {
+                document.getElementById('analysisLoading').classList.add('hidden');
+            }
+        }
     </script>
 </body>
 </html>
