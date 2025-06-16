@@ -116,6 +116,16 @@
                 </div>
             </div>
 
+            <!-- Nova secção para Análise Composta de Conferências Abertas -->
+            <div class="bg-white rounded-lg shadow-md p-6">
+                <h3 class="text-xl font-bold mb-1 section-title">Análise Composta: Conferências Abertas</h3>
+                <p class="text-gray-600 mb-4">Ao agrupar as motivações, é evidente que a maioria dos participantes valoriza as conferências pelo seu conteúdo educacional e networking, em detrimento do cumprimento de requisitos de formação.</p>
+                <div class="chart-container">
+                    <canvas id="conferenceCompositeChart"></canvas>
+                </div>
+            </div>
+            <!-- Fim da nova secção -->
+
             <div class="bg-white rounded-lg shadow-md p-6">
                 <h3 class="text-xl font-bold mb-1 section-title">Modernização das Prescrições Manuais</h3>
                 <p class="text-gray-600 mb-4">Há um claro consenso a favor da modernização. Quase 80% dos membros preferem um sistema de descarregamento digital de modelos validados, indicando um desejo por maior eficiência e autonomia.</p>
@@ -263,7 +273,7 @@
                     ...commonBarOptions,
                     plugins: {
                         ...commonBarOptions.plugins,
-                        legend: { display: false } // A legenda do dataset não é tão relevante aqui já que os rótulos estão no eixo Y e os valores nas barras
+                        legend: { display: false }
                     }
                 }
             });
@@ -290,9 +300,25 @@
                     ...commonBarOptions,
                     plugins: {
                         ...commonBarOptions.plugins,
-                        legend: { display: false } // A legenda do dataset não é tão relevante aqui já que os rótulos estão no eixo Y e os valores nas barras
+                        legend: { display: false }
                     }
                 }
+            });
+
+            // Dados para o novo gráfico de Análise Composta de Conferências Abertas
+            const conferenceCompositeData = {
+                labels: ['Aprender em Optometria ou Conviver', 'Cumprir CFCO'],
+                datasets: [{
+                    data: [79.2, 20.8],
+                    backgroundColor: [colorPalette[0], colorPalette[3]],
+                    borderColor: '#ffffff',
+                    borderWidth: 2
+                }]
+            };
+            new Chart(document.getElementById('conferenceCompositeChart'), {
+                type: 'pie',
+                data: conferenceCompositeData,
+                options: commonChartOptions
             });
             
             const prescriptionData = {
