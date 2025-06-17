@@ -238,44 +238,38 @@
                         callbacks: {
                             title: tooltipTitleCallback
                         }
+                    },
+                    datalabels: { // Datalabels para gráficos circulares
+                        formatter: (value, context) => {
+                            return value.toFixed(1) + '%'; // Formata para 1 casa decimal e adiciona %
+                        },
+                        color: '#ffffff', // Cor branca para os números
+                        font: {
+                            weight: 'bold', // Negrito
+                            size: 16 // Tamanho maior
+                        },
+                        textAlign: 'center',
+                        anchor: 'center', // Centra o número na fatia
+                        align: 'center' // Alinha o texto ao centro da fatia
                     }
                 }
             };
             
             const commonBarOptions = {
                 ...commonChartOptions,
-                scales: {
-                    y: {
-                        beginAtZero: true,
-                        ticks: {
-                            display: false // Remover os números do eixo Y
-                        },
-                        grid: {
-                            display: false // Remover as linhas de grelha do eixo Y
-                        }
-                    },
-                    x: {
-                        ticks: {
-                           display: false // Remover os números do eixo X
-                        },
-                        grid: {
-                            display: false // Remover as linhas de grelha do eixo X
-                        }
-                    }
-                },
-                 indexAxis: 'y',
-                 plugins: {
+                plugins: { // Precisa sobrescrever o datalabels de commonChartOptions
+                    ...commonChartOptions.plugins,
                     datalabels: {
                         formatter: (value, context) => {
                             return value + '%';
                         },
-                        align: 'end', // Alinhar o texto no final da barra
-                        anchor: 'end', // Ancorar o texto no final da barra
-                        color: '#333', // Cor do texto
+                        align: 'end',
+                        anchor: 'end',
+                        color: '#333',
                         font: {
                             weight: 'bold'
                         },
-                        offset: 4 // Pequeno offset para não ficar colado à barra
+                        offset: 4
                     },
                     legend: { // Configuração de legenda para gráficos de barra
                         position: 'bottom',
@@ -305,7 +299,27 @@
                             }
                         }
                     }
-                }
+                },
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        ticks: {
+                            display: false
+                        },
+                        grid: {
+                            display: false
+                        }
+                    },
+                    x: {
+                        ticks: {
+                           display: false
+                        },
+                        grid: {
+                            display: false
+                        }
+                    }
+                },
+                 indexAxis: 'y'
             };
 
             const admissionData = {
@@ -332,7 +346,7 @@
                     'Manter 10 CFCO como adequado'
                 ],
                 datasets: [{
-                    label: 'Opinião sobre os 10 CFCO Anuais (%)', // Este label é para o tooltip, não para a legenda principal
+                    label: 'Opinião sobre os 10 CFCO Anuais (%)',
                     data: [41.4, 21.0, 20.0, 17.6],
                     backgroundColor: colorPalette,
                     borderColor: colorPalette,
@@ -342,7 +356,7 @@
              new Chart(document.getElementById('cfcoOpinionChart'), {
                 type: 'bar',
                 data: cfcoData,
-                options: commonBarOptions // Agora commonBarOptions inclui a lógica de legenda personalizada
+                options: commonBarOptions
             });
 
             const conferenceData = {
@@ -353,7 +367,7 @@
                     'Nenhuma das anteriores'
                 ],
                 datasets: [{
-                    label: 'Principal Motivação (%)', // Este label é para o tooltip, não para a legenda principal
+                    label: 'Principal Motivação (%)',
                     data: [52.9, 20.7, 19.3, 7.1],
                     backgroundColor: lightColorPalette,
                     borderColor: lightColorPalette,
@@ -363,7 +377,7 @@
             new Chart(document.getElementById('conferenceMotivationChart'), {
                 type: 'bar',
                 data: conferenceData,
-                options: commonBarOptions // Agora commonBarOptions inclui a lógica de legenda personalizada
+                options: commonBarOptions
             });
 
             const conferenceCompositeData = {
