@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <title>Conferências Abertas de Optometria</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        /* Importação da fonte Hurme Geometric Sans (OpenType) */
+        @font-face {
+            font-family: 'Hurme Geometric Sans';
+            src: url('HurmeGeoSans/HurmeGeometricSans1.otf') format('opentype'); /* regular */
+            font-weight: normal;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'Hurme Geometric Sans';
+            src: url('HurmeGeoSans/HurmeGeometricSans1 Bold.otf') format('opentype'); /* Bold */
+            font-weight: bold;
+            font-style: normal;
+        }
+
+        body {
+            font-family: 'Hurme Geometric Sans', sans-serif; /* Aplica a fonte Hurme Geometric Sans */
+            background-image: url(fundo2.jpg); /* O seu fundo */
+            background-color: #1a202c; /* Cor de fundo escura como fallback */
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 1rem;
+        }
+        .container {
+            max-width: 900px;
+            width: 100%;
+            padding: 2rem;
+            display: flex;
+            flex-direction: column; /* Conteúdo principal e parceiros empilhados verticalmente */
+            gap: 1.5rem;
+        }
+        .logo-aplo {
+            max-width: 300px;
+            height: auto;
+            margin: 0 auto;
+        }
+        .partner-logo {
+            width: 135px; /* Dimensão fixa para a largura */
+            height: 75px; /* Dimensão fixa para a altura (ajuste conforme a proporção dos seus logos) */
+            object-fit: contain; /* Garante que a imagem se encaixa dentro das dimensões, mantendo a proporção */
+            margin: 1.25rem; /* Margem aumentada para os logos de parceiros (Gold, Silver, Bronze) */
+            opacity: 0.9; /* Reduz a opacidade */
+            transition: all 0.3s ease; /* Adiciona transição para hover */
+            background-color: transparent; /* Fundo transparente para o logo */
+        }
+        .partner-logo:hover {
+            filter: grayscale(0%); /* Restaura as cores no hover */
+            opacity: 1; /* Aumenta a opacidade no hover */
+            transform: scale(1.05); /* Pequeno zoom no hover */
+        }
+        
+        /* Estilos específicos para o logo do patrocinador DIAMOND */
+        .diamond-partner-logo {
+            width: 270px; /* Dimensão fixa para a largura */
+            height: 135px; /* Dimensão fixa para a altura (ajuste conforme a proporção do seu logo Diamond) */
+            object-fit: contain; /* Garante que a imagem se encaixa dentro das dimensões, mantendo a proporção */
+            margin: 1.75rem; /* Margem ligeiramente maior para o logo Diamond */
+            filter: grayscale(0%); /* Remove o filtro de cinzento */
+            opacity: 1; /* Remove a opacidade */
+        }
+        .diamond-partner-logo:hover {
+            transform: scale(1.1); /* Um zoom maior no hover para o Diamond */
+        }
+
+        .partners-section {
+            margin-top: 2rem; /* Espaçamento da secção de parceiros */
+            padding: 1.5rem; /* Adicionado padding para a caixa de parceiros */
+            background-color: rgba(255, 255, 255, 0.8); /* Fundo mais claro para a secção de parceiros */
+            border-radius: 1rem; /* Cantos arredondados para a caixa de parceiros */
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Sombra para a caixa de parceiros */
+            /* Removido border-top: 1px solid rgba(0, 0, 0, 0.1); */
+        }
+        .app-download-section {
+            background-color: #e0f2fe; /* Um azul claro para a secção da app */
+            padding: 2rem;
+            border-radius: 1.5rem;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            margin-top: 2rem;
+        }
+        .app-button {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            padding: 0.75rem 1.5rem;
+            border-radius: 0.75rem;
+            font-weight: 600;
+            color: white;
+            transition: background-color 0.3s ease, transform 0.2s ease;
+            text-decoration: none; /* Remove sublinhado dos links */
+            margin: 0.5rem;
+        }
+        .app-button:hover {
+            transform: translateY(-2px);
+        }
+        .app-button img {
+            height: 1.5rem; /* Tamanho do ícone */
+            margin-right: 0.75rem;
+        }
+        @media (min-width: 768px) {
+            .container {
+                flex-direction: column;
+                align-items: center;
+                padding: 3rem;
+            }
+            .main-content {
+                width: 100%;
+                text-align: center;
+                padding-right: 0;
+            }
+            .partners-section {
+                width: 100%;
+            }
+        }
+    </style>
+</head>
+<body class="bg-gray-900 text-gray-800">
+    <div class="container">
+        <!-- Conteúdo Principal do Cartaz -->
+        <div class="main-content text-center">
+            <div class="flex flex-col items-center mb-6">
+                <!-- Logótipo APLO - Usando o seu caminho de imagem -->
+                <img src="Logo APLO.png" alt="Logótipo APLO" class="logo-aplo mb-4">
+            </div>
+
+            <h2 class="text-5xl font-bold text-gray-100 mb-4 leading-tight">UMA NOVA ERA</h2>
+            <h3 class="text-3xl font-semibold text-gray-200 mb-6">CONFERÊNCIAS ABERTAS DE OPTOMETRIA</h3>
+
+            <div class="bg-blue-700 text-white p-6 rounded-xl shadow-lg mb-6">
+                <p class="text-2xl font-bold mb-2">XXI EDIÇÃO</p>
+                <p class="text-xl">18-19 OUT</p>
+            </div>
+
+            <div class="text-lg text-gray-200 mb-6">
+                <p class="font-semibold">MH Atlântico</p>
+                <p>Praia da Consolação | Peniche</p>
+            </div>
+        </div>
+
+        <!-- Nova Secção: Descarregar a App APLO -->
+        <div class="app-download-section">
+            <h4 class="text-3xl font-bold text-blue-800 mb-4">A App da APLO já está disponível!</h4>
+            <p class="text-lg text-gray-700 mb-6">
+                Para se inscrever nas conferências, <strong>instale a App</strong> e <strong>utilize o email no qual recebeu esta informação para recuperar o seu PIN.</strong> Só assim poderá aceder à inscrição no evento e workshops, consultar o programa completo, aceder a informações detalhadas do evento e muito mais!
+            </p>
+            <div class="flex flex-col sm:flex-row justify-center items-center gap-4">
+                <a href="#" class="app-button bg-black hover:bg-gray-800">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" alt="App Store" class="h-8 mr-2">
+                    App Store
+                </a>
+                <a href="#" class="app-button bg-green-600 hover:bg-green-700">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Google Play" class="h-8 mr-2">
+                    Google Play
+                </a>
+            </div>
+        </div>
+
+        <!-- Secção de Parceiros - Posicionada no fundo do container -->
+        <div class="partners-section w-full">
+            <h4 class="text-2xl font-bold text-gray-800 mb-6 text-center">PARCEIROS</h4>
+
+            <!-- Categoria DIAMOND -->
+            <div class="mb-8">
+                <h5 class="text-xl font-semibold text-blue-700 mb-4 text-center">DIAMOND</h5>
+                <div class="flex flex-wrap justify-center gap-4">
+                    <!-- 1 Logo DIAMOND -->
+                    <img src="partners/diamond/Optovision_logo_green.png" alt="Logo Diamond Partner" class="diamond-partner-logo">
+                </div>
+            </div>
+
+            <!-- Categoria GOLD -->
+            <div class="mb-8">
+                <h5 class="text-xl font-semibold text-yellow-600 mb-4 text-center">GOLD</h5>
+                <div class="flex flex-wrap justify-center gap-4">
+                    <!-- 5 Logos GOLD -->
+                    <img src="partners/gold/zeiss_square.png" alt="Logo Gold 1" class="partner-logo">
+                    <img src="partners/gold/i3o_square.png" alt="Logo Gold 2" class="partner-logo">
+                    <img src="partners/gold/EL_Logotype_black.png" alt="Logo Gold 3" class="partner-logo">
+                    <img src="partners/gold/Alcon_RGB.png" alt="Logo Gold 4" class="partner-logo">
+                    <img src="partners/gold/coopervision.png" alt="Logo Gold 5" class="partner-logo">
+                </div>
+            </div>
+
+            <!-- Categoria SILVER -->
+            <div class="mb-8">
+                <h5 class="text-xl font-semibold text-gray-500 mb-4 text-center">SILVER</h5>
+                <div class="flex flex-wrap justify-center gap-4">
+                    <!-- 8 Logos SILVER -->
+                    <img src="partners/silver/BL_square.png" alt="Logo Silver 1" class="partner-logo">
+                    <img src="partners/silver/CV_Principal_300x300px.jpg" alt="Logo Silver 2" class="partner-logo">
+                    <img src="partners/silver/HOYA_LOGO_VISIONARY_BLUE_PANTONE_2935C.jpg" alt="Logo Silver 3" class="partner-logo">
+                    <img src="partners/silver/gv_square.png" alt="Logo Silver 4" class="partner-logo">
+                    <img src="partners/silver/indo_square.jpg" alt="Logo Silver 5" class="partner-logo">
+                    <img src="partners/silver/optivisao_square.png" alt="Logo Silver 6" class="partner-logo">
+                    <img src="partners/silver/shamir_square.png" alt="Logo Silver 7" class="partner-logo">
+                    <img src="partners/silver/wells_square.png" alt="Logo Silver 8" class="partner-logo">
+                </div>
+            </div>
+
+            <!-- Categoria BRONZE -->
+            <div>
+                <h5 class="text-xl font-semibold text-amber-700 mb-4 text-center">BRONZE</h5>
+                <div class="flex flex-wrap justify-center gap-4">
+                    <!-- 5 Logos BRONZE -->
+                    <img src="partners/bronze/astuto_square.png" alt="Logo Bronze 1" class="partner-logo">
+                    <img src="partners/bronze/Cione_square.png" alt="Logo Bronze 2" class="partner-logo">
+                    <img src="partners/bronze/optometron_square.png" alt="Logo Bronze 3" class="partner-logo">
+                    <img src="partners/bronze/maisOptica_square.jpg" alt="Logo Bronze 4" class="partner-logo">
+                    <img src="partners/bronze/goldfarma.png" alt="Logo Bronze 5" class="partner-logo">
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
