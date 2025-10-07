@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jantar de Sábado - Ementa</title>
+    <!-- Carrega o Tailwind CSS para fácil estilização e responsividade -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        /* Define a fonte Inter (padrão) */
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+        
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #000;
+            /* Garante que o fundo cubra toda a área */
+        }
+        
+        .menu-container {
+            /* Define a imagem de fundo usando o ficheiro anexado (fundo.jpg) */
+            background-image: url('fundo.png'); 
+            background-size: cover; /* Cobre todo o container */
+            background-position: center; /* Centraliza a imagem */
+            background-attachment: fixed; /* Efeito parallax suave */
+            min-height: 100vh; /* Ocupa a altura total da tela */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+
+        .menu-card {
+            /* Fundo escuro com opacidade para melhorar a leitura do texto dourado sobre a imagem escura */
+            background-color: rgba(0, 0, 0, 0.50); 
+            backdrop-filter: blur(3px); /* Efeito de desfoque suave */
+            max-width: 600px;
+            width: 100%;
+            padding: 40px 30px;
+            /* Cor dourada para o texto */
+            color: #FFD700; 
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+            border: 2px solid #FFD700;
+        }
+
+        .golden-text {
+            color: #FFD700;
+            text-shadow: 0 0 5px rgba(255, 215, 0, 0.5);
+        }
+
+        .section-title {
+            font-size: 1.5rem;
+            font-weight: 700;
+            margin-top: 20px;
+            margin-bottom: 10px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            border-bottom: 1px solid rgba(255, 215, 0, 0.5);
+            padding-bottom: 5px;
+        }
+
+        .menu-item {
+            font-size: 1.1rem;
+            line-height: 1.8;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="menu-container">
+        <div class="menu-card rounded-xl">
+
+            <!-- Título Principal / Cabeçalho -->
+            <header class="text-center mb-10">
+                <h1 class="text-4xl sm:text-5xl font-extrabold mb-2 golden-text">
+                    Jantar - Ementa
+                </h1>
+                <p class="text-lg sm:text-xl font-medium golden-text">
+                    Sábado, 18 de Outubro, 21h00
+                </p>
+            </header>
+
+            <!-- Ementa - Entradas -->
+            <div class="mb-8">
+                <h2 class="section-title">Sopa</h2>
+                <p class="menu-item">
+                    <span class="font-semibold">Creme de Legumes</span> e croutons
+                </p>
+                <h2 class="section-title">Entrada</h2>
+                <p class="menu-item">
+                    <span class="font-semibold">Mini Folhado de Salmão</span> com maionese de lima
+                </p>
+            </div>
+
+            <!-- Ementa - Pratos Principais -->
+            <div class="mb-8">
+                <h2 class="section-title">Pratos Principais</h2>
+                
+                <!-- Prato de Peixe -->
+                <h3 class="text-lg font-bold golden-text mt-4 mb-1">Prato de Peixe</h3>
+                <p class="menu-item pl-4">
+                    <span class="font-semibold">Filete de Dourada</span> com molho Virgem e vegetais salteados
+                </p>
+
+                <!-- Prato de Carne -->
+                <h3 class="text-lg font-bold golden-text mt-4 mb-1">Prato de Carne</h3>
+                <p class="menu-item pl-4">
+                    <span class="font-semibold">Lombinho de Porco Preto</span> com batata salitrada e espargos
+                </p>
+            </div>
+
+            <!-- Ementa - Sobremesa -->
+            <div class="mb-8">
+                <h2 class="section-title">Sobremesa</h2>
+                <p class="menu-item">
+                    <span class="font-semibold">Pannacota Tropical</span>
+                </p>
+            </div>
+            
+            <!-- Ementa - Bebidas -->
+            <div class="mb-8">
+                <h2 class="section-title">Bebidas</h2>
+                <p class="menu-item">
+                    Água Mineral, Refrigerantes e Café Expresso
+                </p>
+                <p class="menu-item">
+                    Vinho <span class="font-semibold">Eclético Tinto e Branco</span>
+                </p>
+            </div>
+
+            <!-- Nota Adicional -->
+            <footer class="text-center pt-5 border-t border-t-amber-800">
+                <p class="text-base golden-text italic">
+                    Opção Vegan disponível (prato a definir)
+                </p>
+            </footer>
+
+        </div>
+    </div>
+
+</body>
+</html>
