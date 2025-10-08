@@ -1,0 +1,138 @@
+
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>XXI Conferências Abertas de Optometria</title>
+    <!-- Carrega o Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        /* Tipografia de estilo moderno (usando 'Oswald' para títulos grandes e 'Inter' para o corpo) */
+        @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Inter:wght@100..900&display=swap');
+        
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #000;
+        }
+        
+        .main-container {
+            /* Fundo utilizando a imagem em anexo (fundo.jpg) */
+            background-image: url('fundo.png'); 
+            background-size: cover; 
+            background-position: center; 
+            background-attachment: fixed; 
+            min-height: 100vh; 
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+
+        .overlay {
+            /* Camada escura e ligeiramente desfocada para garantir contraste, replicando o fundo da imagem do evento */
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.25); 
+            backdrop-filter: blur(2px);
+            z-index: 10;
+        }
+
+        .content {
+            z-index: 20; 
+            text-align: center;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            max-width: 90%;
+        }
+
+        /* Estilo do Título - Usando Oswald para replicar o estilo de texto arrojado e em maiúsculas */
+        .event-title {
+            font-family: 'Oswald', sans-serif;
+            color: #ffffff;
+            font-weight: 700;
+            line-height: 0.9;
+            /* Um subtil brilho ciano/azul para tema tecnológico/ótica */
+            text-shadow: 0 0 10px rgba(0, 255, 255, 0.5); 
+        }
+
+        /* Linhas verticais decorativas (elemento de design da imagem do evento) */
+        .decorative-line {
+            display: inline-block;
+            width: 3px;
+            height: 40px;
+            background-color: #B64B03; /* Laranja/Vermelho forte */
+            margin: 0 15px;
+            vertical-align: middle;
+        }
+
+        .menu-button {
+            /* Estilo do botão - Laranja/Vermelho forte, como a cor de destaque na imagem */
+            background-color: #B64B03; 
+            color: #ffffff;
+            padding: 18px 40px;
+            font-size: 1.25rem;
+            font-weight: 700;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 20px rgba(255, 87, 51, 0.6);
+            border: none;
+            width: 100%; 
+            max-width: 400px; /* Limite de largura para botões em desktop */
+        }
+        
+        .menu-button:hover {
+            background-color: #FF8C00;
+            color: #000000;
+            box-shadow: 0 8px 25px rgba(255, 140, 0, 1);
+            transform: translateY(-3px);
+        }
+
+        .subtitle-text {
+            color: #AAAAAA;
+            font-size: 0.9rem;
+            letter-spacing: 2px;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="main-container">
+        <div class="overlay"></div>
+        
+        <div class="content">
+
+            <!-- Título Principal com o estilo da imagem do evento -->
+            <h1 class="event-title text-3xl sm:text-4xl lg:text-5xl mb-4 uppercase tracking-tighter">
+                XXI CONFERÊNCIAS<br>ABERTAS DE OPTOMETRIA
+            </h1>
+            
+            <div class="flex items-center mb-12">
+                <span class="decorative-line h-6"></span>
+                <p class="text-xl text-white font-medium mx-4 tracking-wider">
+                    EMENTAS
+                </p>
+                <span class="decorative-line h-6"></span>
+            </div>
+
+            <!-- Botões de Navegação: Empilhados e Centrados -->
+            <div class="flex flex-col space-y-6 w-full max-w-xl items-center">
+                
+                <a href="jantar.html" class="menu-button rounded-lg hover:scale-[1.02]">
+                    JANTAR<br>(18 DE OUTUBRO)
+                </a>
+                
+                <a href="almoco.html" class="menu-button rounded-lg hover:scale-[1.02]">
+                    ALMOÇO BUFFET<br>(19 DE OUTUBRO)
+                </a>
+            </div>
+
+        </div>
+    </div>
+
+</body>
+</html>
