@@ -1,0 +1,186 @@
+<script type="text/javascript">
+        var gk_isXlsx = false;
+        var gk_xlsxFileLookup = {};
+        var gk_fileData = {};
+        function filledCell(cell) {
+          return cell !== '' && cell != null;
+        }
+        function loadFileData(filename) {
+        if (gk_isXlsx && gk_xlsxFileLookup[filename]) {
+            try {
+                var workbook = XLSX.read(gk_fileData[filename], { type: 'base64' });
+                var firstSheetName = workbook.SheetNames[0];
+                var worksheet = workbook.Sheets[firstSheetName];
+
+                // Convert sheet to JSON to filter blank rows
+                var jsonData = XLSX.utils.sheet_to_json(worksheet, { header: 1, blankrows: false, defval: '' });
+                // Filter out blank rows (rows where all cells are empty, null, or undefined)
+                var filteredData = jsonData.filter(row => row.some(filledCell));
+
+                // Heuristic to find the header row by ignoring rows with fewer filled cells than the next row
+                var headerRowIndex = filteredData.findIndex((row, index) =>
+                  row.filter(filledCell).length >= filteredData[index + 1]?.filter(filledCell).length
+                );
+                // Fallback
+                if (headerRowIndex === -1 || headerRowIndex > 25) {
+                  headerRowIndex = 0;
+                }
+
+                // Convert filtered JSON back to CSV
+                var csv = XLSX.utils.aoa_to_sheet(filteredData.slice(headerRowIndex)); // Create a new sheet from filtered array of arrays
+                csv = XLSX.utils.sheet_to_csv(csv, { header: 1 });
+                return csv;
+            } catch (e) {
+                console.error(e);
+                return "";
+            }
+        }
+        return gk_fileData[filename] || "";
+        }
+        </script><!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gerador de Diploma</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #f0f0f0;
+    }
+    .container {
+      text-align: center;
+      background: white;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    input, button {
+      padding: 10px;
+      margin: 10px;
+      font-size: 16px;
+    }
+    button {
+      background-color: #28a745;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #218838;
+    }
+    #message {
+      color: red;
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Gerador de Diploma</h1>
+    <input type="text" id="codeInput" placeholder="Digite seu código" />
+    <button onclick="generateDiploma()">Gerar Diploma</button>
+    <p id="message"></p>
+  </div>
+
+  <script>
+    // Simulação de banco de dados com códigos e nomes
+    const database = {
+      "ABC123": { name: "João Silva", course: "Desenvolvimento Web", date: "21/10/2025" },
+      "XYZ789": { name: "Maria Oliveira", course: "Design Gráfico", date: "21/10/2025" },
+      "DEF456": { name: "Carlos Souza", course: "Gestão de Projetos", date: "21/10/2025" }
+    };
+
+    function loadImage(url) {
+      return new Promise((resolve, reject) => {
+        const img = new Image();
+        img.onload = () => {
+          console.log("Imagem carregada com sucesso:", url);
+          resolve(img);
+        };
+        img.onerror = () => {
+          console.error("Erro ao carregar a imagem:", url);
+          reject(new Error("Falha ao carregar a imagem local em " + url));
+        };
+        img.src = url;
+      });
+    }
+
+    async function generateDiploma() {
+      const code = document.getElementById("codeInput").value.trim().toUpperCase();
+      const message = document.getElementById("message");
+
+      if (database[code]) {
+        const user = database[code];
+        message.textContent = "Carregando...";
+
+        // Caminho da imagem local na subpasta img
+        const imagePath = "fundo.jpg";
+
+        try {
+          console.log("Tentando carregar a imagem:", imagePath);
+          const img = await loadImage(imagePath);
+
+          // Verificar se a imagem foi carregada corretamente
+          if (!img || !img.complete || img.naturalWidth === 0) {
+            throw new Error("Imagem inválida ou não carregada corretamente");
+          }
+
+          // Gerar o PDF com jsPDF
+          console.log("Gerando PDF...");
+          const { jsPDF } = window.jspdf;
+          const doc = new jsPDF({
+            orientation: "landscape",
+            unit: "mm",
+            format: "a4"
+          });
+
+          // Adicionar a imagem de fundo
+          console.log("Adicionando imagem ao PDF...");
+          doc.addImage(img, "JPEG", 0, 0, 297, 210); // A4 paisagem: 297mm x 210mm
+
+          // Configurar o texto com letras brancas para contraste
+          doc.setTextColor(255, 255, 255); // Letras brancas
+          doc.setFont("Helvetica", "bold");
+          doc.setFontSize(24);
+          doc.text("DIPLOMA DE CONCLUSÃO", 148.5, 30, { align: "center" });
+
+          doc.setFontSize(16);
+          doc.setFont("Helvetica", "normal");
+          doc.text(`Certificamos que`, 148.5, 60, { align: "center" });
+          doc.setFont("Helvetica", "bold");
+          doc.text(user.name, 148.5, 75, { align: "center" });
+          doc.setFont("Helvetica", "normal");
+          doc.text(`concluiu com êxito o curso de`, 148.5, 90, { align: "center" });
+          doc.setFont("Helvetica", "bold");
+          doc.text(user.course, 148.5, 105, { align: "center" });
+          doc.setFont("Helvetica", "normal");
+          doc.text(`em ${user.date}.`, 148.5, 120, { align: "center" });
+
+          // Adicionar uma borda decorativa branca
+          doc.setLineWidth(1);
+          doc.setDrawColor(255, 255, 255); // Borda branca
+          doc.rect(10, 10, 277, 190);
+
+          // Salvar o PDF
+          console.log("Salvando PDF...");
+          doc.save(`Diploma_${user.name}.pdf`);
+          message.textContent = "PDF gerado com sucesso!";
+        } catch (error) {
+          console.error("Erro na geração do PDF:", error);
+          message.textContent = "Erro: " + error.message;
+        }
+      } else {
+        message.textContent = "Código inválido. Tente novamente.";
+      }
+    }
+  </script>
+</body>
+</html>
