@@ -225,7 +225,6 @@
         // Certificado ou Diploma
         doc.setFontSize(18);
         doc.setFont("Arial", "bold");
-        const nameLines = doc.splitTextToSize(user.nome, 260);
         doc.text("A Associação de Profissionais Licenciados de Optometria (APLO), entidade de utilidade pública, certifica que,", 148.5, 45, { align: "center" });
 
         // Nome do aluno (quebra linha automática para nomes longos)
@@ -237,7 +236,7 @@
         // Texto final
         doc.setFontSize(16);
         doc.setFont("Helvetica", "normal");
-        doc.text("concluiu com aproveitamento", 148.5, 85, { align: "center" });
+        doc.text("Participou como Conferencista nas XXI Conferências Abertas de Optometria, realizadas nos dias 18 e 19 de outubro de 2025, no Hotel MH Atlântico, em Peniche. A sua intervenção contribuiu de forma relevante para a promoção científica, técnica e ética da Optometria em Portugal", 148.5, 85, { align: "center" });
         
         doc.setFont("Helvetica", "bold");
         doc.text("CFCO Atribuídos: " + user.cfcos, 148.5, 130, { align: "center" });
