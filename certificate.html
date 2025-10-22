@@ -1,0 +1,229 @@
+<script type="text/javascript">
+        var gk_isXlsx = false;
+        var gk_xlsxFileLookup = {};
+        var gk_fileData = {};
+        function filledCell(cell) {
+          return cell !== '' && cell != null;
+        }
+        function loadFileData(filename) {
+        if (gk_isXlsx && gk_xlsxFileLookup[filename]) {
+            try {
+                var workbook = XLSX.read(gk_fileData[filename], { type: 'base64' });
+                var firstSheetName = workbook.SheetNames[0];
+                var worksheet = workbook.Sheets[firstSheetName];
+
+                // Convert sheet to JSON to filter blank rows
+                var jsonData = XLSX.utils.sheet_to_json(worksheet, { header: 1, blankrows: false, defval: '' });
+                // Filter out blank rows (rows where all cells are empty, null, or undefined)
+                var filteredData = jsonData.filter(row => row.some(filledCell));
+
+                // Heuristic to find the header row by ignoring rows with fewer filled cells than the next row
+                var headerRowIndex = filteredData.findIndex((row, index) =>
+                  row.filter(filledCell).length >= filteredData[index + 1]?.filter(filledCell).length
+                );
+                // Fallback
+                if (headerRowIndex === -1 || headerRowIndex > 25) {
+                  headerRowIndex = 0;
+                }
+
+                // Convert filtered JSON back to CSV
+                var csv = XLSX.utils.aoa_to_sheet(filteredData.slice(headerRowIndex)); // Create a new sheet from filtered array of arrays
+                csv = XLSX.utils.sheet_to_csv(csv, { header: 1 });
+                return csv;
+            } catch (e) {
+                console.error(e);
+                return "";
+            }
+        }
+        return gk_fileData[filename] || "";
+        }
+        </script><!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gerador de Diploma</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #f0f0f0;
+    }
+    .container {
+      text-align: center;
+      background: white;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    input, button {
+      padding: 10px;
+      margin: 10px;
+      font-size: 16px;
+    }
+    button {
+      background-color: #28a745;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #218838;
+    }
+    button:disabled {
+      background-color: #6c757d;
+      cursor: not-allowed;
+    }
+    #message {
+      color: red;
+      margin-top: 10px;
+    }
+    #loading {
+      color: #007bff;
+      display: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Gerador de Diploma</h1>
+    <input type="text" id="codeInput" placeholder="Digite o código (ex: 26878)" />
+    <button id="generateBtn" onclick="generateDiploma()" disabled>Gerar Diploma</button>
+    <p id="loading">Carregando base de dados...</p>
+    <p id="message"></p>
+    <p id="status"></p>
+  </div>
+
+  <script>
+    let database = [];
+    let isDatabaseLoaded = false;
+
+    // Carregar JSON automaticamente
+    async function loadDatabase() {
+      const loadingEl = document.getElementById('loading');
+      const statusEl = document.getElementById('status');
+      const btn = document.getElementById('generateBtn');
+      
+      loadingEl.style.display = 'block';
+      
+      try {
+        const response = await fetch('./data.json');
+        if (!response.ok) throw new Error('Arquivo data.json não encontrado');
+        
+        database = await response.json();
+        isDatabaseLoaded = true;
+        
+        loadingEl.style.display = 'none';
+        statusEl.textContent = `✅ Base de dados carregada: ${database.length} alunos`;
+        statusEl.style.color = '#28a745';
+        btn.disabled = false;
+        
+        console.log('Base de dados carregada:', database.length, 'registros');
+      } catch (error) {
+        loadingEl.style.display = 'none';
+        statusEl.textContent = '❌ Erro ao carregar data.json. Usando dados de teste.';
+        statusEl.style.color = '#dc3545';
+        btn.disabled = false;
+        
+        // Fallback para dados de teste
+        database = [
+          {"codigo": "26878", "nome": "Maria João Paulo Rato Alves", "cfcos": "10"},
+          {"codigo": "76138", "nome": "Cidália de Jesus Barros Ferreira", "cfcos": "10"},
+          {"codigo": "65686", "nome": "Helena Manuel Ferreira Montenegro de Andrade", "cfcos": "10"}
+        ];
+        isDatabaseLoaded = true;
+        console.log('Usando dados de teste (3 registros)');
+      }
+    }
+
+    async function generateDiploma() {
+      const code = document.getElementById("codeInput").value.trim();
+      const message = document.getElementById("message");
+      const btn = document.getElementById('generateBtn');
+
+      if (!isDatabaseLoaded) {
+        message.textContent = "Base de dados ainda carregando...";
+        return;
+      }
+
+      // Buscar aluno pelo código
+      const user = database.find(item => item.codigo === code);
+      
+      if (user) {
+        message.textContent = "Gerando diploma...";
+        btn.disabled = true;
+
+        // Gerar PDF com fundo roxo (sem imagem para evitar problemas)
+        const { jsPDF } = window.jspdf;
+        const doc = new jsPDF({
+          orientation: "landscape",
+          unit: "mm",
+          format: "a4"
+        });
+
+        // Fundo roxo escuro
+        doc.setFillColor(48, 0, 96);
+        doc.rect(0, 0, 297, 210, "F");
+
+        // Texto branco
+        doc.setTextColor(255, 255, 255);
+        
+        // Título
+        doc.setFont("Helvetica", "bold");
+        doc.setFontSize(28);
+        doc.text("DIPLOMA DE CONCLUSÃO", 148.5, 35, { align: "center" });
+
+        // Curso fixo (você pode alterar)
+        doc.setFontSize(18);
+        doc.setFont("Helvetica", "bold");
+        doc.text("CURSO DE FORMAÇÃO COMPLEMENTAR", 148.5, 60, { align: "center" });
+
+        // Nome do aluno
+        doc.setFontSize(20);
+        doc.setFont("Helvetica", "bold");
+        const lines = doc.splitTextToSize(user.nome, 260);
+        doc.text(lines, 148.5, 85, { align: "center" });
+
+        // Texto final
+        doc.setFontSize(16);
+        doc.setFont("Helvetica", "normal");
+        doc.text("concluiu com aproveitamento", 148.5, 115, { align: "center" });
+        doc.setFont("Helvetica", "bold");
+        doc.text("Nota Final: " + user.cfcos, 148.5, 130, { align: "center" });
+        doc.setFont("Helvetica", "normal");
+        doc.text("em 21/10/2025", 148.5, 145, { align: "center" });
+
+        // Borda branca
+        doc.setLineWidth(2);
+        doc.setDrawColor(255, 255, 255);
+        doc.rect(15, 15, 267, 180);
+
+        // Salvar PDF
+        doc.save(`Diploma_${user.nome.replace(/[^a-zA-Z0-9]/g, '_')}.pdf`);
+        message.textContent = `✅ Diploma gerado para ${user.nome}!`;
+        btn.disabled = false;
+      } else {
+        message.textContent = "Código não encontrado. Verifique o número.";
+      }
+    }
+
+    // Carregar base de dados ao iniciar
+    window.onload = () => {
+      loadDatabase();
+      
+      // Permitir Enter no input
+      document.getElementById('codeInput').addEventListener('keypress', function(e) {
+        if (e.key === 'Enter') {
+          generateDiploma();
+        }
+      });
+    };
+  </script>
+</body>
+</html>
