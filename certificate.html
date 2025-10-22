@@ -88,21 +88,53 @@
       color: #007bff;
       display: none;
     }
+    #status {
+      font-size: 14px;
+      margin-top: 10px;
+    }
+    .image-status {
+      font-size: 12px;
+      color: #6c757d;
+      margin-top: 5px;
+    }
   </style>
 </head>
 <body>
   <div class="container">
-    <h1>Gerador de Diploma</h1>
+    <h1>🎓 Gerador de Diploma</h1>
     <input type="text" id="codeInput" placeholder="Digite o código (ex: 26878)" />
     <button id="generateBtn" onclick="generateDiploma()" disabled>Gerar Diploma</button>
     <p id="loading">Carregando base de dados...</p>
     <p id="message"></p>
     <p id="status"></p>
+    <div id="imageStatus" class="image-status"></div>
   </div>
 
   <script>
     let database = [];
     let isDatabaseLoaded = false;
+    let backgroundImage = null;
+
+    // Função para carregar imagem de fundo
+    function loadBackgroundImage() {
+      return new Promise((resolve) => {
+        const img = new Image();
+        img.onload = () => {
+          console.log("✅ Imagem de fundo carregada com sucesso!");
+          backgroundImage = img;
+          document.getElementById('imageStatus').innerHTML = '🖼️ <strong>Imagem de fundo ativa</strong> (fundo.jpg)';
+          document.getElementById('imageStatus').style.color = '#28a745';
+          resolve(true);
+        };
+        img.onerror = () => {
+          console.log("⚠️ Imagem de fundo não encontrada. Usando fundo roxo elegante.");
+          document.getElementById('imageStatus').innerHTML = '🎨 <strong>Fundo roxo elegante</strong> (imagem não encontrada)';
+          document.getElementById('imageStatus').style.color = '#007bff';
+          resolve(false);
+        };
+        img.src = 'fundo.jpg';
+      });
+    }
 
     // Carregar JSON automaticamente
     async function loadDatabase() {
@@ -120,7 +152,7 @@
         isDatabaseLoaded = true;
         
         loadingEl.style.display = 'none';
-        statusEl.textContent = `✅ Base de dados carregada: ${database.length} alunos`;
+        statusEl.textContent = `✅ Base de dados: ${database.length} alunos`;
         statusEl.style.color = '#28a745';
         btn.disabled = false;
         
@@ -134,11 +166,9 @@
         // Fallback para dados de teste
         database = [
           {"codigo": "26878", "nome": "Maria João Paulo Rato Alves", "cfcos": "10"},
-          {"codigo": "76138", "nome": "Cidália de Jesus Barros Ferreira", "cfcos": "10"},
-          {"codigo": "65686", "nome": "Helena Manuel Ferreira Montenegro de Andrade", "cfcos": "10"}
+          {"codigo": "76138", "nome": "Cidália de Jesus Barros Ferreira", "cfcos": "10"}
         ];
         isDatabaseLoaded = true;
-        console.log('Usando dados de teste (3 registros)');
       }
     }
 
@@ -159,7 +189,6 @@
         message.textContent = "Gerando diploma...";
         btn.disabled = true;
 
-        // Gerar PDF com fundo roxo (sem imagem para evitar problemas)
         const { jsPDF } = window.jspdf;
         const doc = new jsPDF({
           orientation: "landscape",
@@ -167,55 +196,74 @@
           format: "a4"
         });
 
-        // Fundo roxo escuro
-        doc.setFillColor(48, 0, 96);
-        doc.rect(0, 0, 297, 210, "F");
+        // ✅ ADICIONAR IMAGEM DE FUNDO (se carregada)
+        if (backgroundImage) {
+          try {
+            doc.addImage(backgroundImage, "JPEG", 0, 0, 297, 210);
+            console.log("✅ Imagem de fundo adicionada ao PDF");
+          } catch (imgError) {
+            console.warn("⚠️ Erro ao adicionar imagem de fundo:", imgError);
+            // Fallback para fundo roxo
+            doc.setFillColor(48, 0, 96);
+            doc.rect(0, 0, 297, 210, "F");
+          }
+        } else {
+          // Fundo roxo elegante como fallback
+          doc.setFillColor(48, 0, 96);
+          doc.rect(0, 0, 297, 210, "F");
+          console.log("🎨 Usando fundo roxo elegante");
+        }
 
-        // Texto branco
+        // Texto BRANCO para contraste
         doc.setTextColor(255, 255, 255);
         
-        // Título
+        // Título principal
         doc.setFont("Helvetica", "bold");
         doc.setFontSize(28);
         doc.text("DIPLOMA DE CONCLUSÃO", 148.5, 35, { align: "center" });
 
-        // Curso fixo (você pode alterar)
+        // Curso
         doc.setFontSize(18);
         doc.setFont("Helvetica", "bold");
         doc.text("CURSO DE FORMAÇÃO COMPLEMENTAR", 148.5, 60, { align: "center" });
 
-        // Nome do aluno
+        // Nome do aluno (quebra linha automática para nomes longos)
         doc.setFontSize(20);
         doc.setFont("Helvetica", "bold");
-        const lines = doc.splitTextToSize(user.nome, 260);
-        doc.text(lines, 148.5, 85, { align: "center" });
+        const nameLines = doc.splitTextToSize(user.nome, 260);
+        doc.text(nameLines, 148.5, 85, { align: "center" });
 
         // Texto final
         doc.setFontSize(16);
         doc.setFont("Helvetica", "normal");
         doc.text("concluiu com aproveitamento", 148.5, 115, { align: "center" });
+        
         doc.setFont("Helvetica", "bold");
         doc.text("Nota Final: " + user.cfcos, 148.5, 130, { align: "center" });
+        
         doc.setFont("Helvetica", "normal");
         doc.text("em 21/10/2025", 148.5, 145, { align: "center" });
 
-        // Borda branca
+        // Borda branca decorativa
         doc.setLineWidth(2);
         doc.setDrawColor(255, 255, 255);
         doc.rect(15, 15, 267, 180);
 
         // Salvar PDF
-        doc.save(`Diploma_${user.nome.replace(/[^a-zA-Z0-9]/g, '_')}.pdf`);
+        const safeName = user.nome.replace(/[^a-zA-Z0-9\s]/g, '_').replace(/\s+/g, '_');
+        doc.save(`Diploma_${safeName}.pdf`);
+        
         message.textContent = `✅ Diploma gerado para ${user.nome}!`;
         btn.disabled = false;
       } else {
-        message.textContent = "Código não encontrado. Verifique o número.";
+        message.textContent = "❌ Código não encontrado. Verifique o número.";
       }
     }
 
-    // Carregar base de dados ao iniciar
-    window.onload = () => {
-      loadDatabase();
+    // Inicialização
+    window.onload = async () => {
+      await loadDatabase();
+      await loadBackgroundImage();
       
       // Permitir Enter no input
       document.getElementById('codeInput').addEventListener('keypress', function(e) {
