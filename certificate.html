@@ -238,11 +238,11 @@
         // Texto
         doc.setFontSize(16);
         doc.setFont("Arial", "normal");
-        const textoLongo2 = "Participou como Conferencista nas XXI Conferências Abertas de Optometria, realizadas nos dias 18 e 19 de outubro de 2025, no Hotel MH Atlântico, em Peniche. A sua intervenção contribuiu de forma relevante para a promoção científica, técnica e ética da Optometria em Portugal.";
+        const textoLongo2 = "Participou como Conferencista nas XXI Conferências Abertas de Optometria, realizadas nos dias 18 e 19 de outubro de 2025, no Hotel MH Atlântico, em Peniche, totalizando" + user.cfcos "Créditos de Formação Contínua em Optometria. A sua participação contribuiu de forma relevante para a promoção científica, técnica e ética da Optometria em Portugal.";
         const linhasTexto = doc.splitTextToSize(textoLongo2, 260);  // 260mm = largura máxima
-        doc.text(linhasCertificado, 148.5, 95, { align: "center" });
+        doc.text(linhasTexto, 148.5, 95, { align: "center" });
         
-        doc.setFont("Helvetica", "bold");
+        doc.setFont("Arial", "normal");
         doc.text("CFCO Atribuídos: " + user.cfcos, 148.5, 130, { align: "center" });
         
         doc.setFont("Helvetica", "normal");
