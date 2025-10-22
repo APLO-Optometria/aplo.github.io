@@ -122,7 +122,7 @@
         img.onload = () => {
           console.log("✅ Background Loaded");
           backgroundImage = img;
-          document.getElementById('imageStatus').innerHTML = '🖼️ <strong>Background Active</strong> (fundo.jpg)';
+          document.getElementById('imageStatus').innerHTML = '🖼️ <strong>Background Active</strong>';
           document.getElementById('imageStatus').style.color = '#28a745';
           resolve(true);
         };
@@ -218,28 +218,29 @@
         doc.setTextColor(255, 255, 255);
         
         // Título principal
-        doc.setFont("Helvetica", "bold");
+        doc.setFont("Arial", "bold");
         doc.setFontSize(28);
         doc.text("XXI CONFERÊNCIAS ABERTAS DE OPTOMETRIA", 148.5, 35, { align: "center" });
 
-        // Curso
+        // Certificado ou Diploma
         doc.setFontSize(18);
-        doc.setFont("Helvetica", "bold");
-        doc.text("CURSO DE FORMAÇÃO COMPLEMENTAR", 148.5, 60, { align: "center" });
+        doc.setFont("Arial", "bold");
+        const nameLines = doc.splitTextToSize(user.nome, 260);
+        doc.text("A Associação de Profissionais Licenciados de Optometria (APLO), entidade de utilidade pública, certifica que,", 148.5, 45, { align: "center" });
 
         // Nome do aluno (quebra linha automática para nomes longos)
         doc.setFontSize(20);
-        doc.setFont("Helvetica", "bold");
+        doc.setFont("Times", "italic");
         const nameLines = doc.splitTextToSize(user.nome, 260);
-        doc.text(nameLines, 148.5, 85, { align: "center" });
+        doc.text(nameLines, 148.5, 65, { align: "center" });
 
         // Texto final
         doc.setFontSize(16);
         doc.setFont("Helvetica", "normal");
-        doc.text("concluiu com aproveitamento", 148.5, 115, { align: "center" });
+        doc.text("concluiu com aproveitamento", 148.5, 85, { align: "center" });
         
         doc.setFont("Helvetica", "bold");
-        doc.text("Nota Final: " + user.cfcos, 148.5, 130, { align: "center" });
+        doc.text("CFCO Atribuídos: " + user.cfcos, 148.5, 130, { align: "center" });
         
         doc.setFont("Helvetica", "normal");
         doc.text("em 21/10/2025", 148.5, 145, { align: "center" });
