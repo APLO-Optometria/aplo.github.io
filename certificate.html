@@ -102,7 +102,7 @@
 <body>
   <div class="container">
     <h1>🎓 Gerador de Diploma</h1>
-    <input type="text" id="codeInput" placeholder="Digite o código (ex: 26878)" />
+    <input type="text" id="codeInput" placeholder="Código de Acesso (ex: 12345)" />
     <button id="generateBtn" onclick="generateDiploma()" disabled>Gerar Diploma</button>
     <p id="loading">Carregando base de dados...</p>
     <p id="message"></p>
@@ -120,15 +120,15 @@
       return new Promise((resolve) => {
         const img = new Image();
         img.onload = () => {
-          console.log("✅ Imagem de fundo carregada com sucesso!");
+          console.log("✅ Background Loaded");
           backgroundImage = img;
-          document.getElementById('imageStatus').innerHTML = '🖼️ <strong>Imagem de fundo ativa</strong> (fundo.jpg)';
+          document.getElementById('imageStatus').innerHTML = '🖼️ <strong>Background Active</strong> (fundo.jpg)';
           document.getElementById('imageStatus').style.color = '#28a745';
           resolve(true);
         };
         img.onerror = () => {
-          console.log("⚠️ Imagem de fundo não encontrada. Usando fundo roxo elegante.");
-          document.getElementById('imageStatus').innerHTML = '🎨 <strong>Fundo roxo elegante</strong> (imagem não encontrada)';
+          console.log("⚠️ Background Error. Plain Color PDF.");
+          document.getElementById('imageStatus').innerHTML = '🎨 <strong>Purple Background</strong> (imagem não encontrada)';
           document.getElementById('imageStatus').style.color = '#007bff';
           resolve(false);
         };
@@ -146,20 +146,20 @@
       
       try {
         const response = await fetch('./data.json');
-        if (!response.ok) throw new Error('Arquivo data.json não encontrado');
+        if (!response.ok) throw new Error('Database Error');
         
         database = await response.json();
         isDatabaseLoaded = true;
         
         loadingEl.style.display = 'none';
-        statusEl.textContent = `✅ Base de dados: ${database.length} alunos`;
+        statusEl.textContent = `✅ Database Loaded`;
         statusEl.style.color = '#28a745';
         btn.disabled = false;
         
-        console.log('Base de dados carregada:', database.length, 'registros');
+        console.log('Database Loaded');
       } catch (error) {
         loadingEl.style.display = 'none';
-        statusEl.textContent = '❌ Erro ao carregar data.json. Usando dados de teste.';
+        statusEl.textContent = '❌ Database Error';
         statusEl.style.color = '#dc3545';
         btn.disabled = false;
         
@@ -178,7 +178,7 @@
       const btn = document.getElementById('generateBtn');
 
       if (!isDatabaseLoaded) {
-        message.textContent = "Base de dados ainda carregando...";
+        message.textContent = "Database Still Loading...";
         return;
       }
 
@@ -186,7 +186,7 @@
       const user = database.find(item => item.codigo === code);
       
       if (user) {
-        message.textContent = "Gerando diploma...";
+        message.textContent = "Criando Diploma...";
         btn.disabled = true;
 
         const { jsPDF } = window.jspdf;
@@ -200,9 +200,9 @@
         if (backgroundImage) {
           try {
             doc.addImage(backgroundImage, "JPEG", 0, 0, 297, 210);
-            console.log("✅ Imagem de fundo adicionada ao PDF");
+            console.log("✅ Background Loaded");
           } catch (imgError) {
-            console.warn("⚠️ Erro ao adicionar imagem de fundo:", imgError);
+            console.warn("⚠️ Background Error", imgError);
             // Fallback para fundo roxo
             doc.setFillColor(48, 0, 96);
             doc.rect(0, 0, 297, 210, "F");
@@ -211,7 +211,7 @@
           // Fundo roxo elegante como fallback
           doc.setFillColor(48, 0, 96);
           doc.rect(0, 0, 297, 210, "F");
-          console.log("🎨 Usando fundo roxo elegante");
+          console.log("🎨 Purple Background");
         }
 
         // Texto BRANCO para contraste
@@ -220,7 +220,7 @@
         // Título principal
         doc.setFont("Helvetica", "bold");
         doc.setFontSize(28);
-        doc.text("DIPLOMA DE CONCLUSÃO", 148.5, 35, { align: "center" });
+        doc.text("XXI CONFERÊNCIAS ABERTAS DE OPTOMETRIA", 148.5, 35, { align: "center" });
 
         // Curso
         doc.setFontSize(18);
