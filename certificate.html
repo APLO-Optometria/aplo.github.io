@@ -218,13 +218,13 @@
         doc.setTextColor(255, 255, 255);
         
         // Título principal
-        doc.setFont("Arial", "bold");
+        doc.setFont("Helvetica", "bold");
         doc.setFontSize(28);
         doc.text("XXI CONFERÊNCIAS ABERTAS DE OPTOMETRIA", 148.5, 35, { align: "center" });
 
         // Certificado ou Diploma
         doc.setFontSize(18);
-        doc.setFont("Arial", "bold");
+        doc.setFont("Helvetica", "bold");
         const textoLongo = "A Associação de Profissionais Licenciados de Optometria (APLO), entidade de utilidade pública, certifica que,";
         const linhasCertificado = doc.splitTextToSize(textoLongo, 260);  // 260mm = largura máxima
         doc.text(linhasCertificado, 148.5, 55, { align: "center" });
@@ -237,7 +237,7 @@
 
         // Texto
         doc.setFontSize(16);
-        doc.setFont("Arial", "normal");
+        doc.setFont("Helvetica", "normal");
         const textoLongo2 = "Participou como Conferencista nas XXI Conferências Abertas de Optometria, realizadas nos dias 18 e 19 de outubro de 2025, em Peniche, totalizando " + user.cfcos + " Créditos de Formação Contínua em Optometria. A sua participação contribuiu de forma relevante para a promoção científica, técnica e ética da Optometria em Portugal.";
         const linhasTexto = doc.splitTextToSize(textoLongo2, 260);  // 260mm = largura máxima
         doc.text(linhasTexto, 148.5, 95, { align: "center" });
