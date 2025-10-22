@@ -225,20 +225,22 @@
         // Certificado ou Diploma
         doc.setFontSize(18);
         doc.setFont("Arial", "bold");
-        doc.splitTextToSize(user.nome, 260);
-        doc.text("A Associação de Profissionais Licenciados de Optometria (APLO), entidade de utilidade pública, certifica que,", 148.5, 45, { align: "center" });
+        const textoLongo = "A Associação de Profissionais Licenciados de Optometria (APLO), entidade de utilidade pública, certifica que,";
+        const linhasCertificado = doc.splitTextToSize(textoLongo, 260);  // 260mm = largura máxima
+        doc.text(linhasCertificado, 148.5, 55, { align: "center" });
 
         // Nome do aluno (quebra linha automática para nomes longos)
         doc.setFontSize(20);
         doc.setFont("Times", "italic");
         const nameLines = doc.splitTextToSize(user.nome, 260);
-        doc.text(nameLines, 148.5, 65, { align: "center" });
+        doc.text(nameLines, 148.5, 75, { align: "center" });
 
         // Texto final
         doc.setFontSize(16);
         doc.setFont("Arial", "normal");
-        doc.splitTextToSize(user.nome, 260);
-        doc.text("Participou como Conferencista nas XXI Conferências Abertas de Optometria, realizadas nos dias 18 e 19 de outubro de 2025, no Hotel MH Atlântico, em Peniche. A sua intervenção contribuiu de forma relevante para a promoção científica, técnica e ética da Optometria em Portugal", 148.5, 85, { align: "center" });
+        const textoLongo2 = "Participou como Conferencista nas XXI Conferências Abertas de Optometria, realizadas nos dias 18 e 19 de outubro de 2025, no Hotel MH Atlântico, em Peniche. A sua intervenção contribuiu de forma relevante para a promoção científica, técnica e ética da Optometria em Portugal.";
+        const linhasCertificado = doc.splitTextToSize(textoLongo2, 260);  // 260mm = largura máxima
+        doc.text(linhasCertificado, 148.5, 95, { align: "center" });
         
         doc.setFont("Helvetica", "bold");
         doc.text("CFCO Atribuídos: " + user.cfcos, 148.5, 130, { align: "center" });
