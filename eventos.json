@@ -1,14 +1,6 @@
 {
   "eventos": [
     {
-      "entidade": "APLO",
-      "evento": "Conf Abertas",
-      "tipo": "Formação",
-      "ano": "2026",
-      "cfco": "10",
-      "hiperligacao": "https://aplo.pt"
-    },
-    {
       "entidade": "Scleral Pro",
       "evento": "Scleral Pro – Curso de Lentes Esclerais",
       "tipo": "Formação",
