@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eventos CFCO</title>
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+</head>
+<body class="bg-slate-100">
+    <div class="max-w-2xl mx-auto mt-20 bg-white rounded-3xl shadow p-8">
+        <h1 class="text-3xl font-bold mb-8 text-center text-slate-800">Área Administrativa CAAP</h1>
+
+        <div id="loginScreen">
+            <p class="text-sm text-gray-500 mb-4 text-center">Insira a sua <b>password</b> para entrar.</p>
+            <input id="password" type="password" placeholder="password" 
+                   class="w-full px-5 py-4 border rounded-2xl mb-4 focus:ring-2 focus:ring-blue-500 outline-none">
+            <button onclick="login()" 
+                    class="w-full bg-blue-700 text-white py-4 rounded-2xl font-medium hover:bg-blue-800 transition shadow-lg">
+                Autenticar e Entrar
+            </button>
+        </div>
+
+        <div id="adminScreen" class="hidden">
+            <div class="flex justify-between items-center mb-6 pb-4 border-b">
+                <h2 class="text-xl font-semibold text-slate-700">Adicionar Novo Evento</h2>
+                <button onclick="logout()" class="text-red-500 text-sm font-medium hover:bg-red-50 p-2 rounded-lg transition">Sair</button>
+            </div>
+            
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                <div>
+                    <label class="text-xs font-bold text-gray-500 uppercase ml-1">Entidade</label>
+                    <input id="entidade" placeholder="Ex: APLO" class="w-full p-4 border rounded-xl mt-1 focus:ring-2 focus:ring-emerald-500 outline-none">
+                </div>
+                <div>
+                    <label class="text-xs font-bold text-gray-500 uppercase ml-1">Nome do Evento</label>
+                    <input id="evento" placeholder="Ex: Congresso XPTO" class="w-full p-4 border rounded-xl mt-1 focus:ring-2 focus:ring-emerald-500 outline-none">
+                </div>
+                <div>
+                    <label class="text-xs font-bold text-gray-500 uppercase ml-1">Tipo</label>
+                    <select id="tipo" class="w-full p-4 border rounded-xl bg-white mt-1">
+                        <option value="Formação">Formação</option>
+                        <option value="Evento">Evento</option>
+                        <option value="Congresso">Conferência</option>
+                        <option value="Evento">Curso</option>
+                        <option value="Congresso">Tutoria</option>
+                        <option value="Congresso">Webinar</option>
+                        <option value="Orador">Orador</option>
+                    </select>
+                </div>
+                <div>
+                    <label class="text-xs font-bold text-gray-500 uppercase ml-1">Ano</label>
+                    <input id="ano" placeholder="2025" class="w-full p-4 border rounded-xl mt-1">
+                </div>
+                <div>
+                    <label class="text-xs font-bold text-gray-500 uppercase ml-1">Créditos CFCO</label>
+                    <input id="cfco" placeholder="Ex: 5.5" class="w-full p-4 border rounded-xl mt-1">
+                </div>
+                <div>
+                    <label class="text-xs font-bold text-gray-500 uppercase ml-1">Hiperligação (URL)</label>
+                    <input id="link" placeholder="https://..." class="w-full p-4 border rounded-xl mt-1">
+                </div>
+            </div>
+
+            <button id="btnSave" onclick="addEvent()" 
+                    class="w-full mt-8 bg-emerald-600 text-white py-5 rounded-2xl font-bold hover:bg-emerald-700 transition shadow-md flex items-center justify-center gap-3 text-lg">
+                <i class="fas fa-cloud-upload-alt"></i> Publicar no Site
+            </button>
+            <p id="statusMsg" class="mt-4 text-center text-sm font-medium hidden"></p>
+        </div>
+    </div>
+
+    <script>
+        // Configuração do Repositório APLO
+        const OWNER = 'APLO-Optometria'; 
+        const REPO = 'aplo.github.io';   
+        const FILE_PATH = 'eventos.json';
+        
+        let GH_TOKEN = "";
+
+        function login() {
+            const pass = document.getElementById('password').value.trim();
+            // Verifica se o token tem o formato básico do GitHub (ghp_...)
+            if (pass.startsWith('ghp_') && pass.length > 30) {
+                GH_TOKEN = pass;
+                document.getElementById('loginScreen').classList.add('hidden');
+                document.getElementById('adminScreen').classList.remove('hidden');
+            } else {
+                alert("Token inválido! Certifique-se que copiou o código completo que começa por 'ghp_'.");
+            }
+        }
+
+        async function addEvent() {
+            const btn = document.getElementById('btnSave');
+            const status = document.getElementById('statusMsg');
+            
+            const novo = {
+                entidade: document.getElementById('entidade').value,
+                evento: document.getElementById('evento').value,
+                tipo: document.getElementById('tipo').value,
+                ano: document.getElementById('ano').value,
+                cfco: document.getElementById('cfco').value,
+                hiperligacao: document.getElementById('link').value
+            };
+
+            if (!novo.evento || !novo.entidade) {
+                alert("Erro: Preencha obrigatoriamente a Entidade e o Nome do Evento.");
+                return;
+            }
+
+            // Interface de carregamento
+            btn.disabled = true;
+            btn.innerHTML = '<i class="fas fa-circle-notch fa-spin"></i> A gravar no GitHub...';
+            status.className = "mt-4 text-center text-sm text-blue-600 font-bold";
+            status.innerText = "A ligar à API do GitHub...";
+            status.classList.remove('hidden');
+
+            try {
+                const url = `https://api.github.com/repos/${OWNER}/${REPO}/contents/${FILE_PATH}`;
+                
+                // 1. Obter o ficheiro atual
+                const res = await fetch(url, {
+                    headers: { 'Authorization': `token ${GH_TOKEN}` }
+                });
+                
+                if (!res.ok) throw new Error("Não foi possível aceder ao ficheiro. Verifique se o seu Token tem permissão 'repo'.");
+                
+                const fileData = await res.json();
+                
+                // Descodificar o conteúdo (Base64 -> String)
+                const contentText = decodeURIComponent(escape(atob(fileData.content)));
+                const jsonData = JSON.parse(contentText);
+                
+                // 2. Adicionar o novo evento no INÍCIO da lista (.unshift)
+                jsonData.eventos.unshift(novo);
+
+                status.innerText = "A atualizar o ficheiro eventos.json...";
+
+                // 3. Enviar a atualização (PUT)
+                const updateRes = await fetch(url, {
+                    method: 'PUT',
+                    headers: {
+                        'Authorization': `token ${GH_TOKEN}`,
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({
+                        message: `Admin: Adicionado evento "${novo.evento}" no topo`,
+                        content: btoa(unescape(encodeURIComponent(JSON.stringify(jsonData, null, 2)))),
+                        sha: fileData.sha
+                    })
+                });
+
+                if (updateRes.ok) {
+                    status.className = "mt-4 text-center text-sm text-emerald-600 font-bold";
+                    status.innerText = "✅ SUCESSO! O evento foi adicionado no topo.";
+                    alert("Sucesso! O evento foi gravado. O site atualizará em cerca de 60 segundos.");
+                    
+                    // Limpar formulário
+                    document.querySelectorAll('#adminScreen input').forEach(i => i.value = '');
+                } else {
+                    const err = await updateRes.json();
+                    throw new Error(err.message);
+                }
+
+            } catch (e) {
+                status.className = "mt-4 text-center text-sm text-red-600 font-bold";
+                status.innerText = "❌ ERRO: " + e.message;
+                console.error("Detalhes do erro:", e);
+            } finally {
+                btn.disabled = false;
+                btn.innerHTML = '<i class="fas fa-cloud-upload-alt"></i> Publicar no Site';
+            }
+        }
+
+        function logout() {
+            location.reload();
+        }
+    </script>
+</body>
+</html>
