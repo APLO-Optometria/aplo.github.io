@@ -1,0 +1,1172 @@
+{
+  "eventos": [
+    {
+      "entidade": "Scleral Pro",
+      "evento": "Scleral Pro – Curso de Lentes Esclerais",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "6",
+      "hiperligacao": ""
+    },
+    {
+      "entidade": "AECS",
+      "evento": "AECS Madrid2024: II Congreso de Contactologia y Superficie Ocular",
+      "tipo": "Evento",
+      "ano": "2025",
+      "cfco": "6",
+      "hiperligacao": "https://aecso.org/eventos/ii-congreso-aecso-2024/"
+    },
+    {
+      "entidade": "AECSO",
+      "evento": "AECSO III Congresso Valladolid LIVE’25",
+      "tipo": "Evento",
+      "ano": "2025",
+      "cfco": "4",
+      "hiperligacao": "https://aecso.org/wp-content/uploads/2025/05/PROGRAMA_aecso_2025-Provisional-1.pdf"
+    },
+    {
+      "entidade": "AECSO",
+      "evento": "AECSO III Congresso Valladolid LIVE’25",
+      "tipo": "Orador",
+      "ano": "2025",
+      "cfco": "6",
+      "hiperligacao": "https://aecso.org/wp-content/uploads/2025/05/PROGRAMA_aecso_2025-Provisional-1.pdf"
+    },
+    {
+      "entidade": "Alcon",
+      "evento": "Why to Opt for Water Surface Contact Lenses",
+      "tipo": "Formação",
+      "ano": "2026",
+      "cfco": "0.1",
+      "hiperligacao": "https://experienceacademy.myalcon.com/learn/learning-plans/306/contact-lenses"
+    },
+    {
+      "entidade": "Alcon",
+      "evento": "Understanding DAILIES TOTAL1 Water Surface Contact Lenses",
+      "tipo": "Formação",
+      "ano": "2026",
+      "cfco": "0.1",
+      "hiperligacao": "https://experienceacademy.myalcon.com/learn/learning-plans/306/contact-lenses"
+    },
+    {
+      "entidade": "Alcon",
+      "evento": "PRECISION 1 A Comprehensive Guide for Eye Care Professionals",
+      "tipo": "Formação",
+      "ano": "2026",
+      "cfco": "0.1",
+      "hiperligacao": "https://experienceacademy.myalcon.com/learn/learning-plans/306/contact-lenses"
+    },
+    {
+      "entidade": "Alcon",
+      "evento": "TOTAL30 Revolutionising Monthly Reusable Lenses",
+      "tipo": "Formação",
+      "ano": "2026",
+      "cfco": "0.1",
+      "hiperligacao": "https://experienceacademy.myalcon.com/learn/learning-plans/306/contact-lenses"
+    },
+    {
+      "entidade": "Alcon",
+      "evento": "Toric Contact Lenses Enhancing Vision in Astigmats",
+      "tipo": "Formação",
+      "ano": "2026",
+      "cfco": "0.1",
+      "hiperligacao": "https://experienceacademy.myalcon.com/learn/learning-plans/306/contact-lenses"
+    },
+    {
+      "entidade": "Alcon",
+      "evento": "Understanding Alcon´s Precision Balance 84 Lens Design for Astigmatism",
+      "tipo": "Formação",
+      "ano": "2026",
+      "cfco": "0.1",
+      "hiperligacao": "https://experienceacademy.myalcon.com/learn/learning-plans/306/contact-lenses"
+    },
+    {
+      "entidade": "Alcon",
+      "evento": "Toric Lenses Fitting Guide",
+      "tipo": "Formação",
+      "ano": "2026",
+      "cfco": "0.1",
+      "hiperligacao": "https://experienceacademy.myalcon.com/learn/learning-plans/306/contact-lenses"
+    },
+    {
+      "entidade": "Alcon",
+      "evento": "An intelligent Pupil Multifocal Design",
+      "tipo": "Formação",
+      "ano": "2026",
+      "cfco": "0.1",
+      "hiperligacao": "https://experienceacademy.myalcon.com/learn/learning-plans/306/contact-lenses"
+    },
+    {
+      "entidade": "Alcon",
+      "evento": "Actualización clínica en SUPERFICIE OCULAR y LENTES DE CONTACTO BLANDAS",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "10",
+      "hiperligacao": ""
+    },
+    {
+      "entidade": "Alcon",
+      "evento": "Anatomy and Physiology of the Eye",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "1",
+      "hiperligacao": "https://experienceacademy.myalcon.com/learn/learning-plans/238/anatomy-and-physiology-of-the-eye"
+    },
+    {
+      "entidade": "Alcon",
+      "evento": "Astigmatismo na era dos ecrãs: lentes de contacto tóricas e astenopia digital",
+      "tipo": "Evento",
+      "ano": "2025",
+      "cfco": "1",
+      "hiperligacao": ""
+    },
+    {
+      "entidade": "Alcon",
+      "evento": "Contact Lenses",
+      "tipo": "Formação",
+      "ano": "2026",
+      "cfco": "1.25",
+      "hiperligacao": "https://experienceacademy.myalcon.com/learn/learning-plans/306/contact-lenses"
+    },
+    {
+      "entidade": "Alcon",
+      "evento": "Dry Eye & Ocular Health",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "0.25",
+      "hiperligacao": "https://experienceacademy.myalcon.com/learn/learning-plans/47/dry-eye-ocular-health"
+    },
+    {
+      "entidade": "Alcon",
+      "evento": "Dry Eye Foundational Knowledge",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "0.25",
+      "hiperligacao": "https://experienceacademy.myalcon.com/learn/learning-plans/242/dry-eye-foundational-knowledge"
+    },
+    {
+      "entidade": "Alcon",
+      "evento": "Getting behind the Science of TOTAL30 Monthly Contact Lenses",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "0.5",
+      "hiperligacao": "https://experienceacademy.myalcon.com/learn/learning-plans/309/getting-behind-the-science-of-total30r-monthly-contact-lenses"
+    },
+    {
+      "entidade": "Alcon",
+      "evento": "Lentes de Contacto Toricas - Prof. Doutor José M.G.Méijome",
+      "tipo": "Webinar",
+      "ano": "2025",
+      "cfco": "1",
+      "hiperligacao": ""
+    },
+    {
+      "entidade": "Alcon",
+      "evento": "Lentes de Contacto Tóricas 26/06",
+      "tipo": "Evento",
+      "ano": "2025",
+      "cfco": "1",
+      "hiperligacao": ""
+    },
+    {
+      "entidade": "Alcon",
+      "evento": "Multifocal Fit Troubleshooting",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "0.25",
+      "hiperligacao": "https://experienceacademy.myalcon.com/learn/learning-plans/156/multifocal-fit-troubleshooting"
+    },
+    {
+      "entidade": "Alcon",
+      "evento": "Patient Identification & Selection Process",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "0.25",
+      "hiperligacao": "https://experienceacademy.myalcon.com/learn/learning-plans/233/patient-identification-selection-process"
+    },
+    {
+      "entidade": "Alcon",
+      "evento": "PDP - Plano Desenvolvimento Profissional",
+      "tipo": "Evento",
+      "ano": "2025",
+      "cfco": "5",
+      "hiperligacao": ""
+    },
+    {
+      "entidade": "Alcon",
+      "evento": "PDP7 (Madrid) - 11/12/2025",
+      "tipo": "Evento",
+      "ano": "2025",
+      "cfco": "2.25",
+      "hiperligacao": ""
+    },
+    {
+      "entidade": "APLO",
+      "evento": "IV Encontro APLO Jovem",
+      "tipo": "Evento",
+      "ano": "2025",
+      "cfco": "2",
+      "hiperligacao": ""
+    },
+    {
+      "entidade": "APLO",
+      "evento": "V Encontro APLO JOVEM",
+      "tipo": "Evento",
+      "ano": "2026",
+      "cfco": "2.5",
+      "hiperligacao": ""
+    },
+    {
+      "entidade": "ARBO",
+      "evento": "OE Tracker 2025",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "10",
+      "hiperligacao": "https://www.arbo.org/oetracker"
+    },
+    {
+      "entidade": "BAUSCH+LOMB",
+      "evento": "O futuro é Progressivo - ULTRA One Day Multifocal",
+      "tipo": "Evento",
+      "ano": "2026",
+      "cfco": "3",
+      "hiperligacao": ""
+    },
+    {
+      "entidade": "BAUSCH+LOMB",
+      "evento": "Multifocal Talks Sessão 1",
+      "tipo": "Evento",
+      "ano": "2025",
+      "cfco": "1",
+      "hiperligacao": ""
+    },
+    {
+      "entidade": "BAUSCH+LOMB",
+      "evento": "Multifocal Talks Sessão 2",
+      "tipo": "Evento",
+      "ano": "2025",
+      "cfco": "1",
+      "hiperligacao": ""
+    },
+    {
+      "entidade": "BAUSCH+LOMB",
+      "evento": "Multifocal Talks Sessão 3",
+      "tipo": "Evento",
+      "ano": "2025",
+      "cfco": "1",
+      "hiperligacao": ""
+    },
+    {
+      "entidade": "BAUSCH+LOMB",
+      "evento": "Multifocal Talks Sessão 4",
+      "tipo": "Evento",
+      "ano": "2025",
+      "cfco": "1",
+      "hiperligacao": ""
+    },
+    {
+      "entidade": "Champalimaud Foundation",
+      "evento": "Neuro-Ophthalmology: From Bench to Bedside and Back",
+      "tipo": "Evento",
+      "ano": "2025",
+      "cfco": "10",
+      "hiperligacao": "https://eventos.norahsevents.pt/geral/paginas.aspx?cod=813&lingua=en-GB"
+    },
+    {
+      "entidade": "CooperVision",
+      "evento": "CONFERÊNCIA RICARDO DINIZ. ERA DA TRASFORMAÇÃO.",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "0.25",
+      "hiperligacao": ""
+    },
+    {
+      "entidade": "CooperVision",
+      "evento": "Especialistas em tóricas",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "0.5",
+      "hiperligacao": "https://elearning.coopervision.pt/pt/training/webinar-especialistas-em-toricas/overview"
+    },
+    {
+      "entidade": "CooperVision",
+      "evento": "Evento de apresentação MyDay® multifocal",
+      "tipo": "Webinar",
+      "ano": "2025",
+      "cfco": "0.75",
+      "hiperligacao": "https://elearning.coopervision.pt/pt/training/evento-de-apresentacao-myday-multifocal/overview"
+    },
+    {
+      "entidade": "CooperVision",
+      "evento": "Formação de produto MyDay® Multifocal",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "0.75",
+      "hiperligacao": "https://elearning.coopervision.pt/pt/training/formacao-de-produto-myday-multifocal/overview"
+    },
+    {
+      "entidade": "CooperVision",
+      "evento": "Formação DreamLite®, lentes ortoqueratologia",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "0.5",
+      "hiperligacao": "https://elearning.coopervision.pt/pt/training/formacao-dreamliter-lentes-ortoqueratologia/overview"
+    },
+    {
+      "entidade": "CooperVision",
+      "evento": "MiSight® 1 day",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "1",
+      "hiperligacao": "https://elearning.coopervision.pt/pt/training/formacao-misight-1-day/overview"
+    },
+    {
+      "entidade": "CooperVision",
+      "evento": "MiSight® Spectacle Lenses",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "0.5",
+      "hiperligacao": "https://elearning.coopervision.pt/pt/training/misightr-spectacle-lenses/overview"
+    },
+    {
+      "entidade": "CooperVision",
+      "evento": "Reduzindo os abandonos",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "1",
+      "hiperligacao": "https://elearning.coopervision.pt/pt/training/webinar-reduzindo-os-abandonos/overview"
+    },
+    {
+      "entidade": "CooperVision",
+      "evento": "Virtual Perspectives 2024",
+      "tipo": "Webinar",
+      "ano": "",
+      "cfco": "1.5",
+      "hiperligacao": "https://hub.coopervision.com/wcc/eh/4406228/lp/4504903/virtual-perspectives-2024-episode-1-myopia-management-portugal"
+    },
+    {
+      "entidade": "Cybersight",
+      "evento": "2nd Strauss Simulation Symposium: Current & Accessible Technologies",
+      "tipo": "Webinar",
+      "ano": "2025",
+      "cfco": "1.5",
+      "hiperligacao": "https://cybersight.org/br/library/lecture-2nd-strauss-simulation-symposium-the-current-and-accessible-technologies-models-from-ai-simulation-online-learning-for-ophthalmic-surgical-training/"
+    },
+    {
+      "entidade": "Cybersight",
+      "evento": "A Practical and Evidenced-Based Approach To Vision Screening of Children",
+      "tipo": "Webinar",
+      "ano": "2025",
+      "cfco": "1",
+      "hiperligacao": "https://cybersight.org/pt-br/biblioteca/lecture-a-practical-and-evidenced-based-approach-to-vision-screening-of-children/"
+    },
+    {
+      "entidade": "Cybersight",
+      "evento": "A to Z of Ocular Surface Squamous Neoplasia",
+      "tipo": "Webinar",
+      "ano": "2025",
+      "cfco": "1",
+      "hiperligacao": "https://cybersight.org/library/lecture-a-to-z-of-ocular-surface-squamous-neoplasia/"
+    },
+    {
+      "entidade": "Cybersight",
+      "evento": "Advancing Gender Equality in Global Eye Health",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "2",
+      "hiperligacao": "https://learn.cybersight.org/"
+    },
+    {
+      "entidade": "Cybersight",
+      "evento": "An Approach to the Juvenile Patient With Glaucoma",
+      "tipo": "Formação",
+      "ano": "2024",
+      "cfco": "1",
+      "hiperligacao": "https://cybersight.org/pt-br/biblioteca/lecture-an-approach-to-the-juvenile-patient-with-glaucoma/"
+    },
+    {
+      "entidade": "Cybersight",
+      "evento": "An Introduction to Pediatric Eye Disease and Care",
+      "tipo": "Formação",
+      "ano": "2024",
+      "cfco": "1",
+      "hiperligacao": "https://learn.cybersight.org/"
+    },
+    {
+      "entidade": "Cybersight",
+      "evento": "Analyzing Complex Inherited Retinal Disease Cases",
+      "tipo": "Webinar",
+      "ano": "2025",
+      "cfco": "1",
+      "hiperligacao": "https://cybersight.org/library/lecture-analyzing-complex-inherited-retinal-disease-cases-five-interesting-patient-cases-you-dont-want-to-miss/"
+    },
+    {
+      "entidade": "Cybersight",
+      "evento": "Anophthalmia and Socket Reconstruction",
+      "tipo": "Webinar",
+      "ano": "2025",
+      "cfco": "1",
+      "hiperligacao": "https://www.youtube.com/watch?v=Hw53s4zrlaE&ab_channel=Cybersight"
+    },
+    {
+      "entidade": "Cybersight",
+      "evento": "Approach to the Management of Diabetic Macular Edema",
+      "tipo": "Webinar",
+      "ano": "2025",
+      "cfco": "1",
+      "hiperligacao": "https://cybersight.org/library/lecture-approach-to-the-management-of-diabetic-macular-edema/"
+    },
+    {
+      "entidade": "Cybersight",
+      "evento": "Approach to the Patient With Unexplained Visual Loss",
+      "tipo": "Webinar",
+      "ano": "2025",
+      "cfco": "1",
+      "hiperligacao": "https://cybersight.org/pt-br/biblioteca/lecture-approach-to-the-patient-with-unexplained-visual-loss/"
+    },
+    {
+      "entidade": "Cybersight",
+      "evento": "Assessment of Ptosis",
+      "tipo": "Webinar",
+      "ano": "2025",
+      "cfco": "0.75",
+      "hiperligacao": "https://cybersight.org/library/lecture-assessment-of-ptosis/"
+    },
+    {
+      "entidade": "Cybersight",
+      "evento": "Basics of Phacoemulsification",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "1",
+      "hiperligacao": "https://learn.cybersight.org/"
+    },
+    {
+      "entidade": "Cybersight",
+      "evento": "Cataract | Anterior Segment EyeQ Series",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "2",
+      "hiperligacao": "https://learn.cybersight.org/"
+    },
+    {
+      "entidade": "Cybersight",
+      "evento": "Clinical Nursing EyeQ",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "2",
+      "hiperligacao": "https://learn.cybersight.org/"
+    },
+    {
+      "entidade": "Cybersight",
+      "evento": "Complications in Glaucoma Surgery",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "1",
+      "hiperligacao": ""
+    },
+    {
+      "entidade": "Cybersight",
+      "evento": "Confidence in Practice – Myopia Management in Clinical Practice",
+      "tipo": "Webinar",
+      "ano": "2025",
+      "cfco": "1.25",
+      "hiperligacao": "https://cybersight.org/library/lecture-confidence-in-practice-myopia-management-in-clinical-practice/"
+    },
+    {
+      "entidade": "Cybersight",
+      "evento": "Congenital lacrimal disorders and Management",
+      "tipo": "Webinar",
+      "ano": "2025",
+      "cfco": "1",
+      "hiperligacao": "https://cybersight.org/library/lecture-congenital-lacrimal-disorders-and-management/"
+    },
+    {
+      "entidade": "Cybersight",
+      "evento": "Corneal Cross-Linking: Expert Insights and Current Protocols",
+      "tipo": "Webinar",
+      "ano": "2025",
+      "cfco": "1",
+      "hiperligacao": "https://cybersight.org/library/lecture-corneal-cross-linking-expert-insights-and-current-protocols-in-our-practice/"
+    },
+    {
+      "entidade": "Cybersight",
+      "evento": "Essentials of Neuro-Ophthalmology",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "3",
+      "hiperligacao": "https://learn.cybersight.org/"
+    },
+    {
+      "entidade": "Cybersight",
+      "evento": "Evaluation of the Pediatric Patient and the Adult Strabismus Patient",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "2",
+      "hiperligacao": "https://learn.cybersight.org/"
+    },
+    {
+      "entidade": "Cybersight",
+      "evento": "Eye Care: Essential Skills for Community Health Workers",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "2",
+      "hiperligacao": "https://learn.cybersight.org/"
+    },
+    {
+      "entidade": "Cybersight",
+      "evento": "Fundamentals of Diabetic Retinopathy",
+      "tipo": "Formação",
+      "ano": "2024",
+      "cfco": "6",
+      "hiperligacao": "https://learn.cybersight.org/"
+    },
+    {
+      "entidade": "Cybersight",
+      "evento": "Fundamentals of Glaucoma",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "4",
+      "hiperligacao": "https://learn.cybersight.org/"
+    },
+    {
+      "entidade": "Cybersight",
+      "evento": "Fundamentals of Motility",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "2",
+      "hiperligacao": "https://learn.cybersight.org/"
+    },
+    {
+      "entidade": "Cybersight",
+      "evento": "Fundamentals of MSICS",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "4",
+      "hiperligacao": "https://learn.cybersight.org/"
+    },
+    {
+      "entidade": "Cybersight",
+      "evento": "Fundamentals of Pediatric Ophthalmology and Strabismus",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "5",
+      "hiperligacao": "https://learn.cybersight.org/"
+    },
+    {
+      "entidade": "Cybersight",
+      "evento": "Fundamentals of Phacoemulsification",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "3.5",
+      "hiperligacao": "https://learn.cybersight.org/"
+    },
+    {
+      "entidade": "Cybersight",
+      "evento": "Fundamentals of Retinopathy of Prematurity",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "8",
+      "hiperligacao": "https://learn.cybersight.org/"
+    },
+    {
+      "entidade": "Cybersight",
+      "evento": "Genetics in an hour",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "1",
+      "hiperligacao": "https://learn.cybersight.org/"
+    },
+    {
+      "entidade": "Cybersight",
+      "evento": "Inherited Retinal Diseases (IRD) EyeQ",
+      "tipo": "Questionário",
+      "ano": "2025",
+      "cfco": "3",
+      "hiperligacao": "https://learn.cybersight.org/"
+    },
+    {
+      "entidade": "Cybersight",
+      "evento": "Ocular Genetics",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "4",
+      "hiperligacao": ""
+    },
+    {
+      "entidade": "Cybersight",
+      "evento": "Ophthalmic Nursing Fundamentals",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "5",
+      "hiperligacao": "https://learn.cybersight.org/"
+    },
+    {
+      "entidade": "Cybersight",
+      "evento": "Pediatric Glaucoma Essentials: Evaluation and Treatment",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "1.5",
+      "hiperligacao": "https://learn.cybersight.org/"
+    },
+    {
+      "entidade": "Cybersight",
+      "evento": "Refraction in Real World: Tips and Tricks for refracting your patients",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "1",
+      "hiperligacao": "https://cybersight.org/library/lecture-refraction-in-the-real-world-tips-and-tricks-for-refracting-your-patients/"
+    },
+    {
+      "entidade": "Cybersight",
+      "evento": "Uveitis: Diagnosis & Therapeutics",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "2",
+      "hiperligacao": "https://learn.cybersight.org/"
+    },
+    {
+      "entidade": "EAOO",
+      "evento": "EAOO 2025 Annual Conference, Ljubljana",
+      "tipo": "Conferência",
+      "ano": "2025",
+      "cfco": "2",
+      "hiperligacao": "https://www.eaoo2025.com/wp-content/uploads/2025/05/eaoo_programme_pdf.pdf"
+    },
+    {
+      "entidade": "Ergovisão",
+      "evento": "Jornadas das Ciências da Visão 2025",
+      "tipo": "Evento",
+      "ano": "2025",
+      "cfco": "4",
+      "hiperligacao": ""
+    },
+    {
+      "entidade": "GIO",
+      "evento": "THE GRADUATE INSTITUTE OF OPTOMETRY",
+      "tipo": "Curso",
+      "ano": "2025",
+      "cfco": "10",
+      "hiperligacao": "https://www.gio.co.za/"
+    },
+    {
+      "entidade": "Hoya",
+      "evento": "Controlo da Progressão da Miopia com lentes Oftalmicas",
+      "tipo": "Evento",
+      "ano": "2026",
+      "cfco": "2",
+      "hiperligacao": ""
+    },
+    {
+      "entidade": "Hoya",
+      "evento": "Visão Binocular na Prática Clinica: o que avaliar e como tratar",
+      "tipo": "Formação",
+      "ano": "2026",
+      "cfco": "4",
+      "hiperligacao": ""
+    },
+    {
+      "entidade": "Liquilentes",
+      "evento": "Fundamentos na Adaptação de Lentes de Contacto Hidrófilas Multifocais",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "1",
+      "hiperligacao": "https://www.liquilentes.com/forma%C3%A7%C3%B5es"
+    },
+    {
+      "entidade": "Liquilentes",
+      "evento": "Fundamentos na Adaptação de Lentes de Contacto Hidrófilas Tóricas",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "1",
+      "hiperligacao": "https://www.liquilentes.com/forma%C3%A7%C3%B5es"
+    },
+    {
+      "entidade": "Liquilentes",
+      "evento": "Gestão de Olho Seco",
+      "tipo": "Webinar",
+      "ano": "2025",
+      "cfco": "1",
+      "hiperligacao": "https://forms.gle/QsCK2tanu7z2hmSf8"
+    },
+    {
+      "entidade": "Liquilentes",
+      "evento": "Lentes de Contacto: Fundamentos e Anatomia da Superfície Ocular",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "1",
+      "hiperligacao": "https://www.liquilentes.com/forma%C3%A7%C3%B5es"
+    },
+    {
+      "entidade": "LVCOL",
+      "evento": "Low Vision Conference",
+      "tipo": "Evento",
+      "ano": "2025",
+      "cfco": "8",
+      "hiperligacao": "https://lvcol.org/"
+    },
+    {
+      "entidade": "Opto Visionarium",
+      "evento": "Ação de sensibilização sobre Autismo",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "2",
+      "hiperligacao": "https://optovisionarium.wordpress.com/e-learning/"
+    },
+    {
+      "entidade": "Opto Visionarium",
+      "evento": "Ambliopia",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "1",
+      "hiperligacao": "https://optovisionarium.wordpress.com/e-learning/"
+    },
+    {
+      "entidade": "Opto Visionarium",
+      "evento": "Lentes Esclerais",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "2",
+      "hiperligacao": "https://optovisionarium.wordpress.com/e-learning/"
+    },
+    {
+      "entidade": "Opto Visionarium",
+      "evento": "Olho Seco: Protocolos de tratamento",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "1",
+      "hiperligacao": "https://optovisionarium.wordpress.com/e-learning/"
+    },
+    {
+      "entidade": "Optoacademy",
+      "evento": "Curso de Especialización en Lentes de Contacto",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "10",
+      "hiperligacao": "https://optoacademy.com/cursos/"
+    },
+    {
+      "entidade": "U. Minho",
+      "evento": "CIOCV'2025",
+      "tipo": "Evento",
+      "ano": "2025",
+      "cfco": "10",
+      "hiperligacao": "https://ciocv.fisica.uminho.pt/"
+    },
+    {
+      "entidade": "U. Minho",
+      "evento": "Contactologia Avançada e Superfície Ocular (11ª Ed.)",
+      "tipo": "Evento",
+      "ano": "2025",
+      "cfco": "10",
+      "hiperligacao": "https://www.ecum.uminho.pt/pt/Ensino/Paginas/Contactologia-Avancada-e-Superficie-Ocular.aspx"
+    },
+    {
+      "entidade": "Valor Visão",
+      "evento": "Lentes Esclerais",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "5",
+      "hiperligacao": "https://docs.google.com/forms/d/e/1FAIpQLSc2Nd1wUtjxrxEgezDLZkiksCSrqLnxZJqQeG5TJj5IC79x7Q/viewform"
+    },
+    {
+      "entidade": "Valor Visão",
+      "evento": "Simplificar a Retinoscopia",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "6",
+      "hiperligacao": "https://www.instagram.com/p/DEqKvGOtudU/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+    },
+    {
+      "entidade": "Valor Visão",
+      "evento": "Prismas Gémeos",
+      "tipo": "Formação",
+      "ano": "2026",
+      "cfco": "5",
+      "hiperligacao": "https://forms.gle/PUuHMTVVwJ74RurZA"
+    },
+    {
+      "entidade": "Valor Visão",
+      "evento": "Avaliar a Acomodação",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "5",
+      "hiperligacao": ""
+    },
+    {
+      "entidade": "Valor Visão",
+      "evento": "Visão binocular na consulta de Optometria",
+      "tipo": "Webinar",
+      "ano": "2025",
+      "cfco": "5",
+      "hiperligacao": ""
+    },
+    {
+      "entidade": "Valor Visão",
+      "evento": "Visão, Postura & Prismas",
+      "tipo": "Formação",
+      "ano": "2026",
+      "cfco": "6",
+      "hiperligacao": ""
+    },
+    {
+      "entidade": "Valor Visão",
+      "evento": "Olho Seco 2026: Do Diagnóstico Estruturado à Terapêutica Personalizada",
+      "tipo": "Formação",
+      "ano": "2026",
+      "cfco": "1",
+      "hiperligacao": ""
+    },
+    {
+      "entidade": "WHO",
+      "evento": "An introduction to the people-centred approach to addressing antimicrobial resistance",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "1",
+      "hiperligacao": "https://www.who.int/health-topics/antimicrobial-resistance"
+    },
+    {
+      "entidade": "WHO",
+      "evento": "Health Emergencies Programme - Antimicrobial Stewardship",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "2.5",
+      "hiperligacao": "https://www.paho.org/en/documents/training-course-antimicrobial-stewardship-programmes-health-care-facilities-low-and"
+    },
+    {
+      "entidade": "Zeiss",
+      "evento": "Myopia Management & Beyond: Latest Updates from Clinical Trials",
+      "tipo": "Evento",
+      "ano": "2025",
+      "cfco": "2",
+      "hiperligacao": ""
+    },
+    {
+      "entidade": "Zeiss",
+      "evento": "Visão Moderna: a acomodação como aliado na prescrição",
+      "tipo": "Formação",
+      "ano": "2026",
+      "cfco": "5",
+      "hiperligacao": ""
+    },
+    {
+      "entidade": "U. Minho",
+      "evento": "Aprofundamento em Contactologia Avançada e Superficie Ocular",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "2",
+      "hiperligacao": "https://www.ecum.uminho.pt/pt/Ensino/Paginas/Contactologia-Avancada-e-Superficie-Ocular.aspx"
+    },
+    {
+      "entidade": "U. Minho",
+      "evento": "Digitalização nos Cuidados Primários da Saúde Visual",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "10",
+      "hiperligacao": "https://www.alianca.uminho.pt/pt/Portfolio/SaudeBemEstar/Paginas/Digitalizacao-Cuidados-Primarios-Visao.aspx"
+    },
+    {
+      "entidade": "U. Minho",
+      "evento": "Optometria Pediátrica: Como Avaliar, Aconselhar e Intervir",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "2",
+      "hiperligacao": ""
+    },
+    {
+      "entidade": "U.B.Interior",
+      "evento": "XV Coloquio de Optometria",
+      "tipo": "Evento",
+      "ano": "2025",
+      "cfco": "1.5",
+      "hiperligacao": ""
+    },
+    {
+      "entidade": "U.P. Catalunya",
+      "evento": "FOOT UPC: Jornadas de Contactología 2025",
+      "tipo": "Evento",
+      "ano": "2025",
+      "cfco": "5",
+      "hiperligacao": "https://www.talent.upc.edu/esp/estudis/formacio/curs/700700/curs-contactologia-abandonament-zero-lents-contacte/"
+    },
+    {
+      "entidade": "Univ. of Johannesburg",
+      "evento": "Ocular Therapeutics for Optometrists",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "10",
+      "hiperligacao": "https://www.uj.ac.za/university-courses/ocular-therapeutics-for-optometrists/"
+    },
+    {
+      "entidade": "OcularEyeCare",
+      "evento": "Binocularidade, Postura e Movimento",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "7",
+      "hiperligacao": ""
+    },
+    {
+      "entidade": "OcularEyeCare",
+      "evento": "Especialização em Olho Seco",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "7",
+      "hiperligacao": ""
+    },
+    {
+      "entidade": "OcularEyeCare",
+      "evento": "Tecnologia Aplicada à Prática Optométrica: Retina, Postura e Lentes Especiais",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "7",
+      "hiperligacao": ""
+    },
+    {
+      "entidade": "Opto Visionarium",
+      "evento": "Cefaleias",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "2",
+      "hiperligacao": "https://optovisionarium.wordpress.com/e-learning/"
+    },
+    {
+      "entidade": "Opto Visionarium",
+      "evento": "Desafios na contactologia avançada",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "1.5",
+      "hiperligacao": "https://optovisionarium.wordpress.com/e-learning/"
+    },
+    {
+      "entidade": "Opto Visionarium",
+      "evento": "Diplopia, Intervenção Optométrica",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "2",
+      "hiperligacao": "https://optovisionarium.wordpress.com/e-learning/"
+    },
+    {
+      "entidade": "Opto Visionarium",
+      "evento": "Optometria Desportiva",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "1",
+      "hiperligacao": "https://optovisionarium.wordpress.com/e-learning/"
+    },
+    {
+      "entidade": "Opto Visionarium",
+      "evento": "Queratoncone e lentes esclerais",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "1",
+      "hiperligacao": "https://optovisionarium.wordpress.com/e-learning/"
+    },
+    {
+      "entidade": "SportVision P.R.",
+      "evento": "Terapia & Treino Visual",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "5",
+      "hiperligacao": "https://www.instagram.com/p/DE0EUoHAkH1/"
+    },
+    {
+      "entidade": "SportVision P.R.",
+      "evento": "Visão Moderna: a acomodação como aliado na prescrição",
+      "tipo": "Formação",
+      "ano": "2026",
+      "cfco": "5",
+      "hiperligacao": ""
+    },
+    {
+      "entidade": "U. Minho",
+      "evento": "Contactum 2026",
+      "tipo": "Evento",
+      "ano": "2025",
+      "cfco": "2",
+      "hiperligacao": ""
+    },
+    {
+      "entidade": "IMC",
+      "evento": "19th International Myopia Conference",
+      "tipo": "Evento",
+      "ano": "2024",
+      "cfco": "2",
+      "hiperligacao": "https://www.internationalmyopiaconference.org/wp-content/uploads/2024/09/9-24-scaled.jpg"
+    },
+    {
+      "entidade": "Innova Optometria",
+      "evento": "ABC de la Terapia Visual",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "10",
+      "hiperligacao": "https://innovaoptometria.com/"
+    },
+    {
+      "entidade": "SCIMEA",
+      "evento": "2025 West China International Myopia Control and Eye Care Symposium",
+      "tipo": "Evento",
+      "ano": "2025",
+      "cfco": "8",
+      "hiperligacao": "https://research.polyu.edu.hk/en/activities/2025-west-china-international-myopia-control-and-eye-care-symposi/"
+    },
+    {
+      "entidade": "SEDOPTICA",
+      "evento": "BER2025",
+      "tipo": "Evento",
+      "ano": "2025",
+      "cfco": "6",
+      "hiperligacao": "https://ber.sedoptica.es/"
+    },
+    {
+      "entidade": "Siodec",
+      "evento": "Introducción a la Optometría Comportamental",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "6.5",
+      "hiperligacao": "https://www.siodec.org/en/acerca-de-sioderv"
+    },
+    {
+      "entidade": "U. Minho",
+      "evento": "Aprofundamento em Técnicas complementares de exame e Patologia Ocular",
+      "tipo": "Formação",
+      "ano": "2024",
+      "cfco": "2",
+      "hiperligacao": "https://www.ecum.uminho.pt/pt/Ensino/Paginas/Tecnicas-Complementares-de-Exame-e-Patologia-Ocular.aspx"
+    },
+    {
+      "entidade": "U. Minho",
+      "evento": "Práticas Externas Supervisionadas (80h)",
+      "tipo": "Tutoria",
+      "ano": "2025",
+      "cfco": "4",
+      "hiperligacao": "mailto:aqp@fisica.uminho.pt"
+    },
+    {
+      "entidade": "U. Minho",
+      "evento": "Técnicas Complementares de Exame e Patologia Ocular (5ª Ed.)",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "10",
+      "hiperligacao": "https://www.alianca.uminho.pt/pt/Portfolio/SaudeBemEstar/Paginas/Tecnicas-Complementares-Exame-Patologia-Ocular.aspx"
+    },
+    {
+      "entidade": "OcularEyeCare",
+      "evento": "Formação Retinoscopia",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "4",
+      "hiperligacao": ""
+    },
+    {
+      "entidade": "OcularEyeCare",
+      "evento": "Anatomia Funcional dos músculos extra-oculares",
+      "tipo": "Formação",
+      "ano": "2026",
+      "cfco": "1",
+      "hiperligacao": ""
+    },
+    {
+      "entidade": "Opto Visionarium",
+      "evento": "Baixa visão – o que devemos saber",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "0.5",
+      "hiperligacao": "https://optovisionarium.wordpress.com/e-learning/"
+    },
+    {
+      "entidade": "Opto Visionarium",
+      "evento": "Biometria Ocular",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "1.5",
+      "hiperligacao": "https://optovisionarium.wordpress.com/e-learning/"
+    },
+    {
+      "entidade": "Opto Visionarium",
+      "evento": "Desordens Córnea",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "1.5",
+      "hiperligacao": "https://optovisionarium.wordpress.com/e-learning/"
+    },
+    {
+      "entidade": "Opto Visionarium",
+      "evento": "Nutrição na Saúde Ocular",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "1",
+      "hiperligacao": "https://optovisionarium.wordpress.com/e-learning/"
+    },
+    {
+      "entidade": "Opto Visionarium",
+      "evento": "Topografia & Aberrometria Corneal",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "1",
+      "hiperligacao": "https://optovisionarium.wordpress.com/e-learning/"
+    },
+    {
+      "entidade": "WHO",
+      "evento": "Prevention of antimicrobial resistance and infection prevention and control",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "1",
+      "hiperligacao": "https://www.who.int/home/search-results?indexCatalogue=genericsearchindex1&searchQuery=Prevention%20of%20antimicrobial%20resistance%20and%20infection%20prevention%20and%20control&wordsMode=AnyWord"
+    },
+    {
+      "entidade": "IDF",
+      "evento": "Diabetic Retinopathy",
+      "tipo": "Formação",
+      "ano": "2024",
+      "cfco": "1",
+      "hiperligacao": "https://www.idfdiabeteschool.org/free-courses/diabetic-retinopathy"
+    },
+    {
+      "entidade": "Melborn University",
+      "evento": "Diabetic Retinopathy grading course",
+      "tipo": "Formação",
+      "ano": "2024",
+      "cfco": "10",
+      "hiperligacao": "https://mspgh.unimelb.edu.au/centres-institutes/onemda/research-group/ieh/training-e-news/training"
+    },
+    {
+      "entidade": "Neuroinsight",
+      "evento": "Congresso Neurociência, Mente e Comportamento",
+      "tipo": "Evento",
+      "ano": "2024",
+      "cfco": "5",
+      "hiperligacao": "https://neuroinsight.pt/"
+    },
+    {
+      "entidade": "OPTIFORUM",
+      "evento": "4ª Edição do FLE’24 (Fórum Lentes Especiais)",
+      "tipo": "Evento",
+      "ano": "2024",
+      "cfco": "5",
+      "hiperligacao": "https://www.optiforum.com/formacao"
+    },
+    {
+      "entidade": "TIEDRA",
+      "evento": "Cursos Tiedra Farmacéutica S.L.",
+      "tipo": "Formação",
+      "ano": "2024",
+      "cfco": "1",
+      "hiperligacao": "https://optica.tiedra.net/"
+    },
+    {
+      "entidade": "U. Minho",
+      "evento": "Prevalência, Progressão e Controlo de Miopia",
+      "tipo": "Evento",
+      "ano": "2024",
+      "cfco": "2",
+      "hiperligacao": "https://www.ecum.uminho.pt/pt/Ensino/Paginas/Prevalencia-Progressao-e-Controlo-da-Miopia.aspx"
+    },
+    {
+      "entidade": "UMinho",
+      "evento": "Inscrição Doutoramento",
+      "tipo": "Formação",
+      "ano": "2025",
+      "cfco": "10",
+      "hiperligacao": ""
+    }
+  ]
+}

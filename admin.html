@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin - APLO Formações</title>
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+</head>
+<body class="bg-slate-100">
+    <div class="max-w-2xl mx-auto mt-20 bg-white rounded-3xl shadow p-8">
+        <h1 class="text-3xl font-bold mb-8 text-center">Área Administrativa APLO</h1>
+
+        <div id="loginScreen">
+            <input id="password" type="password" placeholder="Introduza a password" 
+                   class="w-full px-5 py-4 border rounded-2xl mb-4">
+            <button onclick="login()" 
+                    class="w-full bg-blue-700 text-white py-4 rounded-2xl font-medium">Entrar</button>
+        </div>
+
+        <div id="adminScreen" class="hidden">
+            <h2 class="text-xl font-semibold mb-6">Adicionar Novo Evento</h2>
+            <div class="grid grid-cols-2 gap-4">
+                <input id="entidade" placeholder="Entidade" class="px-4 py-3 border rounded-xl">
+                <input id="evento" placeholder="Nome do Evento" class="px-4 py-3 border rounded-xl">
+                <input id="tipo" placeholder="Tipo (ex: Formação, Congresso)" class="px-4 py-3 border rounded-xl">
+                <input id="ano" placeholder="Ano" class="px-4 py-3 border rounded-xl">
+                <input id="cfco" placeholder="Créditos CFCO" class="px-4 py-3 border rounded-xl">
+                <input id="link" placeholder="Hiperligação completa" class="px-4 py-3 border rounded-xl col-span-2">
+            </div>
+            <button onclick="addEvent()" class="mt-6 w-full bg-emerald-600 text-white py-4 rounded-2xl font-medium">
+                Adicionar Evento
+            </button>
+
+            <div class="mt-10 text-center">
+                <button onclick="logout()" class="text-red-600 text-sm">Sair</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const PASSWORD = "aplo2026";   // ← Muda para uma password mais segura
+
+        function login() {
+            if (document.getElementById('password').value === PASSWORD) {
+                document.getElementById('loginScreen').classList.add('hidden');
+                document.getElementById('adminScreen').classList.remove('hidden');
+            } else {
+                alert("Password incorreta!");
+            }
+        }
+
+        async function addEvent() {
+            const novo = {
+                entidade: document.getElementById('entidade').value,
+                evento: document.getElementById('evento').value,
+                tipo: document.getElementById('tipo').value,
+                ano: document.getElementById('ano').value,
+                cfco: document.getElementById('cfco').value,
+                hiperligacao: document.getElementById('link').value
+            };
+
+            if (!novo.evento) {
+                alert("O nome do evento é obrigatório");
+                return;
+            }
+
+            try {
+                let res = await fetch('eventos.json');
+                let data = await res.json();
+                
+                data.eventos.push(novo);
+
+                // Simula save (na prática precisas de um backend simples ou usar GitHub + actions)
+                console.log("Novo evento adicionado:", novo);
+                alert("Evento adicionado com sucesso!\n\nNota: Nesta versão demo, os dados não são guardados permanentemente.\nPara guardar de verdade, precisamos de um pequeno backend ou usar GitHub.");
+
+                // Limpa formulário
+                document.querySelectorAll('#adminScreen input').forEach(i => i.value = '');
+            } catch(e) {
+                alert("Erro ao ler o ficheiro JSON");
+            }
+        }
+
+        function logout() {
+            location.reload();
+        }
+    </script>
+</body>
+</html>
