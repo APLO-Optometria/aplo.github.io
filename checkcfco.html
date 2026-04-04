@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Consulta CFCO 2026 | APLO</title>
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <style>
+        body { font-family: system-ui, -apple-system, sans-serif; }
+    </style>
+</head>
+<body class="bg-slate-50 min-h-screen">
+
+<nav class="bg-white border-b shadow-sm sticky top-0 z-50">
+    <div class="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
+        <div class="flex items-center gap-4">
+            <img src="logo_aplo.png" alt="Logo APLO" class="h-12 w-auto object-contain">
+            <div>
+                <h1 class="text-2xl font-semibold text-slate-800 leading-tight">Portal do Membro</h1>
+                <p id="lastUpdate" class="text-xs text-slate-500 italic">Verificando última atualização...</p>
+            </div>
+        </div>
+        <a href="admincfco.html" class="text-xs text-slate-400 hover:text-slate-600 transition-colors">
+            <i class="fas fa-lock mr-1"></i> Admin
+        </a>
+    </div>
+</nav>
+
+<div class="max-w-4xl mx-auto px-6 py-12">
+    <div id="searchBox" class="bg-white p-10 rounded-[40px] shadow-sm border border-slate-200 text-center">
+        <div class="w-16 h-16 bg-blue-50 text-blue-600 rounded-2xl flex items-center justify-center mx-auto mb-6 text-2xl">
+            <i class="fas fa-id-card"></i>
+        </div>
+        <h2 class="text-3xl font-bold text-slate-800 mb-2">Créditos CFCO 2026</h2>
+        <p class="text-slate-500 mb-10">Introduza o seu número de membro para consultar o registo individual deste ano.</p>
+        
+        <div class="flex flex-col md:flex-row gap-3 max-w-md mx-auto">
+            <input id="numMembro" type="text" placeholder="Nº de Membro" 
+                   class="flex-1 px-6 py-4 border-2 border-slate-100 rounded-2xl outline-none focus:border-blue-600 text-center text-xl font-bold transition-all">
+            <button onclick="consultar()" class="bg-blue-700 text-white px-10 py-4 rounded-2xl font-bold hover:bg-blue-800 transition shadow-lg active:scale-95">
+                Consultar
+            </button>
+        </div>
+    </div>
+
+    <div id="resultadoArea" class="hidden animate-in fade-in zoom-in duration-300">
+        <div class="flex justify-between items-end mb-8">
+            <div>
+                <p class="text-xs font-black text-blue-600 uppercase tracking-widest mb-1">Membro Identificado</p>
+                <h2 id="displayNum" class="text-4xl font-black text-slate-800"></h2>
+            </div>
+            <button onclick="location.reload()" class="bg-white border border-slate-200 px-4 py-2 rounded-xl text-xs font-bold text-slate-500 hover:bg-slate-50 transition">
+                <i class="fas fa-sync mr-2"></i> Nova Pesquisa
+            </button>
+        </div>
+
+        <div class="bg-slate-900 text-white p-10 rounded-[40px] shadow-xl flex flex-col md:flex-row justify-between items-center gap-8 mb-10">
+            <div>
+                <span class="bg-blue-600 text-[10px] px-3 py-1 rounded-full font-black uppercase">Ciclo Ativo</span>
+                <h3 class="text-4xl font-black mt-3">Ano Civil 2026</h3>
+                <p class="text-slate-400 text-sm mt-1">Registo oficial de formações acreditadas.</p>
+            </div>
+            <div class="text-center md:text-right">
+                <p class="text-slate-400 text-xs font-bold uppercase mb-2">Total Acumulado</p>
+                <div class="flex items-baseline justify-center md:justify-end gap-2">
+                    <span id="totalCFCO" class="text-7xl font-black text-emerald-400">0</span>
+                    <span class="text-emerald-400 font-bold text-xl uppercase tracking-tighter">CFCO</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="bg-white rounded-[32px] shadow-sm border border-slate-200 overflow-hidden">
+            <table class="w-full text-left">
+                <thead class="bg-slate-50 border-b">
+                    <tr>
+                        <th class="px-8 py-6 text-xs font-black text-slate-400 uppercase tracking-wider">Evento / Formação Acreditada</th>
+                        <th class="px-8 py-6 text-right text-xs font-black text-slate-400 uppercase tracking-wider">Créditos</th>
+                    </tr>
+                </thead>
+                <tbody id="listaEventos" class="divide-y divide-slate-50"></tbody>
+            </table>
+        </div>
+        <p class="text-center text-slate-400 text-xs mt-8 italic">Dados restritos ao ano civil de 2026. Para anos anteriores, contacte os serviços administrativos.</p>
+    </div>
+</div>
+
+<script>
+    const OWNER = 'APLO-Optometria';
+    const REPO = 'aplo.github.io';
+    const FILE_PATH = 'membros.json';
+
+    async function fetchLastUpdate() {
+        try {
+            const res = await fetch(`https://api.github.com/repos/${OWNER}/${REPO}/commits?path=${FILE_PATH}&per_page=1`);
+            const data = await res.json();
+            if(data.length > 0) {
+                const date = new Date(data[0].commit.committer.date);
+                document.getElementById('lastUpdate').innerText = "Atualizado em: " + date.toLocaleDateString('pt-PT');
+            }
+        } catch(e) { document.getElementById('lastUpdate').remove(); }
+    }
+
+    async function consultar() {
+        const num = document.getElementById('numMembro').value.trim();
+        if(!num) return;
+
+        try {
+            const res = await fetch(FILE_PATH + '?t=' + Date.now());
+            const data = await res.json();
+            
+            const meusDados = data.filter(d => String(d.NumeroMembro).trim() === num);
+
+            if(meusDados.length === 0) {
+                alert("Não foram encontrados registos para 2026 com este número de membro.");
+                return;
+            }
+
+            document.getElementById('searchBox').classList.add('hidden');
+            document.getElementById('resultadoArea').classList.remove('hidden');
+            document.getElementById('displayNum').innerText = "Nº " + num;
+
+            let total = 0;
+            const tbody = document.getElementById('listaEventos');
+            tbody.innerHTML = "";
+
+            meusDados.forEach(ev => {
+                const valor = parseFloat(String(ev.CFCO).replace(',', '.'));
+                total += isNaN(valor) ? 0 : valor;
+                tbody.innerHTML += `
+                    <tr class="hover:bg-slate-50 transition">
+                        <td class="px-8 py-6 font-bold text-slate-800">${ev.Evento}</td>
+                        <td class="px-8 py-6 text-right font-black text-emerald-600 text-2xl">+${ev.CFCO}</td>
+                    </tr>`;
+            });
+            document.getElementById('totalCFCO').innerText = total.toFixed(1).replace('.0', '');
+        } catch(e) { alert("Erro ao carregar dados. O ficheiro poderá ainda não existir."); }
+    }
+    window.onload = fetchLastUpdate;
+</script>
+</body>
+</html>

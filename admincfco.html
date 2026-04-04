@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <title>Admin Membros | APLO</title>
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+</head>
+<body class="bg-slate-100 min-h-screen flex items-center justify-center p-6">
+    <div class="max-w-lg w-full bg-white rounded-[40px] shadow-2xl p-10">
+        <h1 class="text-3xl font-black text-slate-800 mb-2">CAAP</h1>
+        <p class="text-slate-500 mb-8 font-medium">Importação de Créditos CFCO 2026</p>
+
+        <div id="loginStep" class="space-y-4">
+            <input id="token" type="password" placeholder="password" class="w-full p-5 border-2 border-slate-100 rounded-2xl outline-none focus:border-blue-600 font-mono">
+            <button onclick="document.getElementById('loginStep').classList.add('hidden'); document.getElementById('uploadStep').classList.remove('hidden');" 
+                    class="w-full bg-slate-900 text-white p-5 rounded-2xl font-bold hover:bg-black transition shadow-lg">Entrar</button>
+        </div>
+
+        <div id="uploadStep" class="hidden space-y-6 text-center">
+            <div class="border-4 border-dashed border-slate-100 rounded-3xl p-10 cursor-pointer hover:bg-slate-50 transition" onclick="document.getElementById('csvFile').click()">
+                <input type="file" id="csvFile" accept=".csv" class="hidden">
+                <span class="block font-bold text-slate-700">Selecionar ficheiro CSV</span>
+                <span class="text-xs text-slate-400">Só os dados de 2026 serão gravados.</span>
+            </div>
+            <button id="btnSave" onclick="processarCSV()" class="w-full bg-emerald-600 text-white p-5 rounded-2xl font-black shadow-lg">Publicar Agora</button>
+            <p id="status" class="text-sm font-bold"></p>
+        </div>
+    </div>
+
+    <script>
+        const OWNER = 'APLO-Optometria';
+        const REPO = 'aplo.github.io';
+        const FILE_PATH = 'membros.json';
+
+        async function processarCSV() {
+            const fileInput = document.getElementById('csvFile');
+            const token = document.getElementById('token').value.trim();
+            const status = document.getElementById('status');
+            if(!fileInput.files[0]) return alert("Selecione o ficheiro CSV.");
+
+            status.innerText = "⏳ Processando e filtrando...";
+            const reader = new FileReader();
+            reader.onload = async function(e) {
+                const text = e.target.result;
+                // Converter e Filtrar apenas 2026
+                const delimiter = text.includes(';') ? ';' : ',';
+                const lines = text.split(/\r?\n/);
+                const headers = lines[0].split(delimiter).map(h => h.trim());
+                const result = [];
+
+                for(let i=1; i<lines.length; i++) {
+                    if(!lines[i].trim()) continue;
+                    const obj = {};
+                    const current = lines[i].split(delimiter);
+                    headers.forEach((h, j) => obj[h] = current[j] ? current[j].trim() : "");
+                    
+                    if(String(obj.Ano) === "2026") result.push(obj);
+                }
+
+                if(result.length === 0) { status.innerText = "❌ Erro: Nenhum dado de 2026 encontrado."; return; }
+
+                try {
+                    const url = `https://api.github.com/repos/${OWNER}/${REPO}/contents/${FILE_PATH}`;
+                    let sha = "";
+                    const check = await fetch(url, { headers: {'Authorization': `token ${token}`} });
+                    if(check.ok) { const d = await check.json(); sha = d.sha; }
+
+                    const res = await fetch(url, {
+                        method: 'PUT',
+                        headers: { 'Authorization': `token ${token}`, 'Content-Type': 'application/json' },
+                        body: JSON.stringify({
+                            message: "Upload membros 2026",
+                            content: btoa(unescape(encodeURIComponent(JSON.stringify(result, null, 2)))),
+                            sha: sha
+                        })
+                    });
+                    if(res.ok) { status.className="text-emerald-600"; status.innerText="✅ SUCESSO!"; }
+                } catch(err) { status.innerText="❌ Erro na API."; }
+            };
+            reader.readAsText(fileInput.files[0]);
+        }
+    </script>
+</body>
+</html>
