@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Consulta CFCO 2026 | APLO</title>
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <style>
+        body { font-family: system-ui, -apple-system, sans-serif; }
+        .animate-fade-in { animation: fadeIn 0.4s ease-out; }
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+    </style>
+</head>
+<body class="bg-slate-50 min-h-screen">
+
+<nav class="bg-white border-b shadow-sm sticky top-0 z-50">
+    <div class="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
+        <div class="flex items-center gap-4">
+            <img src="logo_aplo.png" alt="Logo APLO" class="h-12 w-auto object-contain">
+            <div>
+                <h1 class="text-2xl font-semibold text-slate-800 leading-tight">Portal do Membro</h1>
+                <p id="lastUpdate" class="text-xs text-slate-500 italic font-medium">Sincronizando dados...</p>
+            </div>
+        </div>
+        <div class="flex items-center gap-4">
+             <span class="hidden md:inline text-[10px] bg-slate-100 text-slate-500 px-3 py-1 rounded-full font-bold uppercase tracking-widest">Consulta Individual</span>
+             <a href="admin_membros.html" class="text-slate-400 hover:text-slate-600 transition-colors" title="Área Administrativa">
+                <i class="fas fa-lock text-sm"></i>
+            </a>
+        </div>
+    </div>
+</nav>
+
+<div class="max-w-4xl mx-auto px-6 py-12">
+    <div id="searchBox" class="bg-white p-10 md:p-16 rounded-[40px] shadow-sm border border-slate-200 text-center animate-fade-in">
+        <div class="w-20 h-20 bg-blue-50 text-blue-600 rounded-3xl flex items-center justify-center mx-auto mb-8 text-3xl shadow-inner">
+            <i class="fas fa-user-check"></i>
+        </div>
+        <h2 class="text-3xl font-black text-slate-800 mb-3 tracking-tight">Meus Créditos 2026</h2>
+        <p class="text-slate-500 mb-10 max-w-sm mx-auto leading-relaxed">Introduza o seu número de membro para verificar a listagem oficial de formações e eventos deste ano.</p>
+        
+        <div class="flex flex-col md:flex-row gap-4 max-w-md mx-auto">
+            <input id="numMembro" type="text" inputmode="numeric" placeholder="Nº de Membro" 
+                   class="flex-1 px-8 py-5 border-2 border-slate-100 rounded-2xl outline-none focus:border-blue-600 text-center text-2xl font-black text-slate-700 transition-all placeholder:text-slate-300 shadow-sm"
+                   onkeypress="if(event.key === 'Enter') consultar()">
+            <button onclick="consultar()" class="bg-blue-700 text-white px-10 py-5 rounded-2xl font-black hover:bg-blue-800 transition shadow-lg active:scale-95 text-lg uppercase tracking-wide">
+                Entrar
+            </button>
+        </div>
+        <p class="mt-8 text-slate-300 text-[10px] uppercase font-bold tracking-widest">Apenas registos de 2026</p>
+    </div>
+
+    <div id="resultadoArea" class="hidden animate-fade-in">
+        <div class="flex justify-between items-center mb-8">
+            <div>
+                <p class="text-[10px] font-black text-blue-600 uppercase tracking-[0.2em] mb-1">Cédula Profissional</p>
+                <h2 id="displayNum" class="text-4xl font-black text-slate-800"></h2>
+            </div>
+            <button onclick="location.reload()" class="bg-slate-100 hover:bg-slate-200 px-5 py-3 rounded-2xl text-xs font-black text-slate-500 transition-all uppercase tracking-tighter">
+                <i class="fas fa-sign-out-alt mr-2"></i> Nova Consulta
+            </button>
+        </div>
+
+        <div class="bg-slate-900 text-white p-10 md:p-14 rounded-[50px] shadow-2xl flex flex-col md:flex-row justify-between items-center gap-10 mb-10 relative overflow-hidden">
+            <div class="relative z-10 text-center md:text-left">
+                <span class="bg-emerald-500 text-white text-[10px] px-4 py-1.5 rounded-full font-black uppercase tracking-widest shadow-lg">Ciclo Ativo</span>
+                <h3 class="text-5xl font-black mt-4 tracking-tighter">Ano 2026</h3>
+                <p class="text-slate-400 text-sm mt-2 font-medium">Contagem atualizada de créditos CFCO.</p>
+            </div>
+            <div class="relative z-10 text-center md:text-right">
+                <p class="text-slate-500 text-[10px] font-black uppercase tracking-[0.3em] mb-2">Total de Créditos</p>
+                <div class="flex items-baseline justify-center md:justify-end gap-3">
+                    <span id="totalCFCO" class="text-8xl font-black text-emerald-400 leading-none">0</span>
+                    <span class="text-emerald-400 font-black text-2xl uppercase tracking-tighter">CFCO</span>
+                </div>
+            </div>
+            <div class="absolute -right-10 -bottom-10 w-40 h-40 bg-blue-600 rounded-full blur-[80px] opacity-20"></div>
+        </div>
+
+        <div class="bg-white rounded-[40px] shadow-sm border border-slate-200 overflow-hidden">
+            <table class="w-full text-left">
+                <thead class="bg-slate-50/50 border-b border-slate-100 text-slate-400 text-[11px] font-black uppercase tracking-widest">
+                    <tr>
+                        <th class="px-10 py-6">Evento / Formação</th>
+                        <th class="px-10 py-6 text-right">Créditos</th>
+                    </tr>
+                </thead>
+                <tbody id="listaEventos" class="divide-y divide-slate-50 font-medium text-slate-700">
+                </tbody>
+            </table>
+        </div>
+        
+        <div class="mt-10 p-8 border-2 border-dashed border-slate-200 rounded-[30px] text-center">
+            <p class="text-slate-400 text-xs leading-relaxed italic">
+                Informação extraída do sistema central da APLO. <br>
+                Apenas são exibidos registos confirmados para o ano civil de 2026.
+            </p>
+        </div>
+    </div>
+</div>
+
+<script>
+    // Configurações do Repositório
+    const OWNER = 'APLO-Optometria';
+    const REPO = 'aplo.github.io';
+    const FILE_PATH = 'https://github.com/APLO-Optometria/aplo.github.io/blob/main/membros.json';
+
+    // 1. Verificar data da última atualização no GitHub (API pública)
+    async function fetchLastUpdate() {
+        try {
+            const res = await fetch(`https://api.github.com/repos/${OWNER}/${REPO}/commits?path=${FILE_PATH}&per_page=1`);
+            const data = await res.json();
+            if(data.length > 0) {
+                const date = new Date(data[0].commit.committer.date);
+                const formatada = date.toLocaleDateString('pt-PT', { day: '2-digit', month: '2-digit', year: 'numeric' });
+                const hora = date.toLocaleTimeString('pt-PT', { hour: '2-digit', minute: '2-digit' });
+                document.getElementById('lastUpdate').innerText = `Atualizado: ${formatada} às ${hora}`;
+            } else {
+                document.getElementById('lastUpdate').innerText = "Registo Inicial";
+            }
+        } catch(e) { 
+            document.getElementById('lastUpdate').innerText = "Ciclo 2026 Ativo"; 
+        }
+    }
+
+    // 2. Lógica Principal de Consulta
+    async function consultar() {
+        const numInput = document.getElementById('numMembro').value.trim();
+        if(!numInput) {
+            alert("Por favor, introduza o seu número de membro.");
+            return;
+        }
+
+        const btn = document.querySelector('button');
+        const originalBtnText = btn.innerText;
+        btn.innerText = "Buscando...";
+        btn.disabled = true;
+
+        try {
+            const fetchURL = FILE_PATH + '?v=' + new Date().getTime();
+            console.log("Tentando ler:", fetchURL); // Debug para veres na consola
+            
+            const response = await fetch(fetchURL);
+            
+            if(!response.ok) {
+                throw new Error("O arquivo não foi encontrado no servidor (Erro " + response.status + ")");
+            }
+            
+            const data = await response.json();
+            
+            // FILTRO ROBUSTO: Remove espaços e garante comparação de Strings
+            const resultados = data.filter(item => {
+                const numMembroFicheiro = String(item.NumeroMembro).trim();
+                return numMembroFicheiro === String(numInput);
+            });
+
+            if(resultados.length === 0) {
+                alert("Não foram encontrados registos para o número " + numInput + " no ano de 2026.");
+                btn.innerText = originalBtnText;
+                btn.disabled = false;
+                return;
+            }
+
+            // MUDANÇA DE ECRÃ
+            document.getElementById('searchBox').classList.add('hidden');
+            document.getElementById('resultadoArea').classList.remove('hidden');
+            document.getElementById('displayNum').innerText = numInput;
+
+            let somaTotal = 0;
+            const tabelaBody = document.getElementById('listaEventos');
+            tabelaBody.innerHTML = "";
+
+            resultados.forEach(evento => {
+                // Trata a pontuação (converte vírgula em ponto se necessário)
+                const valorLimpo = String(evento.CFCO).replace(',', '.');
+                const valorNum = parseFloat(valorLimpo);
+                somaTotal += isNaN(valorNum) ? 0 : valorNum;
+                
+                tabelaBody.innerHTML += `
+                    <tr class="hover:bg-slate-50/80 transition-colors">
+                        <td class="px-10 py-7">
+                            <div class="font-bold text-slate-800 text-lg">${evento.Evento}</div>
+                            <div class="text-[10px] text-slate-400 font-bold uppercase tracking-tighter mt-1">Acreditado em 2026</div>
+                        </td>
+                        <td class="px-10 py-7 text-right">
+                            <div class="font-black text-emerald-600 text-3xl tracking-tighter">+${evento.CFCO}</div>
+                        </td>
+                    </tr>`;
+            });
+
+            // Exibe o total formatado
+            document.getElementById('totalCFCO').innerText = somaTotal.toFixed(1).replace('.0', '');
+
+        } catch(error) {
+            console.error("Erro na consulta:", error);
+            alert("Erro ao aceder à base de dados. Tente novamente em alguns minutos.");
+        } finally {
+            btn.innerText = originalBtnText;
+            btn.disabled = false;
+        }
+    }
+
+    // Inicialização
+    window.onload = fetchLastUpdate;
+</script>
+</body>
+</html>
