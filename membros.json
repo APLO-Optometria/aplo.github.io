@@ -16,5 +16,17 @@
     "Evento": "Webinar Visão Infantil",
     "Ano": "2026",
     "CFCO": "2.5"
+  },
+  {
+    "NumeroMembro": "347",
+    "Evento": "Teste agora",
+    "Ano": "2026",
+    "CFCO": "5.3"
+  },
+  {
+    "NumeroMembro": "347",
+    "Evento": "teste virgula",
+    "Ano": "2026",
+    "CFCO": "5,6"
   }
 ]
