@@ -2595,49 +2595,49 @@
     "NumeroMembro": "S4Z0",
     "Evento": "Liquilentes - Venda de benefícios em contactologia",
     "Ano": "2026",
-    "CFCO": "2"
+    "CFCO": "1"
   },
   {
     "NumeroMembro": "C9H6",
     "Evento": "Liquilentes - Venda de benefícios em contactologia",
     "Ano": "2026",
-    "CFCO": "3"
+    "CFCO": "1"
   },
   {
     "NumeroMembro": "H3R5",
     "Evento": "Liquilentes - Venda de benefícios em contactologia",
     "Ano": "2026",
-    "CFCO": "4"
+    "CFCO": "1"
   },
   {
     "NumeroMembro": "J0E6",
     "Evento": "Liquilentes - Venda de benefícios em contactologia",
     "Ano": "2026",
-    "CFCO": "5"
+    "CFCO": "1"
   },
   {
     "NumeroMembro": "G4F3",
     "Evento": "Liquilentes - Venda de benefícios em contactologia",
     "Ano": "2026",
-    "CFCO": "6"
+    "CFCO": "1"
   },
   {
     "NumeroMembro": "T4O7",
     "Evento": "Liquilentes - Venda de benefícios em contactologia",
     "Ano": "2026",
-    "CFCO": "7"
+    "CFCO": "1"
   },
   {
     "NumeroMembro": "V3B8",
     "Evento": "Liquilentes - Venda de benefícios em contactologia",
     "Ano": "2026",
-    "CFCO": "8"
+    "CFCO": "1"
   },
   {
     "NumeroMembro": "R3F1",
     "Evento": "Liquilentes - Venda de benefícios em contactologia",
     "Ano": "2026",
-    "CFCO": "9"
+    "CFCO": "1"
   },
   {
     "NumeroMembro": "V8R4",
@@ -5808,13 +5808,7 @@
     "CFCO": "1"
   },
   {
-    "NumeroMembro": "N6U5",
-    "Evento": "Liquilentes - Gestão de olho seco",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "N6U5",
+    "NumeroMembro": "J7H8",
     "Evento": "Liquilentes - Gestão de olho seco",
     "Ano": "2026",
     "CFCO": "1"
@@ -13084,5 +13078,209 @@
     "Evento": "Cybersight - Essentials of Neuro-Ophthalmology",
     "Ano": "2026",
     "CFCO": "3"
+  },
+  {
+    "NumeroMembro": "V8C8",
+    "Evento": "OcularEyeCare - VB não estrábica - Abordagem clínica vergencial e acomodativa",
+    "Ano": "2026",
+    "CFCO": "4"
+  },
+  {
+    "NumeroMembro": "M2Z1",
+    "Evento": "OcularEyeCare - VB não estrábica - Abordagem clínica vergencial e acomodativa",
+    "Ano": "2026",
+    "CFCO": "4"
+  },
+  {
+    "NumeroMembro": "Z7C5",
+    "Evento": "OcularEyeCare - VB não estrábica - Abordagem clínica vergencial e acomodativa",
+    "Ano": "2026",
+    "CFCO": "4"
+  },
+  {
+    "NumeroMembro": "A8K2",
+    "Evento": "OcularEyeCare - VB não estrábica - Abordagem clínica vergencial e acomodativa",
+    "Ano": "2026",
+    "CFCO": "4"
+  },
+  {
+    "NumeroMembro": "X7Q7",
+    "Evento": "OcularEyeCare - VB não estrábica - Abordagem clínica vergencial e acomodativa",
+    "Ano": "2026",
+    "CFCO": "4"
+  },
+  {
+    "NumeroMembro": "E1I2",
+    "Evento": "OcularEyeCare - VB não estrábica - Abordagem clínica vergencial e acomodativa",
+    "Ano": "2026",
+    "CFCO": "4"
+  },
+  {
+    "NumeroMembro": "D7F5",
+    "Evento": "OcularEyeCare - VB não estrábica - Abordagem clínica vergencial e acomodativa",
+    "Ano": "2026",
+    "CFCO": "4"
+  },
+  {
+    "NumeroMembro": "A6K7",
+    "Evento": "Formador OcularEyeCare - VB não estrábica - Abordagem clínica vergencial e acomodativa",
+    "Ano": "2026",
+    "CFCO": "6"
+  },
+  {
+    "NumeroMembro": "W8I0",
+    "Evento": "Hoya - Visão Binocular na Prática Clínica: O que Avaliar e como Tratar",
+    "Ano": "2026",
+    "CFCO": "4"
+  },
+  {
+    "NumeroMembro": "W2P9",
+    "Evento": "Hoya - Visão Binocular na Prática Clínica: O que Avaliar e como Tratar",
+    "Ano": "2026",
+    "CFCO": "4"
+  },
+  {
+    "NumeroMembro": "P3N6",
+    "Evento": "Hoya - Visão Binocular na Prática Clínica: O que Avaliar e como Tratar",
+    "Ano": "2026",
+    "CFCO": "4"
+  },
+  {
+    "NumeroMembro": "C1N9",
+    "Evento": "Hoya - Visão Binocular na Prática Clínica: O que Avaliar e como Tratar",
+    "Ano": "2026",
+    "CFCO": "4"
+  },
+  {
+    "NumeroMembro": "B7Z7",
+    "Evento": "Hoya - Visão Binocular na Prática Clínica: O que Avaliar e como Tratar",
+    "Ano": "2026",
+    "CFCO": "4"
+  },
+  {
+    "NumeroMembro": "D0R9",
+    "Evento": "Hoya - Visão Binocular na Prática Clínica: O que Avaliar e como Tratar",
+    "Ano": "2026",
+    "CFCO": "4"
+  },
+  {
+    "NumeroMembro": "N7W4",
+    "Evento": "Hoya - Visão Binocular na Prática Clínica: O que Avaliar e como Tratar",
+    "Ano": "2026",
+    "CFCO": "4"
+  },
+  {
+    "NumeroMembro": "P0Y4",
+    "Evento": "Hoya - Visão Binocular na Prática Clínica: O que Avaliar e como Tratar",
+    "Ano": "2026",
+    "CFCO": "4"
+  },
+  {
+    "NumeroMembro": "D1N5",
+    "Evento": "Hoya - Visão Binocular na Prática Clínica: O que Avaliar e como Tratar",
+    "Ano": "2026",
+    "CFCO": "4"
+  },
+  {
+    "NumeroMembro": "Z5E1",
+    "Evento": "Hoya - Visão Binocular na Prática Clínica: O que Avaliar e como Tratar",
+    "Ano": "2026",
+    "CFCO": "4"
+  },
+  {
+    "NumeroMembro": "I7F3",
+    "Evento": "Hoya - Visão Binocular na Prática Clínica: O que Avaliar e como Tratar",
+    "Ano": "2026",
+    "CFCO": "4"
+  },
+  {
+    "NumeroMembro": "S4R3",
+    "Evento": "Hoya - Visão Binocular na Prática Clínica: O que Avaliar e como Tratar",
+    "Ano": "2026",
+    "CFCO": "4"
+  },
+  {
+    "NumeroMembro": "B0W2",
+    "Evento": "Hoya - Visão Binocular na Prática Clínica: O que Avaliar e como Tratar",
+    "Ano": "2026",
+    "CFCO": "4"
+  },
+  {
+    "NumeroMembro": "E9O2",
+    "Evento": "Hoya - Visão Binocular na Prática Clínica: O que Avaliar e como Tratar",
+    "Ano": "2026",
+    "CFCO": "4"
+  },
+  {
+    "NumeroMembro": "O1H8",
+    "Evento": "Hoya - Visão Binocular na Prática Clínica: O que Avaliar e como Tratar",
+    "Ano": "2026",
+    "CFCO": "4"
+  },
+  {
+    "NumeroMembro": "T8T3",
+    "Evento": "Hoya - Visão Binocular na Prática Clínica: O que Avaliar e como Tratar",
+    "Ano": "2026",
+    "CFCO": "4"
+  },
+  {
+    "NumeroMembro": "X3V3",
+    "Evento": "Hoya - Visão Binocular na Prática Clínica: O que Avaliar e como Tratar",
+    "Ano": "2026",
+    "CFCO": "4"
+  },
+  {
+    "NumeroMembro": "Z4K7",
+    "Evento": "Hoya - Visão Binocular na Prática Clínica: O que Avaliar e como Tratar",
+    "Ano": "2026",
+    "CFCO": "4"
+  },
+  {
+    "NumeroMembro": "O3W6",
+    "Evento": "Hoya - Visão Binocular na Prática Clínica: O que Avaliar e como Tratar",
+    "Ano": "2026",
+    "CFCO": "4"
+  },
+  {
+    "NumeroMembro": "H3R5",
+    "Evento": "Hoya - Visão Binocular na Prática Clínica: O que Avaliar e como Tratar",
+    "Ano": "2026",
+    "CFCO": "4"
+  },
+  {
+    "NumeroMembro": "Z8A1",
+    "Evento": "Hoya - Visão Binocular na Prática Clínica: O que Avaliar e como Tratar",
+    "Ano": "2026",
+    "CFCO": "4"
+  },
+  {
+    "NumeroMembro": "H1D9",
+    "Evento": "Hoya - Visão Binocular na Prática Clínica: O que Avaliar e como Tratar",
+    "Ano": "2026",
+    "CFCO": "4"
+  },
+  {
+    "NumeroMembro": "J8S0",
+    "Evento": "Hoya - Visão Binocular na Prática Clínica: O que Avaliar e como Tratar",
+    "Ano": "2026",
+    "CFCO": "4"
+  },
+  {
+    "NumeroMembro": "B1F7",
+    "Evento": "Hoya - Visão Binocular na Prática Clínica: O que Avaliar e como Tratar",
+    "Ano": "2026",
+    "CFCO": "4"
+  },
+  {
+    "NumeroMembro": "T4O3",
+    "Evento": "Hoya - Visão Binocular na Prática Clínica: O que Avaliar e como Tratar",
+    "Ano": "2026",
+    "CFCO": "4"
+  },
+  {
+    "NumeroMembro": "Y2H2",
+    "Evento": "Hoya - Visão Binocular na Prática Clínica: O que Avaliar e como Tratar",
+    "Ano": "2026",
+    "CFCO": "4"
   }
 ]
