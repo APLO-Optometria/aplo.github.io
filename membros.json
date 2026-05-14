@@ -7,7 +7,7 @@
   },
   {
     "NumeroMembro": "X4X7",
-    "Evento": "MiSight® Spectacle Lenses.",
+    "Evento": "MiSight Spectacle Lenses.",
     "Ano": "2026",
     "CFCO": "0.5"
   },
@@ -3564,12 +3564,6 @@
     "CFCO": "2"
   },
   {
-    "NumeroMembro": "#N/D",
-    "Evento": "UM - 21 Jornada Científica-Técnico de Contactologia 2026",
-    "Ano": "2026",
-    "CFCO": "0"
-  },
-  {
     "NumeroMembro": "I9N4",
     "Evento": "UM - 21 Jornada Científica-Técnico de Contactologia 2026",
     "Ano": "2026",
@@ -4066,12 +4060,6 @@
     "Evento": "UM - 21 Jornada Científica-Técnico de Contactologia 2026",
     "Ano": "2026",
     "CFCO": "2"
-  },
-  {
-    "NumeroMembro": "#N/D",
-    "Evento": "UM - 21 Jornada Científica-Técnico de Contactologia 2026",
-    "Ano": "2026",
-    "CFCO": "0"
   },
   {
     "NumeroMembro": "M4M2",
@@ -11766,1086 +11754,6 @@
     "CFCO": "7"
   },
   {
-    "NumeroMembro": "K2S1",
-    "Evento": "Lecture on Ophthalmoscopes",
-    "Ano": "2026",
-    "CFCO": "0.5"
-  },
-  {
-    "NumeroMembro": "K2S1",
-    "Evento": "Hygiène et CoVid-19 - Morgane Massenet - OptoWebinar -",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "K2S1",
-    "Evento": "Virtual Low Vision Meeting 2020 - Part I",
-    "Ano": "2026",
-    "CFCO": "1.75"
-  },
-  {
-    "NumeroMembro": "K2S1",
-    "Evento": "Virtual Low Vision Meeting 2020 - Part II",
-    "Ano": "2026",
-    "CFCO": "0.5"
-  },
-  {
-    "NumeroMembro": "K2S1",
-    "Evento": "Virtual Low Vision Meeting 2020 - Part III",
-    "Ano": "2026",
-    "CFCO": "3"
-  },
-  {
-    "NumeroMembro": "K2S1",
-    "Evento": "KVC Vision Screening Training- Module 4 Infants and Children with Special Considerations",
-    "Ano": "2026",
-    "CFCO": "0.75"
-  },
-  {
-    "NumeroMembro": "J1X4",
-    "Evento": "JC 03 (23-10-2019) MYOPIA",
-    "Ano": "2026",
-    "CFCO": "0.25"
-  },
-  {
-    "NumeroMembro": "E3B9",
-    "Evento": "Static Retiniscopy e Subjective Refraction",
-    "Ano": "2026",
-    "CFCO": "1.5"
-  },
-  {
-    "NumeroMembro": "J3L9",
-    "Evento": "Lecture on Ophthalmoscopes",
-    "Ano": "2026",
-    "CFCO": "0.5"
-  },
-  {
-    "NumeroMembro": "V8W3",
-    "Evento": "Lecture on Ophthalmoscopes",
-    "Ano": "2026",
-    "CFCO": "0.5"
-  },
-  {
-    "NumeroMembro": "J3L9",
-    "Evento": "KVC Vision Screening Training- Module 4 Infants and Children with Special Considerations",
-    "Ano": "2026",
-    "CFCO": "0.75"
-  },
-  {
-    "NumeroMembro": "M2C3",
-    "Evento": "EBM application- Diagnostic Test",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "E3B9",
-    "Evento": "Follow-up Care of Patients Wearing Hydrogel Contact Lenses",
-    "Ano": "2026",
-    "CFCO": "2"
-  },
-  {
-    "NumeroMembro": "C0Z6",
-    "Evento": "Axial Magnification from Distance and Near Corrections",
-    "Ano": "2026",
-    "CFCO": "3"
-  },
-  {
-    "NumeroMembro": "P6A8",
-    "Evento": "Posturologie et sport : rapport de cas - C.O.C. 2019 - AOF",
-    "Ano": "2026",
-    "CFCO": "2"
-  },
-  {
-    "NumeroMembro": "P6A8",
-    "Evento": "\"Un prisme d'une dioptrie pour \"\"dÃ©bloquer\"\" les vertÃ¨bres et les articulations pÃ©riphÃ©riques : dÃ©monstration ! - C.O.C. 2020 - AOF\"",
-    "Ano": "2026",
-    "CFCO": "1.75"
-  },
-  {
-    "NumeroMembro": "P6A8",
-    "Evento": "Anomalie de la vision binoculaire d'un patient non strabique 1/4 - Arnaud Massenet - Opto'Webinar - AOF",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "P6A8",
-    "Evento": "Apprentissage de la vision et dyslexie - C.O.C. 2020 - AOF",
-    "Ano": "2026",
-    "CFCO": "1.5"
-  },
-  {
-    "NumeroMembro": "P6A8",
-    "Evento": "Bref j'ai fait une lentille Multifocale - Marina Barthe - Opto'Webinar - AOF",
-    "Ano": "2026",
-    "CFCO": "1.25"
-  },
-  {
-    "NumeroMembro": "L1K5",
-    "Evento": "Bref j'ai fait une lentille Multifocale - Marina Barthe - Opto'Webinar - AOF",
-    "Ano": "2026",
-    "CFCO": "1.25"
-  },
-  {
-    "NumeroMembro": "P6A8",
-    "Evento": "La maladie de Fabry : comment un examen Ã  la lampe Ã  fente peut sauver une vie ? - Dr Langis Michaud - Opto'Webinar - AOF",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "L1K5",
-    "Evento": "Signes cliniques et prise en charge thÃ©rapeutique de la sÃ©cheresse oculaire - Christophe Lachot - Opto'Webinar - AOF",
-    "Ano": "2026",
-    "CFCO": "1.25"
-  },
-  {
-    "NumeroMembro": "L1K5",
-    "Evento": "ContrÃ´le de lâ€™Ã©volution myopique - Jaume Paune - Opto'Webinar - AOF",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "L1K5",
-    "Evento": "KVC Vision Screening Training- Module 4 Infants and Children with Special Considerations",
-    "Ano": "2026",
-    "CFCO": "0.75"
-  },
-  {
-    "NumeroMembro": "P7M5",
-    "Evento": "Retina Applied Anatomy - Clinical Optometry",
-    "Ano": "2026",
-    "CFCO": "0.5"
-  },
-  {
-    "NumeroMembro": "P7M5",
-    "Evento": "Literature review for evidence based clinical practice",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "P7M5",
-    "Evento": "Lecture 3: Clinical Assessment of Strabismus Motor e Sensory",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "P7M5",
-    "Evento": "Specialty GP Applications",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "Q3I7",
-    "Evento": "Working Smarter with Medicare Part 2",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "Q3I7",
-    "Evento": "Prescribing for Children",
-    "Ano": "2026",
-    "CFCO": "1.5"
-  },
-  {
-    "NumeroMembro": "P7M5",
-    "Evento": "JC article on Mi Sight contact lenses for myopes",
-    "Ano": "2026",
-    "CFCO": "0.25"
-  },
-  {
-    "NumeroMembro": "P7M5",
-    "Evento": "Axial Magnification from Distance and Near Corrections",
-    "Ano": "2026",
-    "CFCO": "3"
-  },
-  {
-    "NumeroMembro": "K2Z2",
-    "Evento": "Axial Magnification from Distance and Near Corrections",
-    "Ano": "2026",
-    "CFCO": "3"
-  },
-  {
-    "NumeroMembro": "P7M5",
-    "Evento": "Understanding the management of Ptosis",
-    "Ano": "2026",
-    "CFCO": "0.25"
-  },
-  {
-    "NumeroMembro": "P7M5",
-    "Evento": "Lecture on Ophthalmoscopes",
-    "Ano": "2026",
-    "CFCO": "0.5"
-  },
-  {
-    "NumeroMembro": "Q3I7",
-    "Evento": "Virtual Low Vision Meeting 2020 - Part I",
-    "Ano": "2026",
-    "CFCO": "1.75"
-  },
-  {
-    "NumeroMembro": "Q3I7",
-    "Evento": "Virtual Low Vision Meeting 2020 - Part III",
-    "Ano": "2026",
-    "CFCO": "3"
-  },
-  {
-    "NumeroMembro": "P7M5",
-    "Evento": "Optical Coherence Tomography (OCT) and Glaucoma",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "P7M5",
-    "Evento": "KVC Vision Screening Training- Module 4 Infants and Children with Special Considerations",
-    "Ano": "2026",
-    "CFCO": "0.75"
-  },
-  {
-    "NumeroMembro": "J1X4",
-    "Evento": "Scleral Lens Boot Camp",
-    "Ano": "2026",
-    "CFCO": "1.75"
-  },
-  {
-    "NumeroMembro": "P6A8",
-    "Evento": "La latÃ©ralisation et son importance au niveau visuel - C.O.C. 2019 - AOF",
-    "Ano": "2026",
-    "CFCO": "1.5"
-  },
-  {
-    "NumeroMembro": "A9V9",
-    "Evento": "Lecture on Ophthalmoscopes",
-    "Ano": "2026",
-    "CFCO": "0.5"
-  },
-  {
-    "NumeroMembro": "A9V9",
-    "Evento": "KVC Vision Screening Training- Module 4 Infants and Children with Special Considerations",
-    "Ano": "2026",
-    "CFCO": "0.75"
-  },
-  {
-    "NumeroMembro": "Z0H3",
-    "Evento": "Oral and Topical Steroids for the Eye",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "Z0H3",
-    "Evento": "EBM application- Diagnostic Test",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "F9J4",
-    "Evento": "Clinical Use of Continuous IOP Measurement",
-    "Ano": "2026",
-    "CFCO": "0.5"
-  },
-  {
-    "NumeroMembro": "G1T4",
-    "Evento": "Lecture on Ophthalmoscopes",
-    "Ano": "2026",
-    "CFCO": "0.5"
-  },
-  {
-    "NumeroMembro": "Z0H3",
-    "Evento": "Lecture 2: Binocular Vision \u000bOrthoptic Procedures",
-    "Ano": "2026",
-    "CFCO": "0.5"
-  },
-  {
-    "NumeroMembro": "K2Z2",
-    "Evento": "Prescribing for Children",
-    "Ano": "2026",
-    "CFCO": "1.5"
-  },
-  {
-    "NumeroMembro": "Y6N4",
-    "Evento": "Les Réserves fusionnelles en convergence et en divergence VL VP - EasyOpto - AOF",
-    "Ano": "2026",
-    "CFCO": "0.25"
-  },
-  {
-    "NumeroMembro": "Z0H3",
-    "Evento": "Les Réserves fusionnelles en convergence et en divergence VL VP - EasyOpto - AOF",
-    "Ano": "2026",
-    "CFCO": "0.25"
-  },
-  {
-    "NumeroMembro": "K2Z2",
-    "Evento": "Virtual Low Vision Meeting 2020 - Part II",
-    "Ano": "2026",
-    "CFCO": "0.5"
-  },
-  {
-    "NumeroMembro": "G1T4",
-    "Evento": "KVC Vision Screening Training- Module 4 Infants and Children with Special Considerations",
-    "Ano": "2026",
-    "CFCO": "0.75"
-  },
-  {
-    "NumeroMembro": "J0G8",
-    "Evento": "Low vision clinic refraction",
-    "Ano": "2026",
-    "CFCO": "0.5"
-  },
-  {
-    "NumeroMembro": "T2O6",
-    "Evento": "Evidence Based Approach Clinical Decision Making",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "T2O6",
-    "Evento": "Lecture on Ophthalmoscopes",
-    "Ano": "2026",
-    "CFCO": "0.5"
-  },
-  {
-    "NumeroMembro": "O0Y4",
-    "Evento": "Scleral Lens Fitting for Healthy Eyes  Astigmatic and Presbyopic Applications",
-    "Ano": "2026",
-    "CFCO": "1.25"
-  },
-  {
-    "NumeroMembro": "O0Y4",
-    "Evento": "Low vision clinic refraction",
-    "Ano": "2026",
-    "CFCO": "0.5"
-  },
-  {
-    "NumeroMembro": "O0Y4",
-    "Evento": "Examen Visual del Infante",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "T2O6",
-    "Evento": "Prescribing for Children",
-    "Ano": "2026",
-    "CFCO": "1.5"
-  },
-  {
-    "NumeroMembro": "Q3I7",
-    "Evento": "Axial Magnification from Distance and Near Corrections",
-    "Ano": "2026",
-    "CFCO": "3"
-  },
-  {
-    "NumeroMembro": "T2O6",
-    "Evento": "KVC Vision Screening Training- Module 4 Infants and Children with Special Considerations",
-    "Ano": "2026",
-    "CFCO": "0.75"
-  },
-  {
-    "NumeroMembro": "U4H2",
-    "Evento": "Advances in Keratoconus Treatment",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "U4H2",
-    "Evento": "Prescribing for Children",
-    "Ano": "2026",
-    "CFCO": "1.5"
-  },
-  {
-    "NumeroMembro": "N7Q5",
-    "Evento": "Virtual Low Vision Meeting 2020 - Part I",
-    "Ano": "2026",
-    "CFCO": "1.75"
-  },
-  {
-    "NumeroMembro": "Z2I6",
-    "Evento": "Optometry Glaucoma Practice - Possibilities Beyond COVID Crises",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "R5T8",
-    "Evento": "Optical Coherence Tomography (OCT) and Glaucoma",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "A9V9",
-    "Evento": "GP Multifocal Fitting and Troubleshooting",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "A9V9",
-    "Evento": "Contact Lens Management of the Irregular Cornea: Case Grand Rounds",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "A9V9",
-    "Evento": "Advances in Keratoconus Treatment",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "A9V9",
-    "Evento": "Examination of Pupil",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "A9V9",
-    "Evento": "GP Management of Corneal Pathology Case Grand Rounds Dr. Marlane Brown OD FAAO",
-    "Ano": "2026",
-    "CFCO": "1.25"
-  },
-  {
-    "NumeroMembro": "A9V9",
-    "Evento": "Corneal Anatomy and Physiology",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "A9V9",
-    "Evento": "Low vision clinic refraction",
-    "Ano": "2026",
-    "CFCO": "0.5"
-  },
-  {
-    "NumeroMembro": "H6J1",
-    "Evento": "GP Multifocal Fitting and Troubleshooting",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "H6J1",
-    "Evento": "Scleral Lens Fitting and Troubleshooting for Ocular Surface Disease",
-    "Ano": "2026",
-    "CFCO": "1.25"
-  },
-  {
-    "NumeroMembro": "H6J1",
-    "Evento": "Custom Soft Lens Applications for the High Astigmat",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "R5T8",
-    "Evento": "Lecture on Ophthalmoscopes",
-    "Ano": "2026",
-    "CFCO": "0.5"
-  },
-  {
-    "NumeroMembro": "P4O8",
-    "Evento": "Introduction to Glaucoma",
-    "Ano": "2026",
-    "CFCO": "0.75"
-  },
-  {
-    "NumeroMembro": "N9B4",
-    "Evento": "Hygiène et CoVid-19 - Morgane Massenet - OptoWebinar -",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "N9B4",
-    "Evento": "Virtual Low Vision Meeting 2020 - Part I",
-    "Ano": "2026",
-    "CFCO": "1.75"
-  },
-  {
-    "NumeroMembro": "N9B4",
-    "Evento": "Virtual Low Vision Meeting 2020 - Part II",
-    "Ano": "2026",
-    "CFCO": "0.5"
-  },
-  {
-    "NumeroMembro": "N9B4",
-    "Evento": "Virtual Low Vision Meeting 2020 - Part III",
-    "Ano": "2026",
-    "CFCO": "3"
-  },
-  {
-    "NumeroMembro": "R5T8",
-    "Evento": "GP Management of Corneal Pathology Case Grand Rounds Dr. Marlane Brown OD FAAO",
-    "Ano": "2026",
-    "CFCO": "1.25"
-  },
-  {
-    "NumeroMembro": "M5D1",
-    "Evento": "Tear Dysfunctions and OSD Strategies for Successful Management",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "M5D1",
-    "Evento": "Prescribing for Children",
-    "Ano": "2026",
-    "CFCO": "1.5"
-  },
-  {
-    "NumeroMembro": "M5D1",
-    "Evento": "Axial Magnification from Distance and Near Corrections",
-    "Ano": "2026",
-    "CFCO": "3"
-  },
-  {
-    "NumeroMembro": "H7P2",
-    "Evento": "Optical Assistant Training Module 3",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "H7P2",
-    "Evento": "ABC of Low Vision",
-    "Ano": "2026",
-    "CFCO": "0.25"
-  },
-  {
-    "NumeroMembro": "H7P2",
-    "Evento": "ABC of Low Vision",
-    "Ano": "2026",
-    "CFCO": "0.25"
-  },
-  {
-    "NumeroMembro": "H7P2",
-    "Evento": "Working Smarter with Medicare Part 1",
-    "Ano": "2026",
-    "CFCO": "0.5"
-  },
-  {
-    "NumeroMembro": "V1G5",
-    "Evento": "Scleral Lens Fitting and Troubleshooting for Ocular Surface Disease",
-    "Ano": "2026",
-    "CFCO": "1.25"
-  },
-  {
-    "NumeroMembro": "V1G5",
-    "Evento": "Scleral GP Contact Lens Insertion, Removal and Care",
-    "Ano": "2026",
-    "CFCO": "1.25"
-  },
-  {
-    "NumeroMembro": "V1G5",
-    "Evento": "Custom Soft Lens Applications for the High Astigmat",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "V1G5",
-    "Evento": "GP Multifocals for the Irregular Cornea",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "V1G5",
-    "Evento": "GP Multifocal Fitting and Troubleshooting",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "V1G5",
-    "Evento": "Contact Lens Management of the Irregular Cornea: Case Grand Rounds",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "V1G5",
-    "Evento": "GP Management of Corneal Pathology Case Grand Rounds Dr. Marlane Brown OD FAAO",
-    "Ano": "2026",
-    "CFCO": "1.25"
-  },
-  {
-    "NumeroMembro": "V1G5",
-    "Evento": "Scleral Lens Fitting for Healthy Eyes  Astigmatic and Presbyopic Applications",
-    "Ano": "2026",
-    "CFCO": "1.25"
-  },
-  {
-    "NumeroMembro": "V1G5",
-    "Evento": "Clinical Use of Continuous IOP Measurement",
-    "Ano": "2026",
-    "CFCO": "0.5"
-  },
-  {
-    "NumeroMembro": "V1G5",
-    "Evento": "Virtual Low Vision Meeting 2020 - Part I",
-    "Ano": "2026",
-    "CFCO": "1.75"
-  },
-  {
-    "NumeroMembro": "M5D1",
-    "Evento": "Optical Coherence Tomography (OCT) and Glaucoma",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "D3J8",
-    "Evento": "GP Multifocals for the Irregular Cornea",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "I5K5",
-    "Evento": "Retina Applied Anatomy - Clinical Optometry",
-    "Ano": "2026",
-    "CFCO": "0.5"
-  },
-  {
-    "NumeroMembro": "H7P2",
-    "Evento": "Lecture 1: Binocular Vision: Are two eyes better than one?",
-    "Ano": "2026",
-    "CFCO": "0.5"
-  },
-  {
-    "NumeroMembro": "M5D1",
-    "Evento": "Advances in Corneal Collagen Crosslinking and the OCULUS Pentacam",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "H7P2",
-    "Evento": "Contemporary Scleral Lens Applications",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "M5D1",
-    "Evento": "Clinical Use of Continuous IOP Measurement",
-    "Ano": "2026",
-    "CFCO": "0.5"
-  },
-  {
-    "NumeroMembro": "J6B1",
-    "Evento": "Prescribing for Children",
-    "Ano": "2026",
-    "CFCO": "1.5"
-  },
-  {
-    "NumeroMembro": "N4A4",
-    "Evento": "Lecture on Ophthalmoscopes",
-    "Ano": "2026",
-    "CFCO": "0.5"
-  },
-  {
-    "NumeroMembro": "M5D1",
-    "Evento": "Virtual Low Vision Meeting 2020 - Part I",
-    "Ano": "2026",
-    "CFCO": "1.75"
-  },
-  {
-    "NumeroMembro": "M5D1",
-    "Evento": "Virtual Low Vision Meeting 2020 - Part II",
-    "Ano": "2026",
-    "CFCO": "0.5"
-  },
-  {
-    "NumeroMembro": "N4A4",
-    "Evento": "Virtual Low Vision Meeting 2020 - Part III",
-    "Ano": "2026",
-    "CFCO": "3"
-  },
-  {
-    "NumeroMembro": "E9O2",
-    "Evento": "Optical Coherence Tomography (OCT) and Glaucoma",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "R5T8",
-    "Evento": "ABC of Low Vision",
-    "Ano": "2026",
-    "CFCO": "0.25"
-  },
-  {
-    "NumeroMembro": "R5T8",
-    "Evento": "GP Multifocals for the Irregular Cornea",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "R5T8",
-    "Evento": "Contact Lens Management of the Irregular Cornea: Case Grand Rounds",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "V8W3",
-    "Evento": "KVC Vision Screening Training- Module 4 Infants and Children with Special Considerations",
-    "Ano": "2026",
-    "CFCO": "0.75"
-  },
-  {
-    "NumeroMembro": "S3U4",
-    "Evento": "Correction of the Presbyope With Contact Lenses",
-    "Ano": "2026",
-    "CFCO": "2"
-  },
-  {
-    "NumeroMembro": "Q1Q2",
-    "Evento": "Evidence Based Approach Clinical Decision Making",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "Q1Q2",
-    "Evento": "EBM application- Diagnostic Test",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "Q1Q2",
-    "Evento": "Evaporative dry eye",
-    "Ano": "2026",
-    "CFCO": "0.25"
-  },
-  {
-    "NumeroMembro": "Q1Q2",
-    "Evento": "Lecture on Ophthalmoscopes",
-    "Ano": "2026",
-    "CFCO": "0.5"
-  },
-  {
-    "NumeroMembro": "Q1Q2",
-    "Evento": "KVC Vision Screening Training- Module 4 Infants and Children with Special Considerations",
-    "Ano": "2026",
-    "CFCO": "0.75"
-  },
-  {
-    "NumeroMembro": "I9D4",
-    "Evento": "KVC Vision Screening Training- Module 4 Infants and Children with Special Considerations",
-    "Ano": "2026",
-    "CFCO": "0.75"
-  },
-  {
-    "NumeroMembro": "C6B6",
-    "Evento": "KVC Vision Screening Training- Module 4 Infants and Children with Special Considerations",
-    "Ano": "2026",
-    "CFCO": "0.75"
-  },
-  {
-    "NumeroMembro": "N7Q5",
-    "Evento": "Scleral Lens Fitting and Troubleshooting for Ocular Surface Disease",
-    "Ano": "2026",
-    "CFCO": "1.25"
-  },
-  {
-    "NumeroMembro": "N7Q5",
-    "Evento": "Custom Soft Lens Applications for the High Astigmat",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "N7Q5",
-    "Evento": "GP Multifocals for the Irregular Cornea",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "N7Q5",
-    "Evento": "Contact Lens Management of the Irregular Cornea: Case Grand Rounds",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "N7Q5",
-    "Evento": "Examination of Pupil",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "N7Q5",
-    "Evento": "Evidence Based Approach Clinical Decision Making",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "T8E9",
-    "Evento": "Virtual Low Vision Meeting 2020 - Part III",
-    "Ano": "2026",
-    "CFCO": "3"
-  },
-  {
-    "NumeroMembro": "R5T8",
-    "Evento": "KVC Vision Screening Training- Module 4 Infants and Children with Special Considerations",
-    "Ano": "2026",
-    "CFCO": "0.75"
-  },
-  {
-    "NumeroMembro": "T8E9",
-    "Evento": "Low vision clinic refraction",
-    "Ano": "2026",
-    "CFCO": "0.5"
-  },
-  {
-    "NumeroMembro": "T8E9",
-    "Evento": "Virtual Low Vision Meeting 2020 - Part I",
-    "Ano": "2026",
-    "CFCO": "1.75"
-  },
-  {
-    "NumeroMembro": "T2O6",
-    "Evento": "Evaporative dry eye",
-    "Ano": "2026",
-    "CFCO": "0.25"
-  },
-  {
-    "NumeroMembro": "X0P7",
-    "Evento": "Contact Lens Terminology",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "Q1Q2",
-    "Evento": "Specialty GP Applications",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "L4E5",
-    "Evento": "KVC Vision Screening Training- Module 4 Infants and Children with Special Considerations",
-    "Ano": "2026",
-    "CFCO": "0.75"
-  },
-  {
-    "NumeroMembro": "A1G5",
-    "Evento": "Oral and Topical Steroids for the Eye",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "A1G5",
-    "Evento": "Biomicroscopy Examination Technique",
-    "Ano": "2026",
-    "CFCO": "0.5"
-  },
-  {
-    "NumeroMembro": "A1G5",
-    "Evento": "Evidence Based Approach Clinical Decision Making",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "A1G5",
-    "Evento": "Pediatric Optic Nerve Problems",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "A1G5",
-    "Evento": "Literature review for evidence based clinical practice",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "A1G5",
-    "Evento": "Lecture 1: Binocular Vision: Are two eyes better than one?",
-    "Ano": "2026",
-    "CFCO": "0.5"
-  },
-  {
-    "NumeroMembro": "A1G5",
-    "Evento": "Lecture 2: Binocular Vision \u000bOrthoptic Procedures",
-    "Ano": "2026",
-    "CFCO": "0.5"
-  },
-  {
-    "NumeroMembro": "A1G5",
-    "Evento": "Tear Dysfunctions and OSD Strategies for Successful Management",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "A1G5",
-    "Evento": "Mastering Dry Eye Step by Step",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "A1G5",
-    "Evento": "Advances in Corneal Collagen Crosslinking and the OCULUS Pentacam",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "A1G5",
-    "Evento": "Specialty GP Applications",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "A1G5",
-    "Evento": "Contemporary Scleral Lens Applications",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "A1G5",
-    "Evento": "Lecture on Ophthalmoscopes",
-    "Ano": "2026",
-    "CFCO": "0.5"
-  },
-  {
-    "NumeroMembro": "A1G5",
-    "Evento": "KVC Vision Screening Training- Module 4 Infants and Children with Special Considerations",
-    "Ano": "2026",
-    "CFCO": "0.75"
-  },
-  {
-    "NumeroMembro": "F1X5",
-    "Evento": "Custom Soft Lens Applications for the High Astigmat",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "G4P8",
-    "Evento": "Prescribing for Children",
-    "Ano": "2026",
-    "CFCO": "1.5"
-  },
-  {
-    "NumeroMembro": "P5A7",
-    "Evento": "Evaporative dry eye",
-    "Ano": "2026",
-    "CFCO": "0.25"
-  },
-  {
-    "NumeroMembro": "P5A7",
-    "Evento": "Optometry Glaucoma Practice - Possibilities Beyond COVID Crises",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "P8U2",
-    "Evento": "Low vision clinic refraction",
-    "Ano": "2026",
-    "CFCO": "0.5"
-  },
-  {
-    "NumeroMembro": "P8U2",
-    "Evento": "Pediatric Optic Nerve Problems",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "P8U2",
-    "Evento": "Retina Applied Anatomy - Clinical Optometry",
-    "Ano": "2026",
-    "CFCO": "0.5"
-  },
-  {
-    "NumeroMembro": "F1X5",
-    "Evento": "Corneal Anatomy and Physiology",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "Q0G5",
-    "Evento": "Prescribing Near Magnification Devices - Helping your patients to see up close",
-    "Ano": "2026",
-    "CFCO": "2"
-  },
-  {
-    "NumeroMembro": "Q0G5",
-    "Evento": "Retina Applied Anatomy - Clinical Optometry",
-    "Ano": "2026",
-    "CFCO": "0.5"
-  },
-  {
-    "NumeroMembro": "Q0G5",
-    "Evento": "Literature review for evidence based clinical practice",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "Q0G5",
-    "Evento": "Lecture 2: Binocular Vision \u000bOrthoptic Procedures",
-    "Ano": "2026",
-    "CFCO": "0.5"
-  },
-  {
-    "NumeroMembro": "Q0G5",
-    "Evento": "Optical Coherence Tomography (OCT) and Glaucoma",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "U2S0",
-    "Evento": "Review of Ocular Anatomy and Physiology Relevant to Contact Lens Practice",
-    "Ano": "2026",
-    "CFCO": "2"
-  },
-  {
-    "NumeroMembro": "F1X5",
-    "Evento": "Examination of Pupil",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "F1X5",
-    "Evento": "Prescribing Near Magnification Devices - Helping your patients to see up close",
-    "Ano": "2026",
-    "CFCO": "2"
-  },
-  {
-    "NumeroMembro": "F9D0",
-    "Evento": "Optical Coherence Tomography (OCT) and Glaucoma",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "P8U2",
-    "Evento": "Introduction to Glaucoma",
-    "Ano": "2026",
-    "CFCO": "0.75"
-  },
-  {
-    "NumeroMembro": "P8U2",
-    "Evento": "Review of Ocular Anatomy and Physiology Relevant to Contact Lens Practice",
-    "Ano": "2026",
-    "CFCO": "2"
-  },
-  {
-    "NumeroMembro": "P8U2",
-    "Evento": "GP Multifocal Fitting and Troubleshooting",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "P8U2",
-    "Evento": "Keratoconus",
-    "Ano": "2026",
-    "CFCO": "1.25"
-  },
-  {
-    "NumeroMembro": "Z0H3",
-    "Evento": "Fitting Toric Hydrogel Lenses",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "S3U4",
-    "Evento": "Pediatric Optic Nerve Problems",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "Z0H3",
-    "Evento": "Evidence Based Approach Clinical Decision Making",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "Z0H3",
-    "Evento": "Clinical Use of Continuous IOP Measurement",
-    "Ano": "2026",
-    "CFCO": "0.5"
-  },
-  {
-    "NumeroMembro": "Z0H3",
-    "Evento": "JC article on Mi Sight contact lenses for myopes",
-    "Ano": "2026",
-    "CFCO": "0.25"
-  },
-  {
     "NumeroMembro": "J6J4",
     "Evento": "Valor Visão - Olho Seco 2026: Do Diagnóstico Estruturado à Terapêutica Personalizada",
     "Ano": "2026",
@@ -14164,5 +13072,5837 @@
     "Evento": "Hoya - Visão Binocular na Prática Clínica: O que Avaliar e como Tratar",
     "Ano": "2026",
     "CFCO": "4"
+  },
+  {
+    "NumeroMembro": "R3F1",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "J7H8",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "D3K5",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "M2C3",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "O8K8",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "L9R4",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "O8V1",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "D7M5",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "T6L3",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "L0B2",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P6S9",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "T0A9",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "G3P6",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "O5U3",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "O2C8",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P4O8",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "F3K8",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "N7Q5",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Q7U2",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "E1K4",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Q0G5",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "T0M8",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "J3V4",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "F9H8",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "U1T0",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "O2T1",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "K2S1",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Z3A6",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "B4E8",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "N9B4",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "F3S7",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "K5G9",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "E9X3",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "S8L8",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "D3H2",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "S7J6",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "H7P2",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "F9D0",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "D7Q1",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "U9K4",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Q1W6",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Z4K7",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "D9O3",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "M9A4",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Y4M8",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "N6U5",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Y8T4",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Y2H2",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Y5N7",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "E4J5",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "L4B8",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Q6F1",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "K2Z2",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "S6M9",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "H5L3",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "C4Y9",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "U3H7",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Y5H3",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "L6K4",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "O3N6",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "O3V0",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "K2U2",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "H1D3",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "F9J4",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "F3I8",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "L8A0",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "X2Z9",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "M6E1",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "J1I8",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P6F2",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "T9V5",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "F8K6",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P0X0",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "F0N8",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "N2S5",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "F7U1",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "R2K9",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "G5K6",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Y4O3",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "I1F4",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "O1U5",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "S2Y0",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "K4W5",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "X5T8",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "W9G7",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "U2A7",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "A2M6",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "E7R1",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "V8O4",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "X6K5",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "W0W6",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "N1U2",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "D0I9",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "O2N4",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "N5C9",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "F4B2",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "W5O6",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "N1Q1",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "G4O8",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "C6Z4",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "L1W0",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "B4Q2",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "B0W2",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "T9F7",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "F0E3",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "D7X8",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "U7K4",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "J7H2",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "X5J9",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P0S4",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "S3E7",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "E5T0",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "U5V1",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "J0H6",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "R2D3",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "O3K3",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "K1E5",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "S0M1",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "A3J1",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Z8Z7",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "G8F2",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "U2S0",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "S4Y5",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "D5V0",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Y1O4",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "G5Y8",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "R1P6",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "G7B6",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "U7T0",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P9I6",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "A2O7",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "H8C9",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "A3B7",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "C2G7",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P7W7",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "S6P4",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "G2P6",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "N2N9",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "M7F6",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "F5V4",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "S3J8",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "G8C0",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "J6O0",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "U4N8",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "O5X2",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "E3W7",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "H1D9",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Y5R3",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "V1G7",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Y0M4",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "M2M9",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Q8O4",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "G9D3",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "U6C8",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "S0I1",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "R0M1",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "B2J6",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "D7I2",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "J1X4",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "G9A5",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P1V7",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "J8B8",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "I4P3",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "L6Q2",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "J3E3",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "V0Q1",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "S3D1",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "S8X2",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "A1H1",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "X5S4",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "F4A3",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "V8I2",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P9S7",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "W9K8",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Q5M0",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "A6C3",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "M8G1",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Z2P5",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "O6P4",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "S4Z0",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "C9H6",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "H3R5",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "J0E6",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "T4O7",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Z6S4",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "H1C3",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "V3B8",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "T3H1",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "D9E3",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Z3Q6",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "K2S1",
+    "Evento": "Lecture on Ophthalmoscopes",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "K2S1",
+    "Evento": "Hygiène et CoVid-19 - Morgane Massenet - OptoWebinar -",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "K2S1",
+    "Evento": "Virtual Low Vision Meeting 2020 - Part I",
+    "Ano": "2026",
+    "CFCO": "1.75"
+  },
+  {
+    "NumeroMembro": "K2S1",
+    "Evento": "Virtual Low Vision Meeting 2020 - Part II",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "K2S1",
+    "Evento": "Virtual Low Vision Meeting 2020 - Part III",
+    "Ano": "2026",
+    "CFCO": "3"
+  },
+  {
+    "NumeroMembro": "K2S1",
+    "Evento": "KVC Vision Screening Training- Module 4 Infants and Children with Special Considerations",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "J1X4",
+    "Evento": "JC 03 (23-10-2019) MYOPIA",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "E3B9",
+    "Evento": "Static Retiniscopy e Subjective Refraction",
+    "Ano": "2026",
+    "CFCO": "1.5"
+  },
+  {
+    "NumeroMembro": "J3L9",
+    "Evento": "Lecture on Ophthalmoscopes",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "V8W3",
+    "Evento": "Lecture on Ophthalmoscopes",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "J3L9",
+    "Evento": "KVC Vision Screening Training- Module 4 Infants and Children with Special Considerations",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "M2C3",
+    "Evento": "EBM application- Diagnostic Test",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "E3B9",
+    "Evento": "Follow-up Care of Patients Wearing Hydrogel Contact Lenses",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "C0Z6",
+    "Evento": "Axial Magnification from Distance and Near Corrections",
+    "Ano": "2026",
+    "CFCO": "3"
+  },
+  {
+    "NumeroMembro": "P6A8",
+    "Evento": "Posturologie et sport : rapport de cas - C.O.C. 2019 - AOF",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "P6A8",
+    "Evento": "\"Un prisme d'une dioptrie pour \"\"dÃ©bloquer\"\" les vertÃ¨bres et les articulations pÃ©riphÃ©riques : dÃ©monstration ! - C.O.C. 2020 - AOF\"",
+    "Ano": "2026",
+    "CFCO": "1.75"
+  },
+  {
+    "NumeroMembro": "P6A8",
+    "Evento": "Anomalie de la vision binoculaire d'un patient non strabique 1/4 - Arnaud Massenet - Opto'Webinar - AOF",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P6A8",
+    "Evento": "Apprentissage de la vision et dyslexie - C.O.C. 2020 - AOF",
+    "Ano": "2026",
+    "CFCO": "1.5"
+  },
+  {
+    "NumeroMembro": "P6A8",
+    "Evento": "Bref j'ai fait une lentille Multifocale - Marina Barthe - Opto'Webinar - AOF",
+    "Ano": "2026",
+    "CFCO": "1.25"
+  },
+  {
+    "NumeroMembro": "L1K5",
+    "Evento": "Bref j'ai fait une lentille Multifocale - Marina Barthe - Opto'Webinar - AOF",
+    "Ano": "2026",
+    "CFCO": "1.25"
+  },
+  {
+    "NumeroMembro": "P6A8",
+    "Evento": "La maladie de Fabry : comment un examen Ã  la lampe Ã  fente peut sauver une vie ? - Dr Langis Michaud - Opto'Webinar - AOF",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "L1K5",
+    "Evento": "Signes cliniques et prise en charge thÃ©rapeutique de la sÃ©cheresse oculaire - Christophe Lachot - Opto'Webinar - AOF",
+    "Ano": "2026",
+    "CFCO": "1.25"
+  },
+  {
+    "NumeroMembro": "L1K5",
+    "Evento": "ContrÃ´le de lâ€™Ã©volution myopique - Jaume Paune - Opto'Webinar - AOF",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "L1K5",
+    "Evento": "KVC Vision Screening Training- Module 4 Infants and Children with Special Considerations",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "P7M5",
+    "Evento": "Retina Applied Anatomy - Clinical Optometry",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "P7M5",
+    "Evento": "Literature review for evidence based clinical practice",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P7M5",
+    "Evento": "Lecture 3: Clinical Assessment of Strabismus Motor e Sensory",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P7M5",
+    "Evento": "Specialty GP Applications",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Q3I7",
+    "Evento": "Working Smarter with Medicare Part 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Q3I7",
+    "Evento": "Prescribing for Children",
+    "Ano": "2026",
+    "CFCO": "1.5"
+  },
+  {
+    "NumeroMembro": "P7M5",
+    "Evento": "JC article on Mi Sight contact lenses for myopes",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "P7M5",
+    "Evento": "Axial Magnification from Distance and Near Corrections",
+    "Ano": "2026",
+    "CFCO": "3"
+  },
+  {
+    "NumeroMembro": "K2Z2",
+    "Evento": "Axial Magnification from Distance and Near Corrections",
+    "Ano": "2026",
+    "CFCO": "3"
+  },
+  {
+    "NumeroMembro": "P7M5",
+    "Evento": "Understanding the management of Ptosis",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "P7M5",
+    "Evento": "Lecture on Ophthalmoscopes",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "Q3I7",
+    "Evento": "Virtual Low Vision Meeting 2020 - Part I",
+    "Ano": "2026",
+    "CFCO": "1.75"
+  },
+  {
+    "NumeroMembro": "Q3I7",
+    "Evento": "Virtual Low Vision Meeting 2020 - Part III",
+    "Ano": "2026",
+    "CFCO": "3"
+  },
+  {
+    "NumeroMembro": "P7M5",
+    "Evento": "Optical Coherence Tomography (OCT) and Glaucoma",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P7M5",
+    "Evento": "KVC Vision Screening Training- Module 4 Infants and Children with Special Considerations",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "J1X4",
+    "Evento": "Scleral Lens Boot Camp",
+    "Ano": "2026",
+    "CFCO": "1.75"
+  },
+  {
+    "NumeroMembro": "P6A8",
+    "Evento": "La latÃ©ralisation et son importance au niveau visuel - C.O.C. 2019 - AOF",
+    "Ano": "2026",
+    "CFCO": "1.5"
+  },
+  {
+    "NumeroMembro": "A9V9",
+    "Evento": "Lecture on Ophthalmoscopes",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "A9V9",
+    "Evento": "KVC Vision Screening Training- Module 4 Infants and Children with Special Considerations",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "Z0H3",
+    "Evento": "Oral and Topical Steroids for the Eye",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Z0H3",
+    "Evento": "EBM application- Diagnostic Test",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "F9J4",
+    "Evento": "Clinical Use of Continuous IOP Measurement",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "G1T4",
+    "Evento": "Lecture on Ophthalmoscopes",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "Z0H3",
+    "Evento": "Lecture 2: Binocular Vision \u000bOrthoptic Procedures",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "K2Z2",
+    "Evento": "Prescribing for Children",
+    "Ano": "2026",
+    "CFCO": "1.5"
+  },
+  {
+    "NumeroMembro": "Y6N4",
+    "Evento": "Les Réserves fusionnelles en convergence et en divergence VL VP - EasyOpto - AOF",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "Z0H3",
+    "Evento": "Les Réserves fusionnelles en convergence et en divergence VL VP - EasyOpto - AOF",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "K2Z2",
+    "Evento": "Virtual Low Vision Meeting 2020 - Part II",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "G1T4",
+    "Evento": "KVC Vision Screening Training- Module 4 Infants and Children with Special Considerations",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "J0G8",
+    "Evento": "Low vision clinic refraction",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "T2O6",
+    "Evento": "Evidence Based Approach Clinical Decision Making",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "T2O6",
+    "Evento": "Lecture on Ophthalmoscopes",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "O0Y4",
+    "Evento": "Scleral Lens Fitting for Healthy Eyes  Astigmatic and Presbyopic Applications",
+    "Ano": "2026",
+    "CFCO": "1.25"
+  },
+  {
+    "NumeroMembro": "O0Y4",
+    "Evento": "Low vision clinic refraction",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "O0Y4",
+    "Evento": "Examen Visual del Infante",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "T2O6",
+    "Evento": "Prescribing for Children",
+    "Ano": "2026",
+    "CFCO": "1.5"
+  },
+  {
+    "NumeroMembro": "Q3I7",
+    "Evento": "Axial Magnification from Distance and Near Corrections",
+    "Ano": "2026",
+    "CFCO": "3"
+  },
+  {
+    "NumeroMembro": "T2O6",
+    "Evento": "KVC Vision Screening Training- Module 4 Infants and Children with Special Considerations",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "U4H2",
+    "Evento": "Advances in Keratoconus Treatment",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "U4H2",
+    "Evento": "Prescribing for Children",
+    "Ano": "2026",
+    "CFCO": "1.5"
+  },
+  {
+    "NumeroMembro": "N7Q5",
+    "Evento": "Virtual Low Vision Meeting 2020 - Part I",
+    "Ano": "2026",
+    "CFCO": "1.75"
+  },
+  {
+    "NumeroMembro": "Z2I6",
+    "Evento": "Optometry Glaucoma Practice - Possibilities Beyond COVID Crises",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "R5T8",
+    "Evento": "Optical Coherence Tomography (OCT) and Glaucoma",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "A9V9",
+    "Evento": "GP Multifocal Fitting and Troubleshooting",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "A9V9",
+    "Evento": "Contact Lens Management of the Irregular Cornea: Case Grand Rounds",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "A9V9",
+    "Evento": "Advances in Keratoconus Treatment",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "A9V9",
+    "Evento": "Examination of Pupil",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "A9V9",
+    "Evento": "GP Management of Corneal Pathology Case Grand Rounds Dr. Marlane Brown OD FAAO",
+    "Ano": "2026",
+    "CFCO": "1.25"
+  },
+  {
+    "NumeroMembro": "A9V9",
+    "Evento": "Corneal Anatomy and Physiology",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "A9V9",
+    "Evento": "Low vision clinic refraction",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "H6J1",
+    "Evento": "GP Multifocal Fitting and Troubleshooting",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "H6J1",
+    "Evento": "Scleral Lens Fitting and Troubleshooting for Ocular Surface Disease",
+    "Ano": "2026",
+    "CFCO": "1.25"
+  },
+  {
+    "NumeroMembro": "H6J1",
+    "Evento": "Custom Soft Lens Applications for the High Astigmat",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "R5T8",
+    "Evento": "Lecture on Ophthalmoscopes",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "P4O8",
+    "Evento": "Introduction to Glaucoma",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "N9B4",
+    "Evento": "Hygiène et CoVid-19 - Morgane Massenet - OptoWebinar -",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "N9B4",
+    "Evento": "Virtual Low Vision Meeting 2020 - Part I",
+    "Ano": "2026",
+    "CFCO": "1.75"
+  },
+  {
+    "NumeroMembro": "N9B4",
+    "Evento": "Virtual Low Vision Meeting 2020 - Part II",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "N9B4",
+    "Evento": "Virtual Low Vision Meeting 2020 - Part III",
+    "Ano": "2026",
+    "CFCO": "3"
+  },
+  {
+    "NumeroMembro": "R5T8",
+    "Evento": "GP Management of Corneal Pathology Case Grand Rounds Dr. Marlane Brown OD FAAO",
+    "Ano": "2026",
+    "CFCO": "1.25"
+  },
+  {
+    "NumeroMembro": "M5D1",
+    "Evento": "Tear Dysfunctions and OSD Strategies for Successful Management",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "M5D1",
+    "Evento": "Prescribing for Children",
+    "Ano": "2026",
+    "CFCO": "1.5"
+  },
+  {
+    "NumeroMembro": "M5D1",
+    "Evento": "Axial Magnification from Distance and Near Corrections",
+    "Ano": "2026",
+    "CFCO": "3"
+  },
+  {
+    "NumeroMembro": "H7P2",
+    "Evento": "Optical Assistant Training Module 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "H7P2",
+    "Evento": "ABC of Low Vision",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "H7P2",
+    "Evento": "ABC of Low Vision",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "H7P2",
+    "Evento": "Working Smarter with Medicare Part 1",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "V1G5",
+    "Evento": "Scleral Lens Fitting and Troubleshooting for Ocular Surface Disease",
+    "Ano": "2026",
+    "CFCO": "1.25"
+  },
+  {
+    "NumeroMembro": "V1G5",
+    "Evento": "Scleral GP Contact Lens Insertion, Removal and Care",
+    "Ano": "2026",
+    "CFCO": "1.25"
+  },
+  {
+    "NumeroMembro": "V1G5",
+    "Evento": "Custom Soft Lens Applications for the High Astigmat",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "V1G5",
+    "Evento": "GP Multifocals for the Irregular Cornea",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "V1G5",
+    "Evento": "GP Multifocal Fitting and Troubleshooting",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "V1G5",
+    "Evento": "Contact Lens Management of the Irregular Cornea: Case Grand Rounds",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "V1G5",
+    "Evento": "GP Management of Corneal Pathology Case Grand Rounds Dr. Marlane Brown OD FAAO",
+    "Ano": "2026",
+    "CFCO": "1.25"
+  },
+  {
+    "NumeroMembro": "V1G5",
+    "Evento": "Scleral Lens Fitting for Healthy Eyes  Astigmatic and Presbyopic Applications",
+    "Ano": "2026",
+    "CFCO": "1.25"
+  },
+  {
+    "NumeroMembro": "V1G5",
+    "Evento": "Clinical Use of Continuous IOP Measurement",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "V1G5",
+    "Evento": "Virtual Low Vision Meeting 2020 - Part I",
+    "Ano": "2026",
+    "CFCO": "1.75"
+  },
+  {
+    "NumeroMembro": "M5D1",
+    "Evento": "Optical Coherence Tomography (OCT) and Glaucoma",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "D3J8",
+    "Evento": "GP Multifocals for the Irregular Cornea",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "I5K5",
+    "Evento": "Retina Applied Anatomy - Clinical Optometry",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "H7P2",
+    "Evento": "Lecture 1: Binocular Vision: Are two eyes better than one?",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "M5D1",
+    "Evento": "Advances in Corneal Collagen Crosslinking and the OCULUS Pentacam",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "H7P2",
+    "Evento": "Contemporary Scleral Lens Applications",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "M5D1",
+    "Evento": "Clinical Use of Continuous IOP Measurement",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "J6B1",
+    "Evento": "Prescribing for Children",
+    "Ano": "2026",
+    "CFCO": "1.5"
+  },
+  {
+    "NumeroMembro": "N4A4",
+    "Evento": "Lecture on Ophthalmoscopes",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "M5D1",
+    "Evento": "Virtual Low Vision Meeting 2020 - Part I",
+    "Ano": "2026",
+    "CFCO": "1.75"
+  },
+  {
+    "NumeroMembro": "M5D1",
+    "Evento": "Virtual Low Vision Meeting 2020 - Part II",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "N4A4",
+    "Evento": "Virtual Low Vision Meeting 2020 - Part III",
+    "Ano": "2026",
+    "CFCO": "3"
+  },
+  {
+    "NumeroMembro": "E9O2",
+    "Evento": "Optical Coherence Tomography (OCT) and Glaucoma",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "R5T8",
+    "Evento": "ABC of Low Vision",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "R5T8",
+    "Evento": "GP Multifocals for the Irregular Cornea",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "R5T8",
+    "Evento": "Contact Lens Management of the Irregular Cornea: Case Grand Rounds",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "V8W3",
+    "Evento": "KVC Vision Screening Training- Module 4 Infants and Children with Special Considerations",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "S3U4",
+    "Evento": "Correction of the Presbyope With Contact Lenses",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "Q1Q2",
+    "Evento": "Evidence Based Approach Clinical Decision Making",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Q1Q2",
+    "Evento": "EBM application- Diagnostic Test",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Q1Q2",
+    "Evento": "Evaporative dry eye",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "Q1Q2",
+    "Evento": "Lecture on Ophthalmoscopes",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "Q1Q2",
+    "Evento": "KVC Vision Screening Training- Module 4 Infants and Children with Special Considerations",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "I9D4",
+    "Evento": "KVC Vision Screening Training- Module 4 Infants and Children with Special Considerations",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "C6B6",
+    "Evento": "KVC Vision Screening Training- Module 4 Infants and Children with Special Considerations",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "N7Q5",
+    "Evento": "Scleral Lens Fitting and Troubleshooting for Ocular Surface Disease",
+    "Ano": "2026",
+    "CFCO": "1.25"
+  },
+  {
+    "NumeroMembro": "N7Q5",
+    "Evento": "Custom Soft Lens Applications for the High Astigmat",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "N7Q5",
+    "Evento": "GP Multifocals for the Irregular Cornea",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "N7Q5",
+    "Evento": "Contact Lens Management of the Irregular Cornea: Case Grand Rounds",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "N7Q5",
+    "Evento": "Examination of Pupil",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "N7Q5",
+    "Evento": "Evidence Based Approach Clinical Decision Making",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "T8E9",
+    "Evento": "Virtual Low Vision Meeting 2020 - Part III",
+    "Ano": "2026",
+    "CFCO": "3"
+  },
+  {
+    "NumeroMembro": "R5T8",
+    "Evento": "KVC Vision Screening Training- Module 4 Infants and Children with Special Considerations",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "T8E9",
+    "Evento": "Low vision clinic refraction",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "T8E9",
+    "Evento": "Virtual Low Vision Meeting 2020 - Part I",
+    "Ano": "2026",
+    "CFCO": "1.75"
+  },
+  {
+    "NumeroMembro": "T2O6",
+    "Evento": "Evaporative dry eye",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "X0P7",
+    "Evento": "Contact Lens Terminology",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Q1Q2",
+    "Evento": "Specialty GP Applications",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "L4E5",
+    "Evento": "KVC Vision Screening Training- Module 4 Infants and Children with Special Considerations",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "A1G5",
+    "Evento": "Oral and Topical Steroids for the Eye",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "A1G5",
+    "Evento": "Biomicroscopy Examination Technique",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "A1G5",
+    "Evento": "Evidence Based Approach Clinical Decision Making",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "A1G5",
+    "Evento": "Pediatric Optic Nerve Problems",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "A1G5",
+    "Evento": "Literature review for evidence based clinical practice",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "A1G5",
+    "Evento": "Lecture 1: Binocular Vision: Are two eyes better than one?",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "A1G5",
+    "Evento": "Lecture 2: Binocular Vision \u000bOrthoptic Procedures",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "A1G5",
+    "Evento": "Tear Dysfunctions and OSD Strategies for Successful Management",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "A1G5",
+    "Evento": "Mastering Dry Eye Step by Step",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "A1G5",
+    "Evento": "Advances in Corneal Collagen Crosslinking and the OCULUS Pentacam",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "A1G5",
+    "Evento": "Specialty GP Applications",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "A1G5",
+    "Evento": "Contemporary Scleral Lens Applications",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "A1G5",
+    "Evento": "Lecture on Ophthalmoscopes",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "A1G5",
+    "Evento": "KVC Vision Screening Training- Module 4 Infants and Children with Special Considerations",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "F1X5",
+    "Evento": "Custom Soft Lens Applications for the High Astigmat",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "G4P8",
+    "Evento": "Prescribing for Children",
+    "Ano": "2026",
+    "CFCO": "1.5"
+  },
+  {
+    "NumeroMembro": "P5A7",
+    "Evento": "Evaporative dry eye",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "P5A7",
+    "Evento": "Optometry Glaucoma Practice - Possibilities Beyond COVID Crises",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P8U2",
+    "Evento": "Low vision clinic refraction",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "P8U2",
+    "Evento": "Pediatric Optic Nerve Problems",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P8U2",
+    "Evento": "Retina Applied Anatomy - Clinical Optometry",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "F1X5",
+    "Evento": "Corneal Anatomy and Physiology",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Q0G5",
+    "Evento": "Prescribing Near Magnification Devices - Helping your patients to see up close",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "Q0G5",
+    "Evento": "Retina Applied Anatomy - Clinical Optometry",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "Q0G5",
+    "Evento": "Literature review for evidence based clinical practice",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Q0G5",
+    "Evento": "Lecture 2: Binocular Vision \u000bOrthoptic Procedures",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "Q0G5",
+    "Evento": "Optical Coherence Tomography (OCT) and Glaucoma",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "U2S0",
+    "Evento": "Review of Ocular Anatomy and Physiology Relevant to Contact Lens Practice",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "F1X5",
+    "Evento": "Examination of Pupil",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "F1X5",
+    "Evento": "Prescribing Near Magnification Devices - Helping your patients to see up close",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "F9D0",
+    "Evento": "Optical Coherence Tomography (OCT) and Glaucoma",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P8U2",
+    "Evento": "Introduction to Glaucoma",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "P8U2",
+    "Evento": "Review of Ocular Anatomy and Physiology Relevant to Contact Lens Practice",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "P8U2",
+    "Evento": "GP Multifocal Fitting and Troubleshooting",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P8U2",
+    "Evento": "Keratoconus",
+    "Ano": "2026",
+    "CFCO": "1.25"
+  },
+  {
+    "NumeroMembro": "Z0H3",
+    "Evento": "Fitting Toric Hydrogel Lenses",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "S3U4",
+    "Evento": "Pediatric Optic Nerve Problems",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Z0H3",
+    "Evento": "Evidence Based Approach Clinical Decision Making",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Z0H3",
+    "Evento": "Clinical Use of Continuous IOP Measurement",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "Z0H3",
+    "Evento": "JC article on Mi Sight contact lenses for myopes",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "Z0H3",
+    "Evento": "Advances in Keratoconus Treatment",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "R3B0",
+    "Evento": "Lecture on Ophthalmoscopes",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "F9D0",
+    "Evento": "Scleral Lens Fitting and Troubleshooting for Ocular Surface Disease",
+    "Ano": "2026",
+    "CFCO": "1.25"
+  },
+  {
+    "NumeroMembro": "H6J1",
+    "Evento": "Punctum Proximum de Convergence - EasyOpto - AOF",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "M5U6",
+    "Evento": "Punctum Proximum de Convergence - EasyOpto - AOF",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "M5U6",
+    "Evento": "Les Réserves fusionnelles en convergence et en divergence VL VP - EasyOpto - AOF",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "M5U6",
+    "Evento": "Réfraction objective - Skiascopie amétropies sphériques - EasyOpto - AOF",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "K2S1",
+    "Evento": "Lecture on Ophthalmoscopes",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "K2S1",
+    "Evento": "Hygiène et CoVid-19 - Morgane Massenet - OptoWebinar -",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "K2S1",
+    "Evento": "Virtual Low Vision Meeting 2020 - Part I",
+    "Ano": "2026",
+    "CFCO": "1.75"
+  },
+  {
+    "NumeroMembro": "K2S1",
+    "Evento": "Virtual Low Vision Meeting 2020 - Part II",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "K2S1",
+    "Evento": "Virtual Low Vision Meeting 2020 - Part III",
+    "Ano": "2026",
+    "CFCO": "3"
+  },
+  {
+    "NumeroMembro": "K2S1",
+    "Evento": "KVC Vision Screening Training- Module 4 Infants and Children with Special Considerations",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "J1X4",
+    "Evento": "JC 03 (23-10-2019) MYOPIA",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "E3B9",
+    "Evento": "Static Retiniscopy e Subjective Refraction",
+    "Ano": "2026",
+    "CFCO": "1.5"
+  },
+  {
+    "NumeroMembro": "J3L9",
+    "Evento": "Lecture on Ophthalmoscopes",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "V8W3",
+    "Evento": "Lecture on Ophthalmoscopes",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "J3L9",
+    "Evento": "KVC Vision Screening Training- Module 4 Infants and Children with Special Considerations",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "M2C3",
+    "Evento": "EBM application- Diagnostic Test",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "E3B9",
+    "Evento": "Follow-up Care of Patients Wearing Hydrogel Contact Lenses",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "C0Z6",
+    "Evento": "Axial Magnification from Distance and Near Corrections",
+    "Ano": "2026",
+    "CFCO": "3"
+  },
+  {
+    "NumeroMembro": "P6A8",
+    "Evento": "Posturologie et sport : rapport de cas - C.O.C. 2019 - AOF",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "P6A8",
+    "Evento": "\"Un prisme d'une dioptrie pour \"\"dÃ©bloquer\"\" les vertÃ¨bres et les articulations pÃ©riphÃ©riques : dÃ©monstration ! - C.O.C. 2020 - AOF\"",
+    "Ano": "2026",
+    "CFCO": "1.75"
+  },
+  {
+    "NumeroMembro": "P6A8",
+    "Evento": "Anomalie de la vision binoculaire d'un patient non strabique 1/4 - Arnaud Massenet - Opto'Webinar - AOF",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P6A8",
+    "Evento": "Apprentissage de la vision et dyslexie - C.O.C. 2020 - AOF",
+    "Ano": "2026",
+    "CFCO": "1.5"
+  },
+  {
+    "NumeroMembro": "P6A8",
+    "Evento": "Bref j'ai fait une lentille Multifocale - Marina Barthe - Opto'Webinar - AOF",
+    "Ano": "2026",
+    "CFCO": "1.25"
+  },
+  {
+    "NumeroMembro": "L1K5",
+    "Evento": "Bref j'ai fait une lentille Multifocale - Marina Barthe - Opto'Webinar - AOF",
+    "Ano": "2026",
+    "CFCO": "1.25"
+  },
+  {
+    "NumeroMembro": "P6A8",
+    "Evento": "La maladie de Fabry : comment un examen Ã  la lampe Ã  fente peut sauver une vie ? - Dr Langis Michaud - Opto'Webinar - AOF",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "L1K5",
+    "Evento": "Signes cliniques et prise en charge thÃ©rapeutique de la sÃ©cheresse oculaire - Christophe Lachot - Opto'Webinar - AOF",
+    "Ano": "2026",
+    "CFCO": "1.25"
+  },
+  {
+    "NumeroMembro": "L1K5",
+    "Evento": "ContrÃ´le de lâ€™Ã©volution myopique - Jaume Paune - Opto'Webinar - AOF",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "L1K5",
+    "Evento": "KVC Vision Screening Training- Module 4 Infants and Children with Special Considerations",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "P7M5",
+    "Evento": "Retina Applied Anatomy - Clinical Optometry",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "P7M5",
+    "Evento": "Literature review for evidence based clinical practice",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P7M5",
+    "Evento": "Lecture 3: Clinical Assessment of Strabismus Motor e Sensory",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P7M5",
+    "Evento": "Specialty GP Applications",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Q3I7",
+    "Evento": "Working Smarter with Medicare Part 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Q3I7",
+    "Evento": "Prescribing for Children",
+    "Ano": "2026",
+    "CFCO": "1.5"
+  },
+  {
+    "NumeroMembro": "P7M5",
+    "Evento": "JC article on Mi Sight contact lenses for myopes",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "P7M5",
+    "Evento": "Axial Magnification from Distance and Near Corrections",
+    "Ano": "2026",
+    "CFCO": "3"
+  },
+  {
+    "NumeroMembro": "K2Z2",
+    "Evento": "Axial Magnification from Distance and Near Corrections",
+    "Ano": "2026",
+    "CFCO": "3"
+  },
+  {
+    "NumeroMembro": "P7M5",
+    "Evento": "Understanding the management of Ptosis",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "P7M5",
+    "Evento": "Lecture on Ophthalmoscopes",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "Q3I7",
+    "Evento": "Virtual Low Vision Meeting 2020 - Part I",
+    "Ano": "2026",
+    "CFCO": "1.75"
+  },
+  {
+    "NumeroMembro": "Q3I7",
+    "Evento": "Virtual Low Vision Meeting 2020 - Part III",
+    "Ano": "2026",
+    "CFCO": "3"
+  },
+  {
+    "NumeroMembro": "P7M5",
+    "Evento": "Optical Coherence Tomography (OCT) and Glaucoma",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P7M5",
+    "Evento": "KVC Vision Screening Training- Module 4 Infants and Children with Special Considerations",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "J1X4",
+    "Evento": "Scleral Lens Boot Camp",
+    "Ano": "2026",
+    "CFCO": "1.75"
+  },
+  {
+    "NumeroMembro": "P6A8",
+    "Evento": "La latÃ©ralisation et son importance au niveau visuel - C.O.C. 2019 - AOF",
+    "Ano": "2026",
+    "CFCO": "1.5"
+  },
+  {
+    "NumeroMembro": "A9V9",
+    "Evento": "Lecture on Ophthalmoscopes",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "A9V9",
+    "Evento": "KVC Vision Screening Training- Module 4 Infants and Children with Special Considerations",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "Z0H3",
+    "Evento": "Oral and Topical Steroids for the Eye",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Z0H3",
+    "Evento": "EBM application- Diagnostic Test",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "F9J4",
+    "Evento": "Clinical Use of Continuous IOP Measurement",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "G1T4",
+    "Evento": "Lecture on Ophthalmoscopes",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "Z0H3",
+    "Evento": "Lecture 2: Binocular Vision \u000bOrthoptic Procedures",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "K2Z2",
+    "Evento": "Prescribing for Children",
+    "Ano": "2026",
+    "CFCO": "1.5"
+  },
+  {
+    "NumeroMembro": "Y6N4",
+    "Evento": "Les Réserves fusionnelles en convergence et en divergence VL VP - EasyOpto - AOF",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "Z0H3",
+    "Evento": "Les Réserves fusionnelles en convergence et en divergence VL VP - EasyOpto - AOF",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "K2Z2",
+    "Evento": "Virtual Low Vision Meeting 2020 - Part II",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "G1T4",
+    "Evento": "KVC Vision Screening Training- Module 4 Infants and Children with Special Considerations",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "J0G8",
+    "Evento": "Low vision clinic refraction",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "T2O6",
+    "Evento": "Evidence Based Approach Clinical Decision Making",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "T2O6",
+    "Evento": "Lecture on Ophthalmoscopes",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "O0Y4",
+    "Evento": "Scleral Lens Fitting for Healthy Eyes  Astigmatic and Presbyopic Applications",
+    "Ano": "2026",
+    "CFCO": "1.25"
+  },
+  {
+    "NumeroMembro": "O0Y4",
+    "Evento": "Low vision clinic refraction",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "O0Y4",
+    "Evento": "Examen Visual del Infante",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "T2O6",
+    "Evento": "Prescribing for Children",
+    "Ano": "2026",
+    "CFCO": "1.5"
+  },
+  {
+    "NumeroMembro": "Q3I7",
+    "Evento": "Axial Magnification from Distance and Near Corrections",
+    "Ano": "2026",
+    "CFCO": "3"
+  },
+  {
+    "NumeroMembro": "T2O6",
+    "Evento": "KVC Vision Screening Training- Module 4 Infants and Children with Special Considerations",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "#N/D",
+    "Evento": "Advances in Keratoconus Treatment",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "#N/D",
+    "Evento": "Prescribing for Children",
+    "Ano": "2026",
+    "CFCO": "1.5"
+  },
+  {
+    "NumeroMembro": "N7Q5",
+    "Evento": "Virtual Low Vision Meeting 2020 - Part I",
+    "Ano": "2026",
+    "CFCO": "1.75"
+  },
+  {
+    "NumeroMembro": "#N/D",
+    "Evento": "Optometry Glaucoma Practice - Possibilities Beyond COVID Crises",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "R5T8",
+    "Evento": "Optical Coherence Tomography (OCT) and Glaucoma",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "A9V9",
+    "Evento": "GP Multifocal Fitting and Troubleshooting",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "A9V9",
+    "Evento": "Contact Lens Management of the Irregular Cornea: Case Grand Rounds",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "A9V9",
+    "Evento": "Advances in Keratoconus Treatment",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "A9V9",
+    "Evento": "Examination of Pupil",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "A9V9",
+    "Evento": "GP Management of Corneal Pathology Case Grand Rounds Dr. Marlane Brown OD FAAO",
+    "Ano": "2026",
+    "CFCO": "1.25"
+  },
+  {
+    "NumeroMembro": "A9V9",
+    "Evento": "Corneal Anatomy and Physiology",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "A9V9",
+    "Evento": "Low vision clinic refraction",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "H6J1",
+    "Evento": "GP Multifocal Fitting and Troubleshooting",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "H6J1",
+    "Evento": "Scleral Lens Fitting and Troubleshooting for Ocular Surface Disease",
+    "Ano": "2026",
+    "CFCO": "1.25"
+  },
+  {
+    "NumeroMembro": "H6J1",
+    "Evento": "Custom Soft Lens Applications for the High Astigmat",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "R5T8",
+    "Evento": "Lecture on Ophthalmoscopes",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "P4O8",
+    "Evento": "Introduction to Glaucoma",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "N9B4",
+    "Evento": "Hygiène et CoVid-19 - Morgane Massenet - OptoWebinar -",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "N9B4",
+    "Evento": "Virtual Low Vision Meeting 2020 - Part I",
+    "Ano": "2026",
+    "CFCO": "1.75"
+  },
+  {
+    "NumeroMembro": "N9B4",
+    "Evento": "Virtual Low Vision Meeting 2020 - Part II",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "N9B4",
+    "Evento": "Virtual Low Vision Meeting 2020 - Part III",
+    "Ano": "2026",
+    "CFCO": "3"
+  },
+  {
+    "NumeroMembro": "R5T8",
+    "Evento": "GP Management of Corneal Pathology Case Grand Rounds Dr. Marlane Brown OD FAAO",
+    "Ano": "2026",
+    "CFCO": "1.25"
+  },
+  {
+    "NumeroMembro": "M5D1",
+    "Evento": "Tear Dysfunctions and OSD Strategies for Successful Management",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "M5D1",
+    "Evento": "Prescribing for Children",
+    "Ano": "2026",
+    "CFCO": "1.5"
+  },
+  {
+    "NumeroMembro": "M5D1",
+    "Evento": "Axial Magnification from Distance and Near Corrections",
+    "Ano": "2026",
+    "CFCO": "3"
+  },
+  {
+    "NumeroMembro": "H7P2",
+    "Evento": "Optical Assistant Training Module 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "H7P2",
+    "Evento": "ABC of Low Vision",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "H7P2",
+    "Evento": "ABC of Low Vision",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "H7P2",
+    "Evento": "Working Smarter with Medicare Part 1",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "V1G5",
+    "Evento": "Scleral Lens Fitting and Troubleshooting for Ocular Surface Disease",
+    "Ano": "2026",
+    "CFCO": "1.25"
+  },
+  {
+    "NumeroMembro": "V1G5",
+    "Evento": "Scleral GP Contact Lens Insertion, Removal and Care",
+    "Ano": "2026",
+    "CFCO": "1.25"
+  },
+  {
+    "NumeroMembro": "V1G5",
+    "Evento": "Custom Soft Lens Applications for the High Astigmat",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "V1G5",
+    "Evento": "GP Multifocals for the Irregular Cornea",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "V1G5",
+    "Evento": "GP Multifocal Fitting and Troubleshooting",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "V1G5",
+    "Evento": "Contact Lens Management of the Irregular Cornea: Case Grand Rounds",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "V1G5",
+    "Evento": "GP Management of Corneal Pathology Case Grand Rounds Dr. Marlane Brown OD FAAO",
+    "Ano": "2026",
+    "CFCO": "1.25"
+  },
+  {
+    "NumeroMembro": "V1G5",
+    "Evento": "Scleral Lens Fitting for Healthy Eyes  Astigmatic and Presbyopic Applications",
+    "Ano": "2026",
+    "CFCO": "1.25"
+  },
+  {
+    "NumeroMembro": "V1G5",
+    "Evento": "Clinical Use of Continuous IOP Measurement",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "V1G5",
+    "Evento": "Virtual Low Vision Meeting 2020 - Part I",
+    "Ano": "2026",
+    "CFCO": "1.75"
+  },
+  {
+    "NumeroMembro": "M5D1",
+    "Evento": "Optical Coherence Tomography (OCT) and Glaucoma",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "D3J8",
+    "Evento": "GP Multifocals for the Irregular Cornea",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "I5K5",
+    "Evento": "Retina Applied Anatomy - Clinical Optometry",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "H7P2",
+    "Evento": "Lecture 1: Binocular Vision: Are two eyes better than one?",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "M5D1",
+    "Evento": "Advances in Corneal Collagen Crosslinking and the OCULUS Pentacam",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "H7P2",
+    "Evento": "Contemporary Scleral Lens Applications",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "M5D1",
+    "Evento": "Clinical Use of Continuous IOP Measurement",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "J6B1",
+    "Evento": "Prescribing for Children",
+    "Ano": "2026",
+    "CFCO": "1.5"
+  },
+  {
+    "NumeroMembro": "N4A4",
+    "Evento": "Lecture on Ophthalmoscopes",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "M5D1",
+    "Evento": "Virtual Low Vision Meeting 2020 - Part I",
+    "Ano": "2026",
+    "CFCO": "1.75"
+  },
+  {
+    "NumeroMembro": "M5D1",
+    "Evento": "Virtual Low Vision Meeting 2020 - Part II",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "N4A4",
+    "Evento": "Virtual Low Vision Meeting 2020 - Part III",
+    "Ano": "2026",
+    "CFCO": "3"
+  },
+  {
+    "NumeroMembro": "#N/D",
+    "Evento": "Optical Coherence Tomography (OCT) and Glaucoma",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "R5T8",
+    "Evento": "ABC of Low Vision",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "R5T8",
+    "Evento": "GP Multifocals for the Irregular Cornea",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "R5T8",
+    "Evento": "Contact Lens Management of the Irregular Cornea: Case Grand Rounds",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "V8W3",
+    "Evento": "KVC Vision Screening Training- Module 4 Infants and Children with Special Considerations",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "S3U4",
+    "Evento": "Correction of the Presbyope With Contact Lenses",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "Q1Q2",
+    "Evento": "Evidence Based Approach Clinical Decision Making",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Q1Q2",
+    "Evento": "EBM application- Diagnostic Test",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Q1Q2",
+    "Evento": "Evaporative dry eye",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "Q1Q2",
+    "Evento": "Lecture on Ophthalmoscopes",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "Q1Q2",
+    "Evento": "KVC Vision Screening Training- Module 4 Infants and Children with Special Considerations",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "I9D4",
+    "Evento": "KVC Vision Screening Training- Module 4 Infants and Children with Special Considerations",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "C6B6",
+    "Evento": "KVC Vision Screening Training- Module 4 Infants and Children with Special Considerations",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "N7Q5",
+    "Evento": "Scleral Lens Fitting and Troubleshooting for Ocular Surface Disease",
+    "Ano": "2026",
+    "CFCO": "1.25"
+  },
+  {
+    "NumeroMembro": "N7Q5",
+    "Evento": "Custom Soft Lens Applications for the High Astigmat",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "N7Q5",
+    "Evento": "GP Multifocals for the Irregular Cornea",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "N7Q5",
+    "Evento": "Contact Lens Management of the Irregular Cornea: Case Grand Rounds",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "N7Q5",
+    "Evento": "Examination of Pupil",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "N7Q5",
+    "Evento": "Evidence Based Approach Clinical Decision Making",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "T8E9",
+    "Evento": "Virtual Low Vision Meeting 2020 - Part III",
+    "Ano": "2026",
+    "CFCO": "3"
+  },
+  {
+    "NumeroMembro": "R5T8",
+    "Evento": "KVC Vision Screening Training- Module 4 Infants and Children with Special Considerations",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "T8E9",
+    "Evento": "Low vision clinic refraction",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "T8E9",
+    "Evento": "Virtual Low Vision Meeting 2020 - Part I",
+    "Ano": "2026",
+    "CFCO": "1.75"
+  },
+  {
+    "NumeroMembro": "T2O6",
+    "Evento": "Evaporative dry eye",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "X0P7",
+    "Evento": "Contact Lens Terminology",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Q1Q2",
+    "Evento": "Specialty GP Applications",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "L4E5",
+    "Evento": "KVC Vision Screening Training- Module 4 Infants and Children with Special Considerations",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "A1G5",
+    "Evento": "Oral and Topical Steroids for the Eye",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "A1G5",
+    "Evento": "Biomicroscopy Examination Technique",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "A1G5",
+    "Evento": "Evidence Based Approach Clinical Decision Making",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "A1G5",
+    "Evento": "Pediatric Optic Nerve Problems",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "A1G5",
+    "Evento": "Literature review for evidence based clinical practice",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "A1G5",
+    "Evento": "Lecture 1: Binocular Vision: Are two eyes better than one?",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "A1G5",
+    "Evento": "Lecture 2: Binocular Vision \u000bOrthoptic Procedures",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "A1G5",
+    "Evento": "Tear Dysfunctions and OSD Strategies for Successful Management",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "A1G5",
+    "Evento": "Mastering Dry Eye Step by Step",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "A1G5",
+    "Evento": "Advances in Corneal Collagen Crosslinking and the OCULUS Pentacam",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "A1G5",
+    "Evento": "Specialty GP Applications",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "A1G5",
+    "Evento": "Contemporary Scleral Lens Applications",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "A1G5",
+    "Evento": "Lecture on Ophthalmoscopes",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "A1G5",
+    "Evento": "KVC Vision Screening Training- Module 4 Infants and Children with Special Considerations",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "F1X5",
+    "Evento": "Custom Soft Lens Applications for the High Astigmat",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "#N/D",
+    "Evento": "Prescribing for Children",
+    "Ano": "2026",
+    "CFCO": "1.5"
+  },
+  {
+    "NumeroMembro": "P5A7",
+    "Evento": "Evaporative dry eye",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "P5A7",
+    "Evento": "Optometry Glaucoma Practice - Possibilities Beyond COVID Crises",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P8U2",
+    "Evento": "Low vision clinic refraction",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "P8U2",
+    "Evento": "Pediatric Optic Nerve Problems",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P8U2",
+    "Evento": "Retina Applied Anatomy - Clinical Optometry",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "F1X5",
+    "Evento": "Corneal Anatomy and Physiology",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Q0G5",
+    "Evento": "Prescribing Near Magnification Devices - Helping your patients to see up close",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "Q0G5",
+    "Evento": "Retina Applied Anatomy - Clinical Optometry",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "Q0G5",
+    "Evento": "Literature review for evidence based clinical practice",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Q0G5",
+    "Evento": "Lecture 2: Binocular Vision \u000bOrthoptic Procedures",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "Q0G5",
+    "Evento": "Optical Coherence Tomography (OCT) and Glaucoma",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "U2S0",
+    "Evento": "Review of Ocular Anatomy and Physiology Relevant to Contact Lens Practice",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "F1X5",
+    "Evento": "Examination of Pupil",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "F1X5",
+    "Evento": "Prescribing Near Magnification Devices - Helping your patients to see up close",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "F9D0",
+    "Evento": "Optical Coherence Tomography (OCT) and Glaucoma",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P8U2",
+    "Evento": "Introduction to Glaucoma",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "P8U2",
+    "Evento": "Review of Ocular Anatomy and Physiology Relevant to Contact Lens Practice",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "P8U2",
+    "Evento": "GP Multifocal Fitting and Troubleshooting",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P8U2",
+    "Evento": "Keratoconus",
+    "Ano": "2026",
+    "CFCO": "1.25"
+  },
+  {
+    "NumeroMembro": "Z0H3",
+    "Evento": "Fitting Toric Hydrogel Lenses",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "S3U4",
+    "Evento": "Pediatric Optic Nerve Problems",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Z0H3",
+    "Evento": "Evidence Based Approach Clinical Decision Making",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Z0H3",
+    "Evento": "Clinical Use of Continuous IOP Measurement",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "Z0H3",
+    "Evento": "JC article on Mi Sight contact lenses for myopes",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "P4G4",
+    "Evento": "Coopervision - Webinar: Reduzindo os abandonos",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "P4G4",
+    "Evento": "Coopervision - Webinar: Especialistas em tóricas",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "B5H3",
+    "Evento": "Coopervision - Formação de produto MyDay Multifocal",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "B5H3",
+    "Evento": "Coopervision - Formação DreamLite, lentes ortoqueratologia",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "M5U6",
+    "Evento": "Coopervision - MiSight Spectacle Lenses.",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "#N/D",
+    "Evento": "Coopervision - Formação MiSight 1 day",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "#N/D",
+    "Evento": "Coopervision - Formação DreamLite, lentes ortoqueratologia",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "#N/D",
+    "Evento": "Coopervision - MiSight Spectacle Lenses.",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "#N/D",
+    "Evento": "Coopervision - Webinar Visão Campeã com Lentes de Contacto",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "P4G4",
+    "Evento": "Coopervision - Formação de produto MyDay Multifocal",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "J6O0",
+    "Evento": "Coopervision - Formação MiSight 1 day",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P4G4",
+    "Evento": "Coopervision - Formação DreamLite, lentes ortoqueratologia",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "P4G4",
+    "Evento": "Coopervision - MiSight Spectacle Lenses.",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "P4G4",
+    "Evento": "Coopervision - Gravação: Webinar Visão Campeã com Lentes de Contacto",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "P4G4",
+    "Evento": "Coopervision - Formação MiSight 1 day",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "F0N8",
+    "Evento": "Coopervision - MiSight Spectacle Lenses.",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "F0N8",
+    "Evento": "Coopervision - Formação DreamLite, lentes ortoqueratologia",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "#N/D",
+    "Evento": "Coopervision - MiSight Spectacle Lenses.",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "N9A4",
+    "Evento": "Coopervision - Webinar: Especialistas em tóricas",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "#N/D",
+    "Evento": "Coopervision - Formação DreamLite, lentes ortoqueratologia",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "#N/D",
+    "Evento": "Coopervision - MiSight Spectacle Lenses.",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "J6B1",
+    "Evento": "Coopervision - Formação de produto MyDay Multifocal",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "#N/D",
+    "Evento": "Coopervision - Formação MiSight 1 day",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P4G4",
+    "Evento": "Coopervision - Webinar: Reduzindo os abandonos",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "W4H5",
+    "Evento": "Coopervision - Formação de produto MyDay Multifocal",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "W4H5",
+    "Evento": "Coopervision - Formação DreamLite, lentes ortoqueratologia",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "W4H5",
+    "Evento": "Coopervision - Webinar: Reduzindo os abandonos",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "#N/D",
+    "Evento": "Coopervision - Webinar: Reduzindo os abandonos",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "#N/D",
+    "Evento": "Coopervision - Formação de produto MyDay Multifocal",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "U6C8",
+    "Evento": "Coopervision - Formação DreamLite, lentes ortoqueratologia",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "U6C8",
+    "Evento": "Coopervision - Webinar: Reduzindo os abandonos",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "#N/D",
+    "Evento": "Coopervision - Formação DreamLite, lentes ortoqueratologia",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "#N/D",
+    "Evento": "Coopervision - Formação de produto MyDay Multifocal",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "#N/D",
+    "Evento": "Coopervision - MiSight Spectacle Lenses.",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "#N/D",
+    "Evento": "Coopervision - Formação DreamLite, lentes ortoqueratologia",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "#N/D",
+    "Evento": "Coopervision - Formação DreamLite, lentes ortoqueratologia",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "#N/D",
+    "Evento": "Coopervision - MiSight Spectacle Lenses.",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "#N/D",
+    "Evento": "Coopervision - MiSight Spectacle Lenses.",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "#N/D",
+    "Evento": "Coopervision - Gravação: Webinar Visão Campeã com Lentes de Contacto",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "#N/D",
+    "Evento": "Coopervision - Formação DreamLite, lentes ortoqueratologia",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "#N/D",
+    "Evento": "Coopervision - Formação MiSight 1 day",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "#N/D",
+    "Evento": "Coopervision - Formação MiSight 1 day",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "#N/D",
+    "Evento": "Coopervision - Formação de produto MyDay Multifocal",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "#N/D",
+    "Evento": "Coopervision - MiSight Spectacle Lenses.",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "Z2E9",
+    "Evento": "Coopervision - Gravação: Webinar Visão Campeã com Lentes de Contacto",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "F7U1",
+    "Evento": "Coopervision - Formação DreamLite, lentes ortoqueratologia",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "A6C3",
+    "Evento": "Coopervision - Formação DreamLite, lentes ortoqueratologia",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "F7U1",
+    "Evento": "Coopervision - Webinar: Reduzindo os abandonos",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "A6C3",
+    "Evento": "Coopervision - Webinar: Reduzindo os abandonos",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "F7U1",
+    "Evento": "Coopervision - Webinar: Especialistas em tóricas",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "A6C3",
+    "Evento": "Coopervision - Webinar: Especialistas em tóricas",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "F7U1",
+    "Evento": "Coopervision - Formação MiSight 1 day",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "A6C3",
+    "Evento": "Coopervision - Formação MiSight 1 day",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "F7U1",
+    "Evento": "Coopervision - Gravação: Webinar Visão Campeã com Lentes de Contacto",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "#N/D",
+    "Evento": "Coopervision - Formação MiSight 1 day Brilliant Future",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "J8B8",
+    "Evento": "Coopervision - Webinar: Especialistas em tóricas",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "#N/D",
+    "Evento": "Coopervision - Webinar: Especialistas em tóricas",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "W4H5",
+    "Evento": "Coopervision - MiSight Spectacle Lenses.",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "J6B1",
+    "Evento": "Coopervision - Webinar: Especialistas em tóricas",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "D7I2",
+    "Evento": "Coopervision - Formação de produto MyDay Multifocal",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "#N/D",
+    "Evento": "Coopervision - Webinar: Reduzindo os abandonos",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "J6B1",
+    "Evento": "Coopervision - Gravação: Webinar Visão Campeã com Lentes de Contacto",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "E9O2",
+    "Evento": "Coopervision - Webinar: Especialistas em tóricas",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "J6O0",
+    "Evento": "Coopervision - Webinar: Especialistas em tóricas",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "J6O0",
+    "Evento": "Coopervision - Webinar: Reduzindo os abandonos",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "N2S5",
+    "Evento": "Coopervision - Webinar: Reduzindo os abandonos",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "N2S5",
+    "Evento": "Coopervision - Webinar: Especialistas em tóricas",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "J6B1",
+    "Evento": "Coopervision - Webinar: Reduzindo os abandonos",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "J6B1",
+    "Evento": "Coopervision - MiSight Spectacle Lenses.",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "G4O8",
+    "Evento": "Coopervision - Formação MiSight 1 day",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "#N/D",
+    "Evento": "Coopervision - Formação DreamLite, lentes ortoqueratologia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "#N/D",
+    "Evento": "Coopervision - Webinar: Reduzindo os abandonos",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "#N/D",
+    "Evento": "Coopervision - Webinar: Reduzindo os abandonos",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "J6B1",
+    "Evento": "Coopervision - Webinar: Especialistas em tóricas",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "L8A0",
+    "Evento": "Coopervision - Formação MiSight 1 day",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "#N/D",
+    "Evento": "Coopervision - Formação de produto MyDay Multifocal",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "D7X8",
+    "Evento": "Coopervision - Formação DreamLite, lentes ortoqueratologia",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "D7X8",
+    "Evento": "Coopervision - Formação MiSight 1 day",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "#N/D",
+    "Evento": "Coopervision - MiSight Spectacle Lenses.",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "D7X8",
+    "Evento": "Coopervision - Gravação: Webinar Visão Campeã com Lentes de Contacto",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "K1E5",
+    "Evento": "Coopervision - MiSight Spectacle Lenses.",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "T2O6",
+    "Evento": "Coopervision - Formação DreamLite, lentes ortoqueratologia",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "T2O6",
+    "Evento": "Coopervision - Formação DreamLite, lentes ortoqueratologia",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "#N/D",
+    "Evento": "Coopervision - MiSight Spectacle Lenses.",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "I4R4",
+    "Evento": "Coopervision - Formação MiSight 1 day",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "C2G7",
+    "Evento": "Coopervision - Webinar: Reduzindo os abandonos",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "I4R4",
+    "Evento": "Coopervision - Formação DreamLite, lentes ortoqueratologia",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "M8P7",
+    "Evento": "Coopervision - Formação DreamLite, lentes ortoqueratologia",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "I4R4",
+    "Evento": "Coopervision - Formação de produto MyDay Multifocal",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "V8W3",
+    "Evento": "Coopervision - Formação DreamLite, lentes ortoqueratologia",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "V8W3",
+    "Evento": "Coopervision - MiSight Spectacle Lenses.",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "V8W3",
+    "Evento": "Coopervision - Formação MiSight 1 day",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "V8W3",
+    "Evento": "Coopervision - Formação MiSight 1 day",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "I4R4",
+    "Evento": "Coopervision - Webinar: Reduzindo os abandonos",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "V8W3",
+    "Evento": "Coopervision - Webinar: Especialistas em tóricas",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "V8W3",
+    "Evento": "Coopervision - Formação DreamLite, lentes ortoqueratologia",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "G4O8",
+    "Evento": "Coopervision - Formação de produto MyDay Multifocal",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "M8P7",
+    "Evento": "Coopervision - Webinar: Especialistas em tóricas",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "W8X3",
+    "Evento": "Coopervision - Webinar: Especialistas em tóricas",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "J8T3",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P0H7",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "L0A5",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "I1Y3",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "G3Z8",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P6S9",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "S5E0",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "T0A9",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "O2C8",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "X4W3",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "B4N8",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "A4W9",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "B4E8",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "F6Z9",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Q1A3",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "K2L5",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "M9A4",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Y4M8",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "K2Z2",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "W6Q0",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "H1Z5",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "D8K5",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "O3V0",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "D8S3",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "M6E1",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "C6A4",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "B1D4",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "O8S9",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "W2P9",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "F0N8",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Y6W3",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P1G1",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Q5V9",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "A2M6",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "X5T8",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "E7R1",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "X0P7",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "S2D5",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "O2N4",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "B8M6",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "G4O8",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "V5M2",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "L1W0",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "T9F7",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "B1U9",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "U5V1",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "R6U5",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "L7M9",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "M4T8",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "V4Q9",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "J3E8",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "U7T0",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P7W7",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "J0E3",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "V1G7",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Y0M4",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Q5H4",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "S5C8",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "D7I2",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "G9A5",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P1V7",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "W7W5",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "N5S5",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "A1H1",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "D1W7",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "F5K9",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "O6P4",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "X7L4",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P0H7",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "I1Y3",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P6S9",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "O2C8",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "X5S4",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "F7T7",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "N7T5",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "A9V9",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "A4W9",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "B4E8",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "F6Z9",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Y4M8",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "W6Q0",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "H1Z5",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "O3N6",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "H1D3",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "E7J2",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "F9J4",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P2P6",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "T1Z8",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "T9V5",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "B1D4",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "F0N8",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "N2S5",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P1G1",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "S2Y0",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "B5H3",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "A2M6",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "X5T8",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "E7R1",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "X0P7",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "W1M9",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "D0I9",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "O2N4",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Z0M0",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "B8M6",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "W5O6",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "G4O8",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "V5M2",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "B1U9",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "U5V1",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "R2D3",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "R6U5",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "M4T8",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "G5Y8",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "R1P6",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "F0Z0",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P9I6",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P7W7",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "D0C7",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "G8C0",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "J6O0",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "J0E3",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Y0M4",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "M2M9",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "G2U1",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "S5C8",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "D7I2",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "N5S5",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "D1W7",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "F5K9",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "O6P4",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "X7L4",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "S4Z0",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "D1F9",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P0H7",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "I1Y3",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "G3Z8",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P6S9",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "T0A9",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Z2F8",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "O5U3",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "X5S4",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "L6B0",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "A4W9",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "B4E8",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "G1T4",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "V8U0",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Y2H2",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Y4M8",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "W6Q0",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "H1Z5",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "H1D3",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "E7J2",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "M6E1",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "C6A4",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "T9V5",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "B1D4",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Y6W3",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P1G1",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "B5H3",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "E7R1",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "A2M6",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "X5T8",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "X0P7",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "W7A6",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "O2N4",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "W5O6",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "G4O8",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "L1W0",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "T9F7",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "A8K2",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "R7O8",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "U5V1",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "E9O2",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "R6U5",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "M4T8",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "G5Y8",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "J3E8",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "F0Z0",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P9I6",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "C2G7",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P7W7",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "D0C7",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "J0E3",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "R5T8",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "H1D9",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "V1G7",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "O9R3",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "M2M9",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "G2U1",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "S5C8",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "D7I2",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "G9A5",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P1V7",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "W7W5",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "N5S5",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "A1H1",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "D1W7",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "F5K9",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "X7L4",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "N4F2",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 1",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "J8T3",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 1",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "I1Y3",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 1",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "S5E0",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 1",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "O2C8",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 1",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "B4N8",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 1",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "A4W9",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 1",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "B4E8",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 1",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "F6Z9",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 1",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "H7P2",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 1",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "D9O3",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 1",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "M9A4",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 1",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "V8U0",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 1",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "W6Q0",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 1",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "T3R2",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 1",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "H1Z5",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 1",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "D1Y5",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 1",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "O3N6",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 1",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "E7J2",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 1",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P2P6",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 1",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "T1Z8",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 1",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "B1D4",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 1",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "W2P9",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 1",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "F0N8",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 1",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Y6W3",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 1",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P1G1",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 1",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "B5H3",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 1",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "A2M6",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 1",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "E7R1",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 1",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "W7A6",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 1",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "O2N4",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 1",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "B8M6",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 1",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "V5M2",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 1",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "L1W0",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 1",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "T9F7",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 1",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "R6U5",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 1",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "M4T8",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 1",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P9I6",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 1",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P7W7",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 1",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "D0C7",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 1",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "J0E3",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 1",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Y0M4",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 1",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Q5H4",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 1",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P1V7",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 1",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "W7W5",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 1",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "N5S5",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 1",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "D1W7",
+    "Evento": "Bausch Lomb - Multifocal Talks Sessão 1",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "J0G8",
+    "Evento": "Cybersight - Herpes Infections",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "B4F7",
+    "Evento": "Cybersight - Fundamentals of Motility",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "B4F7",
+    "Evento": "Cybersight - Fundamentals of MSICS",
+    "Ano": "2026",
+    "CFCO": "4"
+  },
+  {
+    "NumeroMembro": "A9G5",
+    "Evento": "Alcon - Actualización clínica en SUPERFICIE OCULAR y LENTES DE CONTACTO BLANDAS",
+    "Ano": "2026",
+    "CFCO": "10"
+  },
+  {
+    "NumeroMembro": "Y5L4",
+    "Evento": "Cybersight - Basics of Phacoemulsification",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Y5L4",
+    "Evento": "Cybersight - Fundamentals of Phacoemulsification",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "Y5L4",
+    "Evento": "Alcon - Getting behind the Science of TOTAL30 Monthly Contact Lenses",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "Y5L4",
+    "Evento": "Alcon - Multifocal Fit Troubleshooting",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "Y5L4",
+    "Evento": "Alcon - Patient Identification & Selection Process",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "Y5L4",
+    "Evento": "Alcon - Toric Contact Lenses Enhancing Vision in Astigmats",
+    "Ano": "2026",
+    "CFCO": "0.1"
+  },
+  {
+    "NumeroMembro": "Y5L4",
+    "Evento": "Alcon - TOTAL30 Revolutionising Monthly Reusable Lenses",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "Y5L4",
+    "Evento": "Alcon - Dry Eye & Ocular Health",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "Y5L4",
+    "Evento": "Alcon - Dry Eye Foundational Knowledge",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "Q8P8",
+    "Evento": "Valor Visão - Visão e Dificuldades de Aprendizagem",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "J8T3",
+    "Evento": "Valor Visão - Visão e Dificuldades de Aprendizagem",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "D1F9",
+    "Evento": "Valor Visão - Visão e Dificuldades de Aprendizagem",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "X8I6",
+    "Evento": "Valor Visão - Visão e Dificuldades de Aprendizagem",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "F7T7",
+    "Evento": "Valor Visão - Visão e Dificuldades de Aprendizagem",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "X4O6",
+    "Evento": "Valor Visão - Visão e Dificuldades de Aprendizagem",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "N7T5",
+    "Evento": "Valor Visão - Visão e Dificuldades de Aprendizagem",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "M8P7",
+    "Evento": "Valor Visão - Visão e Dificuldades de Aprendizagem",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "H1H9",
+    "Evento": "Valor Visão - Visão e Dificuldades de Aprendizagem",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "K5G9",
+    "Evento": "Valor Visão - Visão e Dificuldades de Aprendizagem",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "J1Y7",
+    "Evento": "Valor Visão - Visão e Dificuldades de Aprendizagem",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "S7J6",
+    "Evento": "Valor Visão - Visão e Dificuldades de Aprendizagem",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "B8D5",
+    "Evento": "Valor Visão - Visão e Dificuldades de Aprendizagem",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "V2B5",
+    "Evento": "Valor Visão - Visão e Dificuldades de Aprendizagem",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "I1Y9",
+    "Evento": "Valor Visão - Visão e Dificuldades de Aprendizagem",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "U9G9",
+    "Evento": "Valor Visão - Visão e Dificuldades de Aprendizagem",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "E0G7",
+    "Evento": "Valor Visão - Visão e Dificuldades de Aprendizagem",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "O1P2",
+    "Evento": "Valor Visão - Visão e Dificuldades de Aprendizagem",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "I1W2",
+    "Evento": "Valor Visão - Visão e Dificuldades de Aprendizagem",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "T1Z8",
+    "Evento": "Valor Visão - Visão e Dificuldades de Aprendizagem",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "D8E7",
+    "Evento": "Valor Visão - Visão e Dificuldades de Aprendizagem",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "H5U1",
+    "Evento": "Valor Visão - Visão e Dificuldades de Aprendizagem",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "B2A3",
+    "Evento": "Valor Visão - Visão e Dificuldades de Aprendizagem",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "G4O8",
+    "Evento": "Valor Visão - Visão e Dificuldades de Aprendizagem",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "T5Z9",
+    "Evento": "Valor Visão - Visão e Dificuldades de Aprendizagem",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "Q4S7",
+    "Evento": "Valor Visão - Visão e Dificuldades de Aprendizagem",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "H2G3",
+    "Evento": "Valor Visão - Visão e Dificuldades de Aprendizagem",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "C1D4",
+    "Evento": "Valor Visão - Visão e Dificuldades de Aprendizagem",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "V5L7",
+    "Evento": "Valor Visão - Visão e Dificuldades de Aprendizagem",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "D9X6",
+    "Evento": "Valor Visão - Visão e Dificuldades de Aprendizagem",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "I9I4",
+    "Evento": "Valor Visão - Visão e Dificuldades de Aprendizagem",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "W6D1",
+    "Evento": "Valor Visão - Visão e Dificuldades de Aprendizagem",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "D7B1",
+    "Evento": "Valor Visão - Visão e Dificuldades de Aprendizagem",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "J0I2",
+    "Evento": "Valor Visão - Visão e Dificuldades de Aprendizagem",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "M7V4",
+    "Evento": "Valor Visão - Visão e Dificuldades de Aprendizagem",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "N8D0",
+    "Evento": "Valor Visão - Visão e Dificuldades de Aprendizagem",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "W9K8",
+    "Evento": "Valor Visão - Visão e Dificuldades de Aprendizagem",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "C4F7",
+    "Evento": "Valor Visão - Visão e Dificuldades de Aprendizagem",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "Z7F8",
+    "Evento": "Valor Visão - Visão e Dificuldades de Aprendizagem",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "R3F1",
+    "Evento": "Valor Visão - Visão e Dificuldades de Aprendizagem",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "L7U4",
+    "Evento": "UM - Optomevista 26",
+    "Ano": "2026",
+    "CFCO": "2.5"
+  },
+  {
+    "NumeroMembro": "A5R2",
+    "Evento": "UM - Optomevista 26",
+    "Ano": "2026",
+    "CFCO": "2.5"
+  },
+  {
+    "NumeroMembro": "H2M2",
+    "Evento": "UM - Optomevista 26",
+    "Ano": "2026",
+    "CFCO": "2.5"
+  },
+  {
+    "NumeroMembro": "W1K2",
+    "Evento": "UM - Optomevista 26",
+    "Ano": "2026",
+    "CFCO": "2.5"
+  },
+  {
+    "NumeroMembro": "V8D1",
+    "Evento": "UM - Optomevista 26",
+    "Ano": "2026",
+    "CFCO": "2.5"
+  },
+  {
+    "NumeroMembro": "V3J7",
+    "Evento": "UM - Optomevista 26",
+    "Ano": "2026",
+    "CFCO": "2.5"
+  },
+  {
+    "NumeroMembro": "L0R0",
+    "Evento": "UM - Optomevista 26",
+    "Ano": "2026",
+    "CFCO": "2.5"
+  },
+  {
+    "NumeroMembro": "H5K5",
+    "Evento": "UM - Optomevista 26",
+    "Ano": "2026",
+    "CFCO": "2.5"
+  },
+  {
+    "NumeroMembro": "Q2A2",
+    "Evento": "UM - Optomevista 26",
+    "Ano": "2026",
+    "CFCO": "2.5"
+  },
+  {
+    "NumeroMembro": "S6M9",
+    "Evento": "Cybersight - Eye Care: Essential Skills for Community Health Workers",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "S6M9",
+    "Evento": "Alcon - Getting behind the Science of TOTAL30 Monthly Contact Lenses",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "S6M9",
+    "Evento": "Alcon - Multifocal Fit Troubleshooting",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "S6M9",
+    "Evento": "Alcon - Patient Identification & Selection Process",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "S6M9",
+    "Evento": "Alcon - Dry Eye & Ocular Health",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "S6M9",
+    "Evento": "Alcon - Dry Eye Foundational Knowledge",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "S6M9",
+    "Evento": "Alcon - Anatomy and Physiology of the Eye",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "S6M9",
+    "Evento": "Alcon - Contact Lenses",
+    "Ano": "2026",
+    "CFCO": "1.25"
   }
 ]
