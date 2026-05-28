@@ -2,6 +2,14 @@
   "eventos": [
     {
       "entidade": "U. Minho",
+      "evento": "Inscrição Mestrado em Optometria Avançada",
+      "tipo": "Formação",
+      "ano": "2026",
+      "cfco": "10",
+      "hiperligacao": ""
+    },
+    {
+      "entidade": "U. Minho",
       "evento": "Intervenção Clínica Digital em Saúde Visual",
       "tipo": "Evento",
       "ano": "2026",
