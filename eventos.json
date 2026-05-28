@@ -2,6 +2,14 @@
   "eventos": [
     {
       "entidade": "U. Minho",
+      "evento": "Intervenção Clínica Digital em Saúde Visual",
+      "tipo": "Evento",
+      "ano": "2026",
+      "cfco": "2",
+      "hiperligacao": "https://docs.google.com/forms/d/1upuols9OLSlb4_tR1IWINu0aBHVI6et5VBgCgI69CE4/viewform?edit_requested=true"
+    },
+    {
+      "entidade": "U. Minho",
       "evento": "Teleconsulta na Saúde Visual: Avaliação e Gestão Clínica Remota",
       "tipo": "Evento",
       "ano": "2026",
