@@ -1,0 +1,724 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visión de Futuro - Conferencias Abiertas de Optometría XXII Edición</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --primary-purple: #2D1B3D;
+            --primary-pink: #E85E9C;
+            --primary-gold: #F5A623;
+            --white: #FFFFFF;
+            --dark-gray: #1a1a1a;
+            --light-gray: #f5f5f5;
+            --text-secondary: #666666;
+        }
+
+        html {
+            scroll-behavior: smooth;
+        }
+
+        body {
+            font-family: 'Poppins', sans-serif;
+            color: var(--dark-gray);
+            line-height: 1.6;
+            background-color: var(--light-gray);
+        }
+
+        header {
+            background: linear-gradient(135deg, rgba(45, 27, 61, 0.85) 0%, rgba(26, 15, 31, 0.85) 100%), 
+                        url('https://images.unsplash.com/photo-1576091160550-112173f31c77?w=1200&h=200&fit=crop') center/cover;
+            background-attachment: fixed;
+            color: var(--white);
+            padding: 1rem 0;
+            position: fixed;
+            width: 100%;
+            top: 0;
+            z-index: 1000;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+        }
+
+        .navbar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 2rem;
+        }
+
+        .logo {
+            font-size: 1.5rem;
+            font-weight: 700;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .logo span {
+            color: var(--primary-pink);
+        }
+
+        nav {
+            display: flex;
+            gap: 2rem;
+            list-style: none;
+        }
+
+        nav a {
+            color: var(--white);
+            text-decoration: none;
+            font-weight: 500;
+            transition: color 0.3s ease;
+            font-size: 0.95rem;
+        }
+
+        nav a:hover {
+            color: var(--primary-gold);
+        }
+
+        @media (max-width: 768px) {
+            nav {
+                display: none;
+            }
+        }
+
+        .hero {
+            background: linear-gradient(135deg, rgba(45, 27, 61, 0.88) 0%, rgba(26, 15, 31, 0.88) 100%), 
+                        url('kv.png') center/cover;
+            background-attachment: fixed;
+            color: var(--white);
+            padding: 120px 2rem 80px;
+            text-align: center;
+            margin-top: 60px;
+        }
+
+        .hero h1 {
+            font-size: 3.5rem;
+            margin-bottom: 0.5rem;
+            line-height: 1.1;
+        }
+
+        .hero h1 .pink {
+            color: var(--primary-pink);
+        }
+
+        .hero h1 .gold {
+            color: var(--primary-gold);
+        }
+
+        .hero p {
+            font-size: 1.2rem;
+            color: #ddd;
+            margin-bottom: 2rem;
+        }
+
+        .hero-buttons {
+            display: flex;
+            gap: 1rem;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+
+        .btn {
+            padding: 12px 30px;
+            border: none;
+            border-radius: 50px;
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            text-decoration: none;
+            display: inline-block;
+            font-family: 'Poppins', sans-serif;
+        }
+
+        .btn-primary {
+            background-color: var(--primary-gold);
+            color: var(--primary-purple);
+        }
+
+        .btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(245, 166, 35, 0.3);
+        }
+
+        .btn-secondary {
+            background-color: var(--primary-pink);
+            color: var(--white);
+        }
+
+        .btn-secondary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(232, 94, 156, 0.3);
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 2rem;
+        }
+
+        section {
+            padding: 80px 2rem;
+        }
+
+        section h2 {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+            color: var(--primary-purple);
+            text-align: center;
+        }
+
+        section h2 .accent {
+            color: var(--primary-pink);
+        }
+
+        .section-subtitle {
+            text-align: center;
+            color: var(--text-secondary);
+            margin-bottom: 3rem;
+            font-size: 1.1rem;
+        }
+
+        .programa-section {
+            background-color: var(--white);
+        }
+
+        .programa-content {
+            background: linear-gradient(135deg, var(--primary-purple) 0%, #1a0f1f 100%);
+            color: var(--white);
+            border-radius: 15px;
+            padding: 3rem;
+            text-align: center;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            margin-bottom: 2rem;
+        }
+
+        .programa-content h3 {
+            font-size: 2rem;
+            margin-bottom: 1rem;
+            color: var(--primary-gold);
+        }
+
+        .programa-content p {
+            font-size: 1.1rem;
+            margin-bottom: 1.5rem;
+            line-height: 1.8;
+        }
+
+        .llegar-section {
+            background-color: var(--white);
+        }
+
+        .llegar-container {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 3rem;
+            align-items: center;
+        }
+
+        .mapa-container {
+            border-radius: 15px;
+            overflow: hidden;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            height: 500px;
+        }
+
+        .mapa-container iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+
+        .ubicacion-info {
+            padding: 2rem;
+        }
+
+        .ubicacion-info h3 {
+            font-size: 1.5rem;
+            color: var(--primary-purple);
+            margin-bottom: 1.5rem;
+        }
+
+        .ubicacion-info p {
+            margin-bottom: 1rem;
+            line-height: 1.8;
+            color: var(--text-secondary);
+        }
+
+        .info-item {
+            display: flex;
+            gap: 1rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .info-item i {
+            color: var(--primary-gold);
+            font-size: 1.3rem;
+            width: 30px;
+            text-align: center;
+            margin-top: 0.2rem;
+        }
+
+        .info-item-text h4 {
+            color: var(--primary-purple);
+            margin-bottom: 0.3rem;
+        }
+
+        .info-item-text p {
+            margin: 0;
+            font-size: 0.95rem;
+        }
+
+        @media (max-width: 768px) {
+            .llegar-container {
+                grid-template-columns: 1fr;
+                gap: 2rem;
+            }
+
+            .mapa-container {
+                height: 400px;
+            }
+        }
+
+        .galeria-section {
+            background: linear-gradient(135deg, #f5f5f5 0%, #fafafa 100%);
+        }
+
+        .galeria-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+            margin-bottom: 3rem;
+        }
+
+        .galeria-item {
+            border-radius: 15px;
+            overflow: hidden;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            transition: transform 0.3s ease;
+            height: 300px;
+            background-color: #ddd;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .galeria-item:hover {
+            transform: translateY(-5px);
+        }
+
+        .galeria-item img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .video-section {
+            background-color: var(--white);
+        }
+
+        .video-container {
+            max-width: 800px;
+            margin: 0 auto;
+            border-radius: 15px;
+            overflow: hidden;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+        }
+
+        .video-wrapper {
+            position: relative;
+            width: 100%;
+            padding-bottom: 56.25%;
+            height: 0;
+            overflow: hidden;
+        }
+
+        .video-wrapper video,
+        .video-wrapper iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+
+        .inscripcion-section {
+            background: linear-gradient(135deg, var(--primary-purple) 0%, #1a0f1f 100%);
+            color: var(--white);
+            text-align: center;
+        }
+
+        .inscripcion-section h2,
+        .inscripcion-section h2 .accent {
+            color: var(--primary-gold);
+        }
+
+        .inscripcion-content {
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        .inscripcion-content p {
+            font-size: 1.1rem;
+            margin-bottom: 2rem;
+            line-height: 1.8;
+        }
+
+        footer {
+            background-color: #1a1a1a;
+            color: var(--white);
+            text-align: center;
+            padding: 2rem;
+            font-size: 0.95rem;
+        }
+
+        footer p {
+            margin: 0.5rem 0;
+        }
+
+        .detalles-programa {
+            background-color: #f9f9f9;
+            border-left: 4px solid var(--primary-gold);
+            padding: 1.5rem;
+            border-radius: 5px;
+            margin-top: 2rem;
+        }
+
+        .detalles-programa h4 {
+            color: var(--primary-purple);
+            margin-bottom: 1rem;
+        }
+
+        .detalles-programa ul {
+            list-style: none;
+            padding-left: 1rem;
+        }
+
+        .detalles-programa li {
+            margin-bottom: 0.8rem;
+            color: var(--text-secondary);
+        }
+
+        .detalles-programa li:before {
+            content: "▸ ";
+            color: var(--primary-gold);
+            font-weight: bold;
+            margin-right: 0.5rem;
+        }
+
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 2rem;
+            margin-top: 3rem;
+        }
+
+        .stat-box {
+            text-align: center;
+            padding: 2rem;
+            background-color: var(--white);
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        }
+
+        .stat-number {
+            font-size: 2.5rem;
+            font-weight: 700;
+            color: var(--primary-gold);
+        }
+
+        .stat-label {
+            color: var(--text-secondary);
+            margin-top: 0.5rem;
+        }
+
+        .redes-sociales {
+            display: flex;
+            gap: 1rem;
+            justify-content: center;
+            margin-top: 2rem;
+        }
+
+        .redes-sociales a {
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            background-color: var(--primary-gold);
+            color: var(--primary-purple);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-decoration: none;
+            font-size: 1.3rem;
+            transition: all 0.3s ease;
+        }
+
+        .redes-sociales a:hover {
+            background-color: var(--primary-pink);
+            color: var(--white);
+            transform: scale(1.1);
+        }
+
+        @media (max-width: 768px) {
+            .hero h1 {
+                font-size: 2.5rem;
+            }
+
+            section h2 {
+                font-size: 2rem;
+            }
+
+            section {
+                padding: 50px 1rem;
+            }
+
+            nav {
+                flex-direction: column;
+                gap: 1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="navbar">
+            <div class="logo">
+                <span>Visión</span> de Futuro
+            </div>
+            <nav>
+                <a href="#programa">Programa</a>
+                <a href="#llegar">Cómo Llegar</a>
+                <a href="#galeria">Hotel</a>
+                <a href="#video">Vídeo</a>
+                <a href="#inscripcion">Inscripción</a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- HERO SECTION -->
+    <section class="hero">
+        <div class="container">
+            <h1>
+                <span class="pink">Visión</span> de<br>
+                <span class="gold">Futuro</span>
+            </h1>
+            <p>Conferencias Abiertas de Optometría - XXII Edición</p>
+            <p style="font-size: 1.3rem; font-weight: 600; margin-bottom: 3rem;">3 y 4 de Octubre</p>
+            <div class="hero-buttons">
+                <a href="#programa" class="btn btn-primary">Ver Programa</a>
+                <a href="#inscripcion" class="btn btn-secondary">Inscribirse Ahora</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- PROGRAMA SECTION -->
+    <section id="programa" class="programa-section">
+        <div class="container">
+            <h2>
+                El <span class="accent">Programa</span>
+            </h2>
+            <p class="section-subtitle">Disfruta de conferencias, talleres y networking con los mayores expertos en optometría</p>
+
+            <div class="programa-content">
+                <h3>📅 Programa Completo 2024</h3>
+                <p>
+                    Accede a todo el detalle del evento con horarios, conferenciantes, talleres y actividades especiales.
+                </p>
+                <a href="Agenda_Digital_CAO_26V2_ESPANOL.pdf" class="btn btn-primary" download>
+                    Descargar Programa en PDF
+                </a>
+                
+            </div>
+
+            <div class="stats">
+                <div class="stat-box">
+                    <div class="stat-number">22</div>
+                    <div class="stat-label">Ediciones</div>
+                </div>
+                <div class="stat-box">
+                    <div class="stat-number">2</div>
+                    <div class="stat-label">Días</div>
+                </div>
+                <div class="stat-box">
+                    <div class="stat-number">24</div>
+                    <div class="stat-label">Expositores</div>
+                </div>
+                <div class="stat-box">
+                    <div class="stat-number">37</div>
+                    <div class="stat-label">Ponencias y Presentaciones</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- LLEGAR SECTION -->
+    <section id="llegar" class="llegar-section">
+        <div class="container">
+            <h2>
+                Cómo <span class="accent">Llegar</span>
+            </h2>
+            <p class="section-subtitle">Ubicado en el corazón de Figueira da Foz, fácil de acceder desde cualquier parte</p>
+
+            <div class="llegar-container">
+                <div class="mapa-container">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d748.9089897098862!2d-8.867355413671876!3d40.15599226914506!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd2237bcf6af69a9%3A0xb45a8a3e636da2ef!2sEurostars%20Oasis%20Plaza!5e0!3m2!1ses!2spt!4v1693034566666!5m2!1ses!2spt" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </div>
+
+                <div class="ubicacion-info">
+                    <h3>Lugar del Evento</h3>
+
+                    <div class="info-item">
+                        <i class="fas fa-hotel"></i>
+                        <div class="info-item-text">
+                            <h4>Hotel Eurostars Oasis Plaza</h4>
+                            <p>Avenida Saraiva de Carvalho, 1860<br>3080-258 Figueira da Foz, Portugal</p>
+                        </div>
+                    </div>
+
+                    <div class="info-item">
+                        <i class="fas fa-car"></i>
+                        <div class="info-item-text">
+                            <h4>En Coche</h4>
+                            <p>Aparcamiento disponible en el hotel. A 20 minutos de la autopista A17.</p>
+                        </div>
+                    </div>
+
+                    <div class="info-item">
+                        <i class="fas fa-train"></i>
+                        <div class="info-item-text">
+                            <h4>En Transporte Público</h4>
+                            <p>Estación de tren y autobús a 2 km del hotel. Servicios de taxi disponibles.</p>
+                        </div>
+                    </div>
+
+                    <div class="info-item">
+                        <i class="fas fa-plane"></i>
+                        <div class="info-item-text">
+                            <h4>En Avión</h4>
+                            <p>Aeropuerto más cercano: Porto (150 km). Alquiler de coches disponible.</p>
+                        </div>
+                    </div>
+                    <a href="https://www.google.com/maps/place/Eurostars+Oasis+Plaza/@40.1559923,-8.8699304,647m/data=!3m1!1e3!4m9!3m8!1s0xd2237bcf6af69a9:0xb45a8a3e636da2ef!5m2!4m1!1i2!8m2!3d40.1559923!4d-8.8673555!16s%2Fg%2F11bbwmx51b?entry=ttu&g_ep=EgoyMDI2MDgyNS4wIKXMDSoASAFQAw%3D%3D" 
+                   target="_blank" class="btn btn-primary" style="margin-top: 1.5rem;">
+                    Ver en Google Maps
+                </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- GALERIA SECTION -->
+    <section id="galeria" class="galeria-section">
+        <div class="container">
+            <h2>Conoce el <span class="accent">Hotel</span></h2>
+            <p class="section-subtitle">y el Salón de la Cena Oficial</p>
+
+            <div class="galeria-grid">
+                <div class="galeria-item">
+                    <img src="1.jpg" alt="Hotel Fachada">
+                </div>
+                <div class="galeria-item">
+                    <img src="2.jpg" alt="Habitación">
+                </div>
+                <div class="galeria-item">
+                    <img src="3.jpg" alt="Restaurante">
+                </div>
+                <div class="galeria-item">
+                    <img src="3a.jpg" alt="Piscina">
+                </div>
+                <div class="galeria-item">
+                    <img src="4.jpg" alt="Gimnasio">
+                </div>
+                <div class="galeria-item">
+                    <img src="5.jpg" alt="Lobby">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- VIDEO SECTION -->
+    <section id="video" class="video-section">
+        <div class="container">
+            <h2>Revive el <span class="accent">Año Pasado</span></h2>
+            <p class="section-subtitle">Momentos destacados de la edición anterior de Visión de Futuro</p>
+
+            <div class="video-container">
+                <div class="video-wrapper">
+                    <video controls>
+                        <source src="video.mp4" type="video/mp4">
+                        Tu navegador no soporta el elemento de video.
+                    </video>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- INSCRIPCION SECTION -->
+    <section id="inscripcion" class="inscripcion-section">
+        <div class="container">
+            <h2>Inscrípete <span class="accent">Ahora</span></h2>
+            <p class="section-subtitle">¡No te pierdas este evento imprescindible para profesionales de la optometría!</p>
+
+            <div class="inscripcion-content">
+                <p>
+                    Haz clic en el botón de abajo para acceder al formulario de inscripción. 
+                    Disponemos de plazas limitadas, así que te recomendamos que te registres lo antes posible.
+                </p>
+
+                <a href="https://tally.so/r/44V05O" 
+                   target="_blank" class="btn btn-primary" style="font-size: 1.1rem; padding: 15px 40px;">
+                    Acceder al Formulario de Inscripción
+                </a>
+
+                <p style="margin-top: 2rem; font-size: 0.95rem; opacity: 0.9;">
+                    Si tienes problemas al acceder al formulario, envía un email a: 
+                    <strong>aplo@aplo.pt</strong>
+                </p>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- FOOTER -->
+    <footer>
+        <div class="container">
+            <p><strong>Conferencias Abiertas de Optometría - XXII Edición</strong></p>
+            <p>Visión de Futuro</p>
+            <p>3 y 4 de Octubre de 2026 | Figueira da Foz, Portugal</p>
+            <p style="margin-top: 1rem; opacity: 0.7;">
+                © 2026 APLO. Todos los derechos reservados.
+            </p>
+        </div>
+    </footer>
+
+    <script>
+        // Smooth scroll para navegación
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                const href = this.getAttribute('href');
+                if (href !== '#') {
+                    e.preventDefault();
+                    const target = document.querySelector(href);
+                    if (target) {
+                        target.scrollIntoView({ behavior: 'smooth' });
+                    }
+                }
+            });
+        });
+    </script>
+</body>
+</html>
