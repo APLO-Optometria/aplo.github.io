@@ -8664,12 +8664,6 @@
     "CFCO": "1"
   },
   {
-    "NumeroMembro": "T9V5",
-    "Evento": "Bausch Lomb - Multifocal Talks, Sessão 1 : A Presbiopia, uma Oportunidade",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
     "NumeroMembro": "D8E7",
     "Evento": "Bausch Lomb - Multifocal Talks, Sessão 1 : A Presbiopia, uma Oportunidade",
     "Ano": "2026",
@@ -10086,12 +10080,6 @@
     "CFCO": "1"
   },
   {
-    "NumeroMembro": "T9V5",
-    "Evento": "Bausch Lomb - Multifocal Talks, Sessão 2 : Materiais e Desenho da B+L para os Utilizadores Presbitas",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
     "NumeroMembro": "D8E7",
     "Evento": "Bausch Lomb - Multifocal Talks, Sessão 2 : Materiais e Desenho da B+L para os Utilizadores Presbitas",
     "Ano": "2026",
@@ -11481,7 +11469,7 @@
     "NumeroMembro": "G9O8",
     "Evento": "Cybersight - Fundamentals of Retinopathy of Prematurity",
     "Ano": "2026",
-    "CFCO": "2"
+    "CFCO": "8"
   },
   {
     "NumeroMembro": "G9O8",
@@ -15336,12 +15324,6 @@
     "CFCO": "1"
   },
   {
-    "NumeroMembro": "T9V5",
-    "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
     "NumeroMembro": "B1D4",
     "Evento": "Bausch Lomb - Multifocal Talks Sessão 4",
     "Ano": "2026",
@@ -15727,12 +15709,6 @@
   },
   {
     "NumeroMembro": "C6A4",
-    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "T9V5",
     "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
     "Ano": "2026",
     "CFCO": "1"
@@ -18414,12 +18390,6 @@
     "CFCO": "1"
   },
   {
-    "NumeroMembro": "T9V5",
-    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
     "NumeroMembro": "D8E7",
     "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
     "Ano": "2026",
@@ -18636,12 +18606,6 @@
     "CFCO": "1"
   },
   {
-    "NumeroMembro": "T9V5",
-    "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
     "NumeroMembro": "D8E7",
     "Evento": "Bausch Lomb - Multifocal Talks Sessão 2",
     "Ano": "2026",
@@ -18823,12 +18787,6 @@
   },
   {
     "NumeroMembro": "C6A4",
-    "Evento": "Bausch Lomb - Multifocal Talks Sessão 1",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
-    "NumeroMembro": "T9V5",
     "Evento": "Bausch Lomb - Multifocal Talks Sessão 1",
     "Ano": "2026",
     "CFCO": "1"
@@ -19488,12 +19446,6 @@
     "CFCO": "1"
   },
   {
-    "NumeroMembro": "D8T4",
-    "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
-    "Ano": "2026",
-    "CFCO": "1"
-  },
-  {
     "NumeroMembro": "U5V1",
     "Evento": "Bausch Lomb - Multifocal Talks Sessão 3",
     "Ano": "2026",
@@ -19935,13 +19887,13 @@
     "NumeroMembro": "T9T1",
     "Evento": "Cybersight - Fundamentals of Retinopathy of Prematurity",
     "Ano": "2026",
-    "CFCO": "2"
+    "CFCO": "8"
   },
   {
     "NumeroMembro": "C8X9",
     "Evento": "Cybersight - Fundamentals of Retinopathy of Prematurity",
     "Ano": "2026",
-    "CFCO": "2"
+    "CFCO": "8"
   },
   {
     "NumeroMembro": "U7S5",
@@ -24564,925 +24516,925 @@
     "CFCO": "1"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "M8P7",
     "Evento": "Coopervision-MiSight Spectacle Lenses",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "M8P7",
     "Evento": "Coopervision-Formação MiSight 1 day",
     "Ano": "2026",
     "CFCO": "1"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "M8P7",
     "Evento": "Coopervision-Formação DreamLite, lentes ortoqueratologia",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "M8P7",
     "Evento": "Coopervision-Formação de produto MyDay Multifocal",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "X8X5",
     "Evento": "Coopervision-Webinar: Especialistas em tóricas",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "X8X5",
     "Evento": "Coopervision-Webinar: Reduzindo os abandonos",
     "Ano": "2026",
     "CFCO": "0.75"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "X8X5",
     "Evento": "Coopervision-Formação de produto MyDay Multifocal",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "X8X5",
     "Evento": "Coopervision-Formação MiSight 1 day",
     "Ano": "2026",
     "CFCO": "1"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "X8X5",
     "Evento": "Coopervision-MiSight Spectacle Lenses",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "X8X5",
     "Evento": "Coopervision-Gravação: Webinar Visão Campeã com Lentes de Contacto",
     "Ano": "2026",
     "CFCO": "0.75"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "X8X5",
     "Evento": "Coopervision-Formação DreamLite, lentes ortoqueratologia",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "X8X5",
     "Evento": "Coopervision-Webinar: Reduzindo os abandonos",
     "Ano": "2026",
     "CFCO": "0.75"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "K1E5",
     "Evento": "Coopervision-Gravação: Webinar Visão Campeã com Lentes de Contacto",
     "Ano": "2026",
     "CFCO": "0.75"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "H8C9",
     "Evento": "Coopervision-Webinar: Reduzindo os abandonos",
     "Ano": "2026",
     "CFCO": "0.75"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "W2J8",
     "Evento": "Coopervision-Formação MiSight 1 day",
     "Ano": "2026",
     "CFCO": "1"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "F0E3",
     "Evento": "Coopervision-MiSight Spectacle Lenses",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "F0E3",
     "Evento": "Coopervision-Webinar: Reduzindo os abandonos",
     "Ano": "2026",
     "CFCO": "0.75"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "F0E3",
     "Evento": "Coopervision-Formação de produto MyDay Multifocal",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "F0E3",
     "Evento": "Coopervision-Webinar: Reduzindo os abandonos",
     "Ano": "2026",
     "CFCO": "0.75"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "F0E3",
     "Evento": "Coopervision-Formação MiSight 1 day",
     "Ano": "2026",
     "CFCO": "1"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "U6C8",
     "Evento": "Coopervision-Formação DreamLite, lentes ortoqueratologia",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "U6C8",
     "Evento": "Coopervision-Webinar: Reduzindo os abandonos",
     "Ano": "2026",
     "CFCO": "0.75"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "W4H5",
     "Evento": "Coopervision-Formação de produto MyDay Multifocal",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "W4H5",
     "Evento": "Coopervision-Formação DreamLite, lentes ortoqueratologia",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "W4H5",
     "Evento": "Coopervision-Webinar: Reduzindo os abandonos",
     "Ano": "2026",
     "CFCO": "0.75"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "W4H5",
     "Evento": "Coopervision-MiSight Spectacle Lenses",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "G4O8",
     "Evento": "Coopervision-Formação DreamLite, lentes ortoqueratologia",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "G4O8",
     "Evento": "Coopervision-MiSight Spectacle Lenses",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "N2S5",
     "Evento": "Coopervision-Webinar: Reduzindo os abandonos",
     "Ano": "2026",
     "CFCO": "0.75"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "N2S5",
     "Evento": "Coopervision-Webinar: Especialistas em tóricas",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "D7I2",
     "Evento": "Coopervision-Formação de produto MyDay Multifocal",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "T7L3",
     "Evento": "Coopervision-Gravação: Webinar Visão Campeã com Lentes de Contacto",
     "Ano": "2026",
     "CFCO": "0.75"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "J6O0",
     "Evento": "Coopervision-Webinar: Especialistas em tóricas",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "J6O0",
     "Evento": "Coopervision-Webinar: Reduzindo os abandonos",
     "Ano": "2026",
     "CFCO": "0.75"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "J6O0",
     "Evento": "Coopervision-Formação MiSight 1 day",
     "Ano": "2026",
     "CFCO": "1"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "Z0Y3",
     "Evento": "Coopervision-Webinar: Especialistas em tóricas",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "Z0Y3",
     "Evento": "Coopervision-Webinar: Reduzindo os abandonos",
     "Ano": "2026",
     "CFCO": "0.75"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "V8W3",
     "Evento": "Coopervision-Formação de produto MyDay Multifocal",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "V8W3",
     "Evento": "Coopervision-Formação DreamLite, lentes ortoqueratologia",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "V8W3",
     "Evento": "Coopervision-MiSight Spectacle Lenses",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "V8W3",
     "Evento": "Coopervision-Formação MiSight 1 day",
     "Ano": "2026",
     "CFCO": "1"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "V8W3",
     "Evento": "Coopervision-Webinar: Reduzindo os abandonos",
     "Ano": "2026",
     "CFCO": "0.75"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "V8W3",
     "Evento": "Coopervision-Webinar: Especialistas em tóricas",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "C9I4",
     "Evento": "Coopervision-Formação DreamLite, lentes ortoqueratologia",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "C9I4",
     "Evento": "Coopervision-MiSight Spectacle Lenses",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "C9I4",
     "Evento": "Coopervision-Gravação: Webinar Visão Campeã com Lentes de Contacto",
     "Ano": "2026",
     "CFCO": "0.75"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "C9I4",
     "Evento": "Coopervision-Formação de produto MyDay Multifocal",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "I4R4",
     "Evento": "Coopervision-Gravação: Webinar Visão Campeã com Lentes de Contacto",
     "Ano": "2026",
     "CFCO": "0.75"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "I4R4",
     "Evento": "Coopervision-MiSight Spectacle Lenses",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "I4R4",
     "Evento": "Coopervision-Webinar: Reduzindo os abandonos",
     "Ano": "2026",
     "CFCO": "0.75"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "I4R4",
     "Evento": "Coopervision-Formação DreamLite, lentes ortoqueratologia",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "I4R4",
     "Evento": "Coopervision-Formação de produto MyDay Multifocal",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "I4R4",
     "Evento": "Coopervision-Formação MiSight 1 day",
     "Ano": "2026",
     "CFCO": "1"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "M5U6",
     "Evento": "Coopervision-MiSight Spectacle Lenses",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "A6C3",
     "Evento": "Coopervision-Formação DreamLite, lentes ortoqueratologia",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "A6C3",
     "Evento": "Coopervision-Webinar: Reduzindo os abandonos",
     "Ano": "2026",
     "CFCO": "0.75"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "A6C3",
     "Evento": "Coopervision-Webinar: Especialistas em tóricas",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "A6C3",
     "Evento": "Coopervision-Formação MiSight 1 day",
     "Ano": "2026",
     "CFCO": "1"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "S4R3",
     "Evento": "Coopervision-Formação DreamLite, lentes ortoqueratologia",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "L8A0",
     "Evento": "Coopervision-Webinar: Especialistas em tóricas",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "T2O6",
     "Evento": "Coopervision-MiSight Spectacle Lenses",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "T2O6",
     "Evento": "Coopervision-Formação DreamLite, lentes ortoqueratologia",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "H7P2",
     "Evento": "Coopervision-Formação de produto MyDay Multifocal",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "H7P2",
     "Evento": "Coopervision-MiSight Spectacle Lenses",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "H2A0",
     "Evento": "Coopervision-Webinar: Especialistas em tóricas",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "H2A0",
     "Evento": "Coopervision-Formação de produto MyDay Multifocal",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "E5W9",
     "Evento": "Coopervision-Formação DreamLite, lentes ortoqueratologia",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "N9A4",
     "Evento": "Coopervision-Webinar: Especialistas em tóricas",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "B2N1",
     "Evento": "Coopervision-Formação DreamLite, lentes ortoqueratologia",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "B2N1",
     "Evento": "Coopervision-MiSight Spectacle Lenses",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "B2N1",
     "Evento": "Coopervision-Gravação: Webinar Visão Campeã com Lentes de Contacto",
     "Ano": "2026",
     "CFCO": "0.75"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "G2W2",
     "Evento": "Coopervision-Formação de produto MyDay Multifocal",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "X5J9",
     "Evento": "Coopervision-Formação DreamLite, lentes ortoqueratologia",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "U2S2",
     "Evento": "Coopervision-Formação DreamLite, lentes ortoqueratologia",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "P4G4",
     "Evento": "Coopervision-Webinar: Reduzindo os abandonos",
     "Ano": "2026",
     "CFCO": "0.75"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "P4G4",
     "Evento": "Coopervision-Webinar: Reduzindo os abandonos",
     "Ano": "2026",
     "CFCO": "0.75"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "P4G4",
     "Evento": "Coopervision-Webinar: Especialistas em tóricas",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "P4G4",
     "Evento": "Coopervision-Formação de produto MyDay Multifocal",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "P4G4",
     "Evento": "Coopervision-Formação DreamLite, lentes ortoqueratologia",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "P4G4",
     "Evento": "Coopervision-MiSight Spectacle Lenses",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "P4G4",
     "Evento": "Coopervision-Gravação: Webinar Visão Campeã com Lentes de Contacto",
     "Ano": "2026",
     "CFCO": "0.75"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "P4G4",
     "Evento": "Coopervision-Formação MiSight 1 day",
     "Ano": "2026",
     "CFCO": "1"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "H2Z0",
     "Evento": "Coopervision-Webinar: Especialistas em tóricas",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "H2Z0",
     "Evento": "Coopervision-Webinar: Especialistas em tóricas",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "H2Z0",
     "Evento": "Coopervision-Gravação: Webinar Visão Campeã com Lentes de Contacto",
     "Ano": "2026",
     "CFCO": "0.75"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "W1M6",
     "Evento": "Coopervision-Formação DreamLite, lentes ortoqueratologia",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "W1M6",
     "Evento": "Coopervision-Formação de produto MyDay Multifocal",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "W1M6",
     "Evento": "Coopervision-MiSight Spectacle Lenses",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "W1M6",
     "Evento": "Coopervision-Formação MiSight 1 day",
     "Ano": "2026",
     "CFCO": "1"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "W1M6",
     "Evento": "Coopervision-Gravação: Webinar Visão Campeã com Lentes de Contacto",
     "Ano": "2026",
     "CFCO": "0.75"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "W1M6",
     "Evento": "Coopervision-Webinar: Reduzindo os abandonos",
     "Ano": "2026",
     "CFCO": "0.75"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "B0U9",
     "Evento": "Coopervision-Webinar: Especialistas em tóricas",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "B0U9",
     "Evento": "Coopervision-Formação de produto MyDay Multifocal",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "B0U9",
     "Evento": "Coopervision-Formação DreamLite, lentes ortoqueratologia",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "B0U9",
     "Evento": "Coopervision-Formação MiSight 1 day",
     "Ano": "2026",
     "CFCO": "1"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "Z2E9",
     "Evento": "Coopervision-Gravação: Webinar Visão Campeã com Lentes de Contacto",
     "Ano": "2026",
     "CFCO": "0.75"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "J8B8",
     "Evento": "Coopervision-Webinar: Especialistas em tóricas",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "Z8O9",
     "Evento": "Coopervision-Webinar: Reduzindo os abandonos",
     "Ano": "2026",
     "CFCO": "0.75"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "Z8O9",
     "Evento": "Coopervision-Webinar: Especialistas em tóricas",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "Z8O9",
     "Evento": "Coopervision-Gravação: Webinar Visão Campeã com Lentes de Contacto",
     "Ano": "2026",
     "CFCO": "0.75"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "B5H3",
     "Evento": "Coopervision-Formação de produto MyDay Multifocal",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "B5H3",
     "Evento": "Coopervision-Formação DreamLite, lentes ortoqueratologia",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "C2G7",
     "Evento": "Coopervision-Formação MiSight 1 day",
     "Ano": "2026",
     "CFCO": "1"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "N1C5",
     "Evento": "Coopervision-Gravação: Webinar Visão Campeã com Lentes de Contacto",
     "Ano": "2026",
     "CFCO": "1.75"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "I0A3",
     "Evento": "Coopervision-Formação de produto MyDay Multifocal",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "S8X4",
     "Evento": "Coopervision-Formação MiSight 1 day Brilliant Futures",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "Y6B5",
     "Evento": "Coopervision-Formação MiSight 1 day",
     "Ano": "2026",
     "CFCO": "1"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "Y6B5",
     "Evento": "Coopervision-Webinar: Reduzindo os abandonos",
     "Ano": "2026",
     "CFCO": "0.75"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "Y6B5",
     "Evento": "Coopervision-Formação de produto MyDay Multifocal",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "Y6B5",
     "Evento": "Coopervision-MiSight Spectacle Lenses",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "Y6B5",
     "Evento": "Coopervision-Webinar: Especialistas em tóricas",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "Y6B5",
     "Evento": "Coopervision-Formação DreamLite, lentes ortoqueratologia",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "Y6B5",
     "Evento": "Coopervision-Gravação: Webinar Visão Campeã com Lentes de Contacto",
     "Ano": "2026",
     "CFCO": "0.75"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "W8X3",
     "Evento": "Coopervision-Webinar: Especialistas em tóricas",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "D7X8",
     "Evento": "Coopervision-Formação de produto MyDay Multifocal",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "D7X8",
     "Evento": "Coopervision-Formação DreamLite, lentes ortoqueratologia",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "D7X8",
     "Evento": "Coopervision-MiSight Spectacle Lenses",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "G1K8",
     "Evento": "Coopervision-Gravação: Webinar Visão Campeã com Lentes de Contacto",
     "Ano": "2026",
     "CFCO": "0.75"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "G1K8",
     "Evento": "Coopervision-Webinar: Especialistas em tóricas",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "E9O2",
     "Evento": "Coopervision-Webinar: Especialistas em tóricas",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "E9O2",
     "Evento": "Coopervision-MiSight Spectacle Lenses",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "F0N8",
     "Evento": "Coopervision-MiSight Spectacle Lenses",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "F0N8",
     "Evento": "Coopervision-Formação DreamLite, lentes ortoqueratologia",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "X7L4",
     "Evento": "Coopervision-Webinar: Reduzindo os abandonos",
     "Ano": "2026",
     "CFCO": "0.75"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "X7L4",
     "Evento": "Coopervision-Formação MiSight 1 day",
     "Ano": "2026",
     "CFCO": "1"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "X7L4",
     "Evento": "Coopervision-Formação de produto MyDay Multifocal",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "O9Q8",
     "Evento": "Coopervision-Webinar: Reduzindo os abandonos",
     "Ano": "2026",
     "CFCO": "0.75"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "L6F2",
     "Evento": "Coopervision-Webinar: Especialistas em tóricas",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "F3H8",
     "Evento": "Coopervision-Webinar: Reduzindo os abandonos",
     "Ano": "2026",
     "CFCO": "0.75"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "F3H8",
     "Evento": "Coopervision-Formação DreamLite, lentes ortoqueratologia",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "F3H8",
     "Evento": "Coopervision-Formação MiSight 1 day",
     "Ano": "2026",
     "CFCO": "1"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "F3H8",
     "Evento": "Coopervision-Gravação: Webinar Visão Campeã com Lentes de Contacto",
     "Ano": "2026",
     "CFCO": "0.75"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "F3H8",
     "Evento": "Coopervision-Formação de produto MyDay Multifocal",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "F3H8",
     "Evento": "Coopervision-MiSight Spectacle Lenses",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "P1Q3",
     "Evento": "Coopervision-Webinar: Especialistas em tóricas",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "P1Q3",
     "Evento": "Coopervision-Formação de produto MyDay Multifocal",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "F7U1",
     "Evento": "Coopervision-Formação DreamLite, lentes ortoqueratologia",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "F7U1",
     "Evento": "Coopervision-Webinar: Reduzindo os abandonos",
     "Ano": "2026",
     "CFCO": "0.75"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "F7U1",
     "Evento": "Coopervision-Webinar: Especialistas em tóricas",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "F7U1",
     "Evento": "Coopervision-Formação MiSight 1 day",
     "Ano": "2026",
     "CFCO": "1"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "F7U1",
     "Evento": "Coopervision-Gravação: Webinar Visão Campeã com Lentes de Contacto",
     "Ano": "2026",
     "CFCO": "0.75"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "J6B1",
     "Evento": "Coopervision-Webinar: Reduzindo os abandonos",
     "Ano": "2026",
     "CFCO": "0.75"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "J6B1",
     "Evento": "Coopervision-Webinar: Reduzindo os abandonos",
     "Ano": "2026",
     "CFCO": "0.75"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "J6B1",
     "Evento": "Coopervision-Webinar: Especialistas em tóricas",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "J6B1",
     "Evento": "Coopervision-Gravação: Webinar Visão Campeã com Lentes de Contacto",
     "Ano": "2026",
     "CFCO": "0.75"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "J6B1",
     "Evento": "Coopervision-Formação de produto MyDay Multifocal",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "J6B1",
     "Evento": "Coopervision-MiSight Spectacle Lenses",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "J6B1",
     "Evento": "Coopervision-Formação DreamLite, lentes ortoqueratologia",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "J6B1",
     "Evento": "Coopervision-Webinar: Reduzindo os abandonos",
     "Ano": "2026",
     "CFCO": "0.75"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "S5C1",
     "Evento": "Coopervision-MiSight Spectacle Lenses",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "S5C1",
     "Evento": "Coopervision-Webinar: Especialistas em tóricas",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "S5C1",
     "Evento": "Coopervision-Webinar: Reduzindo os abandonos",
     "Ano": "2026",
     "CFCO": "0.75"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "V6Y5",
     "Evento": "Coopervision-Webinar: Especialistas em tóricas",
     "Ano": "2026",
     "CFCO": "0.5"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "B4E8",
     "Evento": "Coopervision-Webinar: Especialistas em tóricas",
     "Ano": "2026",
     "CFCO": "0.5"
@@ -26019,7 +25971,7 @@
     "NumeroMembro": "P1N3",
     "Evento": "Cybersight - Fundamentals of Retinopathy of Prematurity",
     "Ano": "2026",
-    "CFCO": "2"
+    "CFCO": "8"
   },
   {
     "NumeroMembro": "F0E3",
@@ -26037,6 +25989,900 @@
     "NumeroMembro": "A6S8",
     "Evento": "Cybersight - Fundamentals of Retinopathy of Prematurity",
     "Ano": "2026",
+    "CFCO": "8"
+  },
+  {
+    "NumeroMembro": "J7H8",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "O8K8",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "S5E0",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "T6L3",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "V8C8",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "J8N8",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "M2Z1",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "C3J14",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "X4W3",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "X4W3",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "C3K1",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "A0Q1",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P4O8",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "E1K4",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "R3B0",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "F9H8",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "A4W9",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "B4E8",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Z7J5",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "S8L8",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "D7Q1",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "N5O8",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "E9K1",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "V5L8",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "E5W9",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "K0Q9",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "B6Z9",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "T2R9",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "H5L3",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "C9P3",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "I1E0",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "D8S3",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "L8A0",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "M6E1",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "N4A4",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "T9V5",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "D8E7",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Z7C5",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "F2X5",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "F7U1",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P1G1",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "N7A1",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "G5K6",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "J9J3",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "X5T8",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "W9G7",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "E7R1",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "N1E9",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "X6K5",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "W0W6",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "S2D5",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "O2N4",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "X6U0",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "M6Y4",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "L1W0",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P6Q9",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "A8K2",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "U7K4",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P0S4",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P0S4",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "S3E7",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "E5T0",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "K1E5",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Q7W8",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Q1H0",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "X7Q7",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "D5H4",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "T8L7",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "D5V0",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "V5C6",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Y2G1",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "E1I2",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "H0P5",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "H8C9",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "E6K1",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P7W7",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P7W7",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "V9N2",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "U7S5",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "M7F6",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "H1D9",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Y6Z9",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "M2K7",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "O9R3",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "O9R3",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Y9X4",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "W2J8",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "D7I2",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "J1X4",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P7T6",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P1V7",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "V4C9",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "C2B4",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "S3D1",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "S8X2",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P9S7",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "D7F5",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "V8I2",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "A6C3",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "T3E0",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Z2P5",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "C4U7",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "F2O9",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "V3B8",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "D9E3",
+    "Evento": "Liquilentes - ACUVUE: Inovação na Correção do Astigmatismo e Presbiopia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "L9W7",
+    "Evento": "Alcon - Anatomy and Physiology of the Eye",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "L9W7",
+    "Evento": "Alcon - Contact Lenses",
+    "Ano": "2026",
+    "CFCO": "1.25"
+  },
+  {
+    "NumeroMembro": "D8T4",
+    "Evento": "Cybersight - Pediatrics EyeQ Series",
+    "Ano": "2026",
     "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "L0I7",
+    "Evento": "Cybersight - Fundamentals of Pediatric Ophthalmology and Strabismus",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "L0I7",
+    "Evento": "Cybersight - Ocular Genetics",
+    "Ano": "2026",
+    "CFCO": "3"
+  },
+  {
+    "NumeroMembro": "B4E8",
+    "Evento": "Cybersight - Fundamentals of Diabetic Retinopathy",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "X0C5",
+    "Evento": "Cybersight - Uveitis: Diagnosis & Therapeutics",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "X0C5",
+    "Evento": "Cybersight - Fundamentos de la Retinopatía de la Prematuridad",
+    "Ano": "2026",
+    "CFCO": "6"
+  },
+  {
+    "NumeroMembro": "W6B9",
+    "Evento": "Alcon - Getting behind the Science of TOTAL30 Monthly Contact Lenses",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "W6B9",
+    "Evento": "Alcon - Patient Identification & Selection Process",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "V2B4",
+    "Evento": "Cybersight - Herpes Infections",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "V2B4",
+    "Evento": "Cybersight - Fundamentals of Motility",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "S5E0",
+    "Evento": "Alcon - Anatomy and Physiology of the Eye",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "S5E0",
+    "Evento": "Alcon - Contact Lenses",
+    "Ano": "2026",
+    "CFCO": "1.25"
+  },
+  {
+    "NumeroMembro": "V2B4",
+    "Evento": "Cybersight - Fundamentos da Facoemulsificação",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "F3H8",
+    "Evento": "Cybersight - Fundamentals of Diabetic Retinopathy",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "F3H8",
+    "Evento": "Alcon - Anatomy and Physiology of the Eye",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "F3H8",
+    "Evento": "Alcon - Contact Lenses",
+    "Ano": "2026",
+    "CFCO": "1.25"
+  },
+  {
+    "NumeroMembro": "C3J14",
+    "Evento": "Cybersight - Fundamentals of Motility",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "T8R8",
+    "Evento": "Oral and Topical Steroids for the Eye",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "W4S4",
+    "Evento": "Advances in Keratoconus Treatment",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "J0L6",
+    "Evento": "Advances in Keratoconus Treatment",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Q3J4",
+    "Evento": "Lecture 3: Clinical Assessment of Strabismus Motor e Sensory",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "J0L6",
+    "Evento": "Clinical Use of Continuous IOP Measurement",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "J0L6",
+    "Evento": "Virtual Low Vision Meeting 2020 - Part I",
+    "Ano": "2026",
+    "CFCO": "1.75"
+  },
+  {
+    "NumeroMembro": "J0L6",
+    "Evento": "Virtual Low Vision Meeting 2020 - Part II",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "T8R8",
+    "Evento": "Scleral Lens Boot Camp",
+    "Ano": "2026",
+    "CFCO": "1.75"
+  },
+  {
+    "NumeroMembro": "W4S4",
+    "Evento": "Punctum Proximum de Convergence - EasyOpto - AOF",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "J0L6",
+    "Evento": "Punctum Proximum de Convergence - EasyOpto - AOF",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "J0L6",
+    "Evento": "Les Réserves fusionnelles en convergence et en divergence VL VP - EasyOpto - AOF",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "W4S4",
+    "Evento": "BINOCULAR_ BALANCING",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "W4S4",
+    "Evento": "Virtual Low Vision Meeting 2020 - Part I",
+    "Ano": "2026",
+    "CFCO": "1.75"
+  },
+  {
+    "NumeroMembro": "W4S4",
+    "Evento": "Virtual Low Vision Meeting 2020 - Part II",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "J0L6",
+    "Evento": "Virtual Low Vision Meeting 2020 - Part III",
+    "Ano": "2026",
+    "CFCO": "3"
+  },
+  {
+    "NumeroMembro": "W4S4",
+    "Evento": "Optical Coherence Tomography (OCT) and Glaucoma",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "J0L6",
+    "Evento": "KVC Vision Screening Training- Module 4 Infants and Children with Special Considerations",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "W4S4",
+    "Evento": "Virtual Low Vision Meeting 2020 - Part III",
+    "Ano": "2026",
+    "CFCO": "3"
+  },
+  {
+    "NumeroMembro": "Q3J4",
+    "Evento": "Oral and Topical Steroids for the Eye",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "T8R8",
+    "Evento": "Prescribing Near Magnification Devices - Helping your patients to see up close",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "Q3J4",
+    "Evento": "Scleral Lens Boot Camp",
+    "Ano": "2026",
+    "CFCO": "1.75"
+  },
+  {
+    "NumeroMembro": "#N/D",
+    "Evento": "Keratoconus",
+    "Ano": "2026",
+    "CFCO": "1.25"
+  },
+  {
+    "NumeroMembro": "Q3J4",
+    "Evento": "Introduction to Low Vision Rehabiliation",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "U4Y2",
+    "Evento": "Vitamins and Mineral Supplements for Retinitis Pigmentosa",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "U4Y2",
+    "Evento": "Aniseikonia",
+    "Ano": "2026",
+    "CFCO": "0.25"
   }
 ]
