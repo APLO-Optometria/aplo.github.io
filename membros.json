@@ -7566,7 +7566,7 @@
     "CFCO": "2.5"
   },
   {
-    "NumeroMembro": "Z6I1",
+    "NumeroMembro": "L3D7",
     "Evento": "APLO - V Encontro APLO Jovem 2026",
     "Ano": "2026",
     "CFCO": "2.5"
@@ -20119,7 +20119,7 @@
   },
   {
     "NumeroMembro": "A6E9",
-    "Evento": "Inscrição Mestrado",
+    "Evento": "Mestrado em Optometria Avançada",
     "Ano": "2026",
     "CFCO": "10"
   },
@@ -30978,12 +30978,6 @@
     "CFCO": "0.1"
   },
   {
-    "NumeroMembro": "A6E9",
-    "Evento": "Mestrado em Optometria Avançada",
-    "Ano": "2026",
-    "CFCO": "10"
-  },
-  {
     "NumeroMembro": "F4G8",
     "Evento": "Cybersight - Fundamentos de CCPIM",
     "Ano": "2026",
@@ -31148,6 +31142,1050 @@
   {
     "NumeroMembro": "G5B1",
     "Evento": "Cybersight - Genetics in an hour",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Z6I1",
+    "Evento": "Cybersight - Myopia EyeQ Series",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "D8K5",
+    "Evento": "Optical Assistant Training Module 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "D8K5",
+    "Evento": "ABC of Low Vision",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "D8K5",
+    "Evento": "Scleral Lens Fitting and Troubleshooting for Ocular Surface Disease",
+    "Ano": "2026",
+    "CFCO": "1.25"
+  },
+  {
+    "NumeroMembro": "D8K5",
+    "Evento": "Scleral GP Contact Lens Insertion, Removal and Care",
+    "Ano": "2026",
+    "CFCO": "1.25"
+  },
+  {
+    "NumeroMembro": "D8K5",
+    "Evento": "Custom Soft Lens Applications for the High Astigmat",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "D8K5",
+    "Evento": "Advances in Keratoconus Treatment",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "D8K5",
+    "Evento": "Examination of Pupil",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "D8K5",
+    "Evento": "GP Management of Corneal Pathology Case Grand Rounds Dr. Marlane Brown OD FAAO",
+    "Ano": "2026",
+    "CFCO": "1.25"
+  },
+  {
+    "NumeroMembro": "D8K5",
+    "Evento": "Low vision clinic refraction",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "D8K5",
+    "Evento": "EBM application- Diagnostic Test",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "D8K5",
+    "Evento": "Vitamins and Mineral Supplements for Retinitis Pigmentosa",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "D8K5",
+    "Evento": "Crossed Parabolic Cylinder Meridional Maximum Refraction",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "Z8Y3",
+    "Evento": "Advances in Keratoconus Treatment",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Z8Y3",
+    "Evento": "Scleral Lens Fitting for Healthy Eyes  Astigmatic and Presbyopic Applications",
+    "Ano": "2026",
+    "CFCO": "1.25"
+  },
+  {
+    "NumeroMembro": "Z8Y3",
+    "Evento": "Working Smarter with Medicare Part 1",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "Z8Y3",
+    "Evento": "Working Smarter with Medicare Part 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "O0P5",
+    "Evento": "Introduction to Glaucoma",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "O0P5",
+    "Evento": "Optical Assistant Training Module 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "O0P5",
+    "Evento": "Biomicroscopy Examination Technique",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "O0P5",
+    "Evento": "Introduction to Low Vision Rehabiliation",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "O0P5",
+    "Evento": "Vitamins and Mineral Supplements for Retinitis Pigmentosa",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "O0P5",
+    "Evento": "Lecture on Ophthalmoscopes",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "H2K3",
+    "Evento": "KVC Vision Screening Training- Module 4 Infants and Children with Special Considerations",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "W4S4",
+    "Evento": "Scleral Lens Fitting and Troubleshooting for Ocular Surface Disease",
+    "Ano": "2026",
+    "CFCO": "1.25"
+  },
+  {
+    "NumeroMembro": "W4S4",
+    "Evento": "Axial Magnification from Distance and Near Corrections",
+    "Ano": "2026",
+    "CFCO": "3"
+  },
+  {
+    "NumeroMembro": "W4S4",
+    "Evento": "Optometry Glaucoma Practice - Possibilities Beyond COVID Crises",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "U6C8",
+    "Evento": "Custom Soft Lens Applications for the High Astigmat",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "U6C8",
+    "Evento": "Advances in Keratoconus Treatment",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "U6C8",
+    "Evento": "GP Management of Corneal Pathology Case Grand Rounds Dr. Marlane Brown OD FAAO",
+    "Ano": "2026",
+    "CFCO": "1.25"
+  },
+  {
+    "NumeroMembro": "U6C8",
+    "Evento": "Advances in Corneal Collagen Crosslinking and the OCULUS Pentacam",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "C9P3",
+    "Evento": "Virtual Low Vision Meeting 2020 - Part II",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "C9P3",
+    "Evento": "Optical Coherence Tomography (OCT) and Glaucoma",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P5A7",
+    "Evento": "Contact Lens Management of the Irregular Cornea: Case Grand Rounds",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P5A7",
+    "Evento": "Advances in Keratoconus Treatment",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P5A7",
+    "Evento": "Examination of Pupil",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P5A7",
+    "Evento": "Lecture on Ophthalmoscopes",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "P5A7",
+    "Evento": "KVC Vision Screening Training- Module 4 Infants and Children with Special Considerations",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "T3E0",
+    "Evento": "Contact Lens Terminology",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "T3E0",
+    "Evento": "Retina Applied Anatomy - Clinical Optometry",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "T3E0",
+    "Evento": "Lecture on Ophthalmoscopes",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "E5H8",
+    "Evento": "Dispensa por Licença de Maternidade",
+    "Ano": "2026",
+    "CFCO": "10"
+  },
+  {
+    "NumeroMembro": "I5E3",
+    "Evento": "Dispensa por Licença de Maternidade",
+    "Ano": "2026",
+    "CFCO": "10"
+  },
+  {
+    "NumeroMembro": "J6J4",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Q8P8",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "J8T3",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "X8I6",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "N3M9",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "X6F1",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "X4O6",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "M8P7",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "W9P1",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "J0O9",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "K2S1",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "G1K8",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "E9T3",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "F3S7",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "K5G9",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "J1Y7",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "S7J6",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "I5Z4",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "B8D5",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "L0K3",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "I9C2",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "O0R1",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "L6K4",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "O1P2",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "C3W9",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "I1W2",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "V6Y5",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "I4Z9",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "D8E7",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "H5U1",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "R7T5",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Y4O3",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Y6N4",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "M1H3",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "B2A3",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "T5Z9",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Q4S7",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "E5T0",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "F5Z8",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "H2G3",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "T0G2",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "R2D3",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "S2B2",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "S8O4",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "J3E8",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "D9X6",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "S6P4",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "A9E3",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "J0H6",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "H1D9",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "L9K0",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "S1B6",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "W6D1",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "H8L1",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "J0I2",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P2Y8",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "M7V4",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "N8D0",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "X3V3",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "L9B0",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "R0Y1",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "J2B4",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Z7F8",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "R3F1",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "L6U0",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "C3J9",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "O2T1",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "G8C0",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Z8B12",
+    "Evento": "Valor Visão - Protocolo Clínico em Contextos Diferenciados",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "D9Y0",
+    "Evento": "Mestrado em Optometria Avançada",
+    "Ano": "2026",
+    "CFCO": "10"
+  },
+  {
+    "NumeroMembro": "D5H4",
+    "Evento": "Alcon - Patient Identification & Selection Process",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "X2X0",
+    "Evento": "Cybersight - Herpes Infections",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "B1U9",
+    "Evento": "Cybersight - Eye Care: Essential Skills for Community Health Workers",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "B1U9",
+    "Evento": "Cybersight - Fundamentos da Retinopatia Diabética",
+    "Ano": "2026",
+    "CFCO": "4"
+  },
+  {
+    "NumeroMembro": "P1G1",
+    "Evento": "Cybersight - Cataract | Anterior Segment EyeQ Series by Cybersight",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "A0Q1",
+    "Evento": "Alcon - Dry Eye & Ocular Health",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "A0Q1",
+    "Evento": "Alcon - Dry Eye Foundational Knowledge",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "A0Q1",
+    "Evento": "Alcon - Multifocal Fit Troubleshooting",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "A0Q1",
+    "Evento": "Alcon - Patient Identification & Selection Process",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "A0Q1",
+    "Evento": "Alcon - Toric Contact Lenses Enhancing Vision in Astigmats",
+    "Ano": "2026",
+    "CFCO": "0.1"
+  },
+  {
+    "NumeroMembro": "A0Q1",
+    "Evento": "Alcon - TOTAL30 Revolutionising Monthly Reusable Lenses",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "A0Q1",
+    "Evento": "Alcon - Understanding DAILIES TOTAL 1 Water Surface Contact Lenses",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "A0Q1",
+    "Evento": "Alcon - Why to Opt for Water Surface Contact Lenses",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "A0Q1",
+    "Evento": "Alcon - 10413 An intelligent Pupil Multifocal Design",
+    "Ano": "2026",
+    "CFCO": "0.1"
+  },
+  {
+    "NumeroMembro": "A0Q1",
+    "Evento": "Alcon - 10403 PRECISION 1 A Comprehensive Guide for Eye Care Professionals",
+    "Ano": "2026",
+    "CFCO": "0.1"
+  },
+  {
+    "NumeroMembro": "A0Q1",
+    "Evento": "Alcon - A quick Guide to Innovative Contact Lenses for Astigmatism",
+    "Ano": "2026",
+    "CFCO": "0.1"
+  },
+  {
+    "NumeroMembro": "A0Q1",
+    "Evento": "Alcon - 10409 Toric Lenses Fitting Guide",
+    "Ano": "2026",
+    "CFCO": "0.1"
+  },
+  {
+    "NumeroMembro": "A0Q1",
+    "Evento": "Alcon - Contact Lenses",
+    "Ano": "2026",
+    "CFCO": "1.25"
+  },
+  {
+    "NumeroMembro": "A0Q1",
+    "Evento": "Alcon - 10408 Understanding Alcon´s Precision Balance 84 Lens Design for Astigmatism",
+    "Ano": "2026",
+    "CFCO": "0.1"
+  },
+  {
+    "NumeroMembro": "H2A0",
+    "Evento": "Cybersight - Uveitis: Diagnosis & Therapeutics",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "H2A0",
+    "Evento": "Cybersight - Advancing Gender Equity in Global Eye Healthcare",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "B4F7",
+    "Evento": "Cybersight - Ocular Genetics",
+    "Ano": "2026",
+    "CFCO": "3"
+  },
+  {
+    "NumeroMembro": "X2X0",
+    "Evento": "Cybersight - Fundamentos do Disco Óptico",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "V8U0",
+    "Evento": "Cybersight - Ocular Genetics",
+    "Ano": "2026",
+    "CFCO": "3"
+  },
+  {
+    "NumeroMembro": "V8U0",
+    "Evento": "Cybersight - Optometry EyeQ Series",
+    "Ano": "2026",
+    "CFCO": "3"
+  },
+  {
+    "NumeroMembro": "C3J14",
+    "Evento": "Cybersight - Basics of Phacoemulsification",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "S5C1",
+    "Evento": "Cybersight - Advancing Gender Equity in Global Eye Healthcare",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "J7Y9",
+    "Evento": "Cybersight - Anterior Ischemic Optic Neuropathy: Arteric vs. Non-Arteritic",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "J7Y9",
+    "Evento": "Cybersight - An Introduction to Pediatric Eye Disease and Care",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "I5A0",
+    "Evento": "Cybersight - Myopia EyeQ Series",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "I5A0",
+    "Evento": "Cybersight - Fundamentals of Diabetic Retinopathy",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "S5C1",
+    "Evento": "Cybersight - Advancing Gender Equity in Global Eye Healthcare",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "J6Y1",
+    "Evento": "Cybersight - Fundamentals of Pediatric Ophthalmology and Strabismus",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "J6Y1",
+    "Evento": "Cybersight - Fundamentos de la Retinopatía de la Prematuridad",
+    "Ano": "2026",
+    "CFCO": "6"
+  },
+  {
+    "NumeroMembro": "U7K4",
+    "Evento": "Keratoconus",
+    "Ano": "2026",
+    "CFCO": "1.25"
+  },
+  {
+    "NumeroMembro": "P5A7",
+    "Evento": "ABC of Low Vision",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "P5A7",
+    "Evento": "ABC of Low Vision",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "P5A7",
+    "Evento": "Scleral Lens Fitting and Troubleshooting for Ocular Surface Disease",
+    "Ano": "2026",
+    "CFCO": "1.25"
+  },
+  {
+    "NumeroMembro": "P5A7",
+    "Evento": "Scleral GP Contact Lens Insertion, Removal and Care",
+    "Ano": "2026",
+    "CFCO": "1.25"
+  },
+  {
+    "NumeroMembro": "P5A7",
+    "Evento": "Custom Soft Lens Applications for the High Astigmat",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "U6C8",
+    "Evento": "GP Multifocals for the Irregular Cornea",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P5A7",
+    "Evento": "Low vision clinic refraction",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "U7K4",
+    "Evento": "Pediatric Optic Nerve Problems",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P5A7",
+    "Evento": "EBM application- Diagnostic Test",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P5A7",
+    "Evento": "Aniseikonia",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "P5A7",
+    "Evento": "JC 03 (23-10-2019) MYOPIA",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "P5A7",
+    "Evento": "Optical Coherence Tomography (OCT) and Glaucoma",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "U7K4",
+    "Evento": "Optical Coherence Tomography (OCT) and Glaucoma",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "R1P6",
+    "Evento": "Lecture 1: Binocular Vision: Are two eyes better than one?",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "U6C8",
+    "Evento": "Oral and Topical Steroids for the Eye",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "R1P6",
+    "Evento": "Lecture 2: Binocular Vision \u000bOrthoptic Procedures",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "U6C8",
+    "Evento": "LASERS in Eye Care Part 2  Refraction  Refractive Surgery e Cosmetic LASERs",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "U6C8",
+    "Evento": "Literature review for evidence based clinical practice",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "M1S6",
+    "Evento": "Anomalie de la vision binoculaire d'un patient non strabique 1/4 - Arnaud Massenet - Opto'Webinar - AOF",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "M1S6",
+    "Evento": "La maladie de Fabry : comment un examen Ã  la lampe Ã  fente peut sauver une vie ? - Dr Langis Michaud - Opto'Webinar - AOF",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "M1S6",
+    "Evento": "RÃ©adaptation dâ€™un kÃ©ratocÃ´ne en lentilles hybrides - Opto'Webinar - AOF",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "L5V9",
+    "Evento": "Contact Lens Terminology",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "L5V9",
+    "Evento": "GP Multifocals for the Irregular Cornea",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "L5V9",
+    "Evento": "GP Multifocal Fitting and Troubleshooting",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "J7K7",
+    "Evento": "GP Multifocal Fitting and Troubleshooting",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "L5V9",
+    "Evento": "Contact Lens Management of the Irregular Cornea: Case Grand Rounds",
     "Ano": "2026",
     "CFCO": "1"
   }
