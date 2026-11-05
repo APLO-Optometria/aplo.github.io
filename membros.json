@@ -48,12 +48,6 @@
     "CFCO": "5"
   },
   {
-    "NumeroMembro": "I5A0",
-    "Evento": "Cybersight - Myopia EyeQ Series",
-    "Ano": "2026",
-    "CFCO": "2"
-  },
-  {
     "NumeroMembro": "J0G8",
     "Evento": "Cybersight - Fundamentos de la Retinopatía de la Prematuridad",
     "Ano": "2026",
@@ -18090,7 +18084,7 @@
     "CFCO": "0.75"
   },
   {
-    "NumeroMembro": "Z8B15",
+    "NumeroMembro": "G3Q12",
     "Evento": "Virtual Low Vision Meeting 2020 - Part III",
     "Ano": "2026",
     "CFCO": "3"
@@ -24294,7 +24288,7 @@
     "CFCO": "1"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "L7U15",
     "Evento": "Bausch Lomb - O Futuro é Progressivo",
     "Ano": "2026",
     "CFCO": "2"
@@ -29226,61 +29220,61 @@
     "CFCO": "10"
   },
   {
-    "NumeroMembro": "F9G14",
+    "NumeroMembro": "Q3F91",
     "Evento": "Conferências Abertas de Optometria 2026",
     "Ano": "2026",
     "CFCO": "10"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "Y8F52",
     "Evento": "Conferências Abertas de Optometria 2026",
     "Ano": "2026",
     "CFCO": "3"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "Z8B16",
     "Evento": "Conferências Abertas de Optometria 2026",
     "Ano": "2026",
     "CFCO": "10"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "F9G15",
     "Evento": "Conferências Abertas de Optometria 2026",
     "Ano": "2026",
     "CFCO": "10"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "C3J18",
     "Evento": "Conferências Abertas de Optometria 2026",
     "Ano": "2026",
     "CFCO": "10"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "L7U14",
     "Evento": "Conferências Abertas de Optometria 2026",
     "Ano": "2026",
     "CFCO": "10"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "H1H56",
     "Evento": "Conferências Abertas de Optometria 2026",
     "Ano": "2026",
     "CFCO": "10"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "Z8B17",
     "Evento": "Conferências Abertas de Optometria 2026",
     "Ano": "2026",
     "CFCO": "10"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "L7U15",
     "Evento": "Conferências Abertas de Optometria 2026",
     "Ano": "2026",
     "CFCO": "10"
   },
   {
-    "NumeroMembro": "#N/D",
+    "NumeroMembro": "A6E20",
     "Evento": "Conferências Abertas de Optometria 2026",
     "Ano": "2026",
     "CFCO": "10"
@@ -30378,7 +30372,7 @@
     "CFCO": "1"
   },
   {
-    "NumeroMembro": "Z8B15",
+    "NumeroMembro": "G3Q12",
     "Evento": "B&L - Multifocal Talks Sessão 3",
     "Ano": "2026",
     "CFCO": "1"
@@ -30594,7 +30588,7 @@
     "CFCO": "1"
   },
   {
-    "NumeroMembro": "Z8B15",
+    "NumeroMembro": "G3Q12",
     "Evento": "B&L - Multifocal Talks Sessão 2",
     "Ano": "2026",
     "CFCO": "1"
@@ -32010,12 +32004,6 @@
     "CFCO": "2"
   },
   {
-    "NumeroMembro": "S5C1",
-    "Evento": "Cybersight - Advancing Gender Equity in Global Eye Healthcare",
-    "Ano": "2026",
-    "CFCO": "2"
-  },
-  {
     "NumeroMembro": "J6Y1",
     "Evento": "Cybersight - Fundamentals of Pediatric Ophthalmology and Strabismus",
     "Ano": "2026",
@@ -32188,5 +32176,857 @@
     "Evento": "Contact Lens Management of the Irregular Cornea: Case Grand Rounds",
     "Ano": "2026",
     "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "S5J5",
+    "Evento": "Cybersight - Complex Cases in Primary Optometric Practice: Clinical Insights & Practical Takeaways",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "C9I4",
+    "Evento": "Cybersight - Complex Cases in Primary Optometric Practice: Clinical Insights & Practical Takeaways",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "B0A7",
+    "Evento": "Cybersight - Complex Cases in Primary Optometric Practice: Clinical Insights & Practical Takeaways",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "E9X3",
+    "Evento": "Cybersight - Neurofibromatosis 1 : An Update on Screening and Management",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Q6P1",
+    "Evento": "Cybersight - Complex Cases in Primary Optometric Practice: Clinical Insights & Practical Takeaways",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "B0A7",
+    "Evento": "Cybersight - Neurofibromatosis 1 : An Update on Screening and Management",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "J1X4",
+    "Evento": "Cybersight - Management of Diabetic Macular Edema in Low-Resource Settings",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "B0A7",
+    "Evento": "Cybersight - Management of Diabetic Macular Edema in Low-Resource Settings",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "L0A5",
+    "Evento": "Cybersight - Fundos photography",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "B0A7",
+    "Evento": "Cybersight - Seeing Beyond Limits: The Evolving Landscape of Low Vision Care",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Q2P3",
+    "Evento": "Cybersight - Complex Cases in Primary Optometric Practice: Clinical Insights & Practical Takeaways",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Q2P3",
+    "Evento": "Cybersight - Seeing Beyond Limits: The Evolving Landscape of Low Vision Care",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "I4R4",
+    "Evento": "Cybersight - Seeing Beyond Limits: The Evolving Landscape of Low Vision Care",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "H8T3",
+    "Evento": "Cybersight - The Notorious Pigment Epithelial Detachment (PED): Tips on Diagnosis e Imaging",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "H8T3",
+    "Evento": "Cybersight - Hypotony: How Low Is Too Low?",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "U5F9",
+    "Evento": "Cybersight - Part 1: Essentials of Glaucoma: Evaluation and Nonsurgical Management",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "U5F9",
+    "Evento": "Cybersight - Basic Ophthalmic Pharmacology for Nurses",
+    "Ano": "2026",
+    "CFCO": "3"
+  },
+  {
+    "NumeroMembro": "B0A7",
+    "Evento": "Cybersight - Technology-Enabled Eye Screening Programs: Advances, Lessons, and Limits in Community Eye Health",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "B0A7",
+    "Evento": "Cybersight - Mastering OCT & Visual Fields for Diagnosis & Management of Glaucoma Progression",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "K4U4",
+    "Evento": "Cybersight - A Clinical Framework for Binocular Vision Disorders: Assessment, Prisms, and Vision Therapy",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "N4A4",
+    "Evento": "Cybersight - A Clinical Framework for Binocular Vision Disorders: Assessment, Prisms, and Vision Therapy",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "F3H8",
+    "Evento": "Cybersight - Part 1: Essentials of Glaucoma: Evaluation and Nonsurgical Management",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "Q7S4",
+    "Evento": "Cybersight - Basic Ophthalmic Pharmacology for Nurses",
+    "Ano": "2026",
+    "CFCO": "3"
+  },
+  {
+    "NumeroMembro": "Z3Y7",
+    "Evento": "Cybersight - Part 1: Essentials of Glaucoma: Evaluation and Nonsurgical Management",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "J2D9",
+    "Evento": "Cybersight - Essentials of Retinopathy of Prematurity",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "R7O8",
+    "Evento": "Cybersight - A Clinical Framework for Binocular Vision Disorders: Assessment, Prisms, and Vision Therapy",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "R7O8",
+    "Evento": "Cybersight - Liderazgo de la Enfermería en el cuidado de la salud visual: Educación, Práctica y Colaboración",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "R7O8",
+    "Evento": "Cybersight - Health Technology Assessment (HTA) for AI & Novel Technologies in Eyecare: Evidence, Value, and Adoption",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "K4U4",
+    "Evento": "Cybersight - Neuroimaging in Neuro-Ophthalmology: When to Image, What to Order, & How to Read the Scan",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Z6I1",
+    "Evento": "Cybersight - Neuroimaging in Neuro-Ophthalmology: When to Image, What to Order, & How to Read the Scan",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "C9I4",
+    "Evento": "Cybersight - Complex Cases in Primary Optometric Practice: Clinical Insights & Practical Takeaways",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "S0I1",
+    "Evento": "Cybersight - Complex Cases in Primary Optometric Practice: Clinical Insights & Practical Takeaways",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "J0G8",
+    "Evento": "Cybersight - Cuidados oculares: habilidades essenciais para Trabalhadores·Comunitários·da·Saúde",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "H8T3",
+    "Evento": "Cybersight - Pediatric Ophthalmology Unknowns: Interactive Case-Based, Diagnostic Reasoning",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "K4U4",
+    "Evento": "Cybersight - Planning Phacoemulsification for Best Outcomes: Biometry Basics & Surgical Strategies for Complex Cases",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Q2P3",
+    "Evento": "Cybersight - Complex Cases in Primary Optometric Practice: Clinical Insights & Practical Takeaways",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Q2P3",
+    "Evento": "Cybersight - Technology-Enabled Eye Screening Programs: Advances, Lessons, and Limits in Community Eye Health",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Q2P3",
+    "Evento": "Cybersight - Seeing Beyond Limits: The Evolving Landscape of Low Vision Care",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Q6P1",
+    "Evento": "Cybersight - Key Clinical Insights from the DRCR Retina Network Clinical Studies",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Q6P1",
+    "Evento": "Cybersight - A Clinical Framework for Binocular Vision Disorders: Assessment, Prisms, and Vision Therapy",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Q6P1",
+    "Evento": "Cybersight - Seeing Beyond Limits: The Evolving Landscape of Low Vision Care",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Q6P1",
+    "Evento": "Cybersight - Microbial Keratitis: Diagnosis and Management",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Q6P1",
+    "Evento": "Cybersight - Evidence-Based Treatment Update on Age-Related Macular Degeneration (ARMD/AMD)",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Q6P1",
+    "Evento": "Cybersight - Neuroimaging in Neuro-Ophthalmology: When to Image, What to Order, & How to Read the Scan",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "X4W3",
+    "Evento": "Cybersight - Part 1: Essentials of Glaucoma: Evaluation and Nonsurgical Management",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "B2N1",
+    "Evento": "B&L - Adaptação de lentes de contacto hidrófilas na atualidade",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "X4W3",
+    "Evento": "Cybersight - Fundamentos de Oftalmologia Pediátrica e Estrabismo em Adultos",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "X4W3",
+    "Evento": "Cybersight - Part 2: Essentials of Glaucoma: Lasers and Surgical Management",
+    "Ano": "2026",
+    "CFCO": "1.5"
+  },
+  {
+    "NumeroMembro": "C3J14",
+    "Evento": "Cybersight - Part 2: Essentials of Glaucoma: Lasers and Surgical Management",
+    "Ano": "2026",
+    "CFCO": "1.5"
+  },
+  {
+    "NumeroMembro": "L2X0",
+    "Evento": "Cybersight - Retinopatia diabética: diagnóstico, classificação e estratégias terapêuticas em evolução",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "L2X0",
+    "Evento": "Cybersight - Strabismus Surgery in Practice: Case-Based Lessons Across Horizontal, Vertical, & Reoperations",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "L2X0",
+    "Evento": "Cybersight - Solving Common Neuro-Ophthalmic Disorders Together: Live Clinical Reasoning & Mystery Cases",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "K4U4",
+    "Evento": "Cybersight - Solving Common Neuro-Ophthalmic Disorders Together: Live Clinical Reasoning & Mystery Cases",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "K4U4",
+    "Evento": "Cybersight - Pediatric Ophthalmology Unknowns: Interactive Case-Based, Diagnostic Reasoning",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "H2K3",
+    "Evento": "Cybersight - Health Technology Assessment (HTA) for AI & Novel Technologies in Eyecare: Evidence, Value, and Adoption",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "H2K3",
+    "Evento": "Cybersight - Clinical Skills for Nurses in Ophthalmic Settings",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "N0L7",
+    "Evento": "Cybersight - Clinical Skills for Nurses in Ophthalmic Settings",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "K4U4",
+    "Evento": "Cybersight - Managing Intraoperative Complications in Adult Cataract Surgery: Prevention, Recognition, and Rescue Strategies",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "V2B4",
+    "Evento": "Cybersight - Overview of Scleral Tectonic Grafting in Severe Corneal Trauma",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "V2E0",
+    "Evento": "Cybersight - Essentials of Retinopathy of Prematurity",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "K4U4",
+    "Evento": "Cybersight - Ocular Surface Optimization Before Cataract Surgery",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "V5M2",
+    "Evento": "Cybersight - Fundamentos de Oftalmologia Pediátrica e Estrabismo em Adultos",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "H2K3",
+    "Evento": "Cybersight - Health Technology Assessment (HTA) for AI & Novel Technologies in Eyecare: Evidence, Value, and Adoption",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "H2K3",
+    "Evento": "Cybersight - Clinical Skills for Nurses in Ophthalmic Settings",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "G0J6",
+    "Evento": "Cybersight - Retinopatia diabética: diagnóstico, classificação e estratégias terapêuticas em evolução",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "G0J6",
+    "Evento": "Cybersight - Solving Common Neuro-Ophthalmic Disorders Together: Live Clinical Reasoning & Mystery Cases",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "N7W4",
+    "Evento": "Cybersight - Ocular Surface Reconstruction – Techniques, Cases, and Surgical Pearls",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "N7W4",
+    "Evento": "Cybersight - Managing Intraoperative Complications in Adult Cataract Surgery: Prevention, Recognition, and Rescue Strategies",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "N7W4",
+    "Evento": "Cybersight - Ocular Surface Optimization Before Cataract Surgery",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "N8O4",
+    "Evento": "Cybersight - Ocular Surface Optimization Before Cataract Surgery",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "N8O4",
+    "Evento": "Cybersight - Part 1: Essentials of Glaucoma: Evaluation and Nonsurgical Management",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "R9O6",
+    "Evento": "Cybersight - Part 2: Essentials of Glaucoma: Lasers and Surgical Management",
+    "Ano": "2026",
+    "CFCO": "1.5"
+  },
+  {
+    "NumeroMembro": "D5V0",
+    "Evento": "Cybersight - Part 2: Essentials of Glaucoma: Lasers and Surgical Management",
+    "Ano": "2026",
+    "CFCO": "1.5"
+  },
+  {
+    "NumeroMembro": "X4E5",
+    "Evento": "Cybersight - Part 2: Essentials of Glaucoma: Lasers and Surgical Management",
+    "Ano": "2026",
+    "CFCO": "1.5"
+  },
+  {
+    "NumeroMembro": "X4E5",
+    "Evento": "Cybersight - Part 1: Essentials of Glaucoma: Evaluation and Nonsurgical Management",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "V8I2",
+    "Evento": "Cybersight - Fundamentos de Oftalmologia Pediátrica e Estrabismo em Adultos",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "V8I2",
+    "Evento": "Cybersight - Part 2: Essentials of Glaucoma: Lasers and Surgical Management",
+    "Ano": "2026",
+    "CFCO": "1.5"
+  },
+  {
+    "NumeroMembro": "J7Y9",
+    "Evento": "Cybersight - Ocular Surface Reconstruction – Techniques, Cases, and Surgical Pearls",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "J7Y9",
+    "Evento": "Cybersight - Ocular Surface Optimization Before Cataract Surgery",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "I5A0",
+    "Evento": "B&L - Adaptação de lentes de contacto hidrófilas na atualidade",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "I9D4",
+    "Evento": "Cybersight - Part 2: Essentials of Glaucoma: Lasers and Surgical Management",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "I9D4",
+    "Evento": "Cybersight - Part 1: Essentials of Glaucoma: Evaluation and Nonsurgical Management",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "F6H5",
+    "Evento": "Cybersight - Fundamentos da Facoemulsificação",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "F6H5",
+    "Evento": "Cybersight - Advancing Gender Equity in Global Eye Healthcare",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "O0Y4",
+    "Evento": "Cybersight - Part 2: Essentials of Glaucoma: Lasers and Surgical Management",
+    "Ano": "2026",
+    "CFCO": "#REF!"
+  },
+  {
+    "NumeroMembro": "O0Y4",
+    "Evento": "Cybersight - Part 1: Essentials of Glaucoma: Evaluation and Nonsurgical Management",
+    "Ano": "2026",
+    "CFCO": "#REF!"
+  },
+  {
+    "NumeroMembro": "I1F0",
+    "Evento": "Cybersight - Essentials of Neuro-Ophthalmology",
+    "Ano": "2026",
+    "CFCO": "#REF!"
+  },
+  {
+    "NumeroMembro": "E1I2",
+    "Evento": "Cybersight - Fundamentos da Retinopatia Diabética",
+    "Ano": "2026",
+    "CFCO": "#REF!"
+  },
+  {
+    "NumeroMembro": "I5A0",
+    "Evento": "Cybersight - Retina EyeQ Series",
+    "Ano": "2026",
+    "CFCO": "#REF!"
+  },
+  {
+    "NumeroMembro": "I5A0",
+    "Evento": "Cybersight - Glaucoma EyeQ (Português)",
+    "Ano": "2026",
+    "CFCO": "#REF!"
+  },
+  {
+    "NumeroMembro": "I5A0",
+    "Evento": "Cybersight - Optometry EyeQ Series",
+    "Ano": "2026",
+    "CFCO": "#REF!"
+  },
+  {
+    "NumeroMembro": "Q2P3",
+    "Evento": "Cybersight - Genetics in an hour",
+    "Ano": "2026",
+    "CFCO": "#REF!"
+  },
+  {
+    "NumeroMembro": "Q2P3",
+    "Evento": "Alcon - Multifocal Fit Troubleshooting",
+    "Ano": "2026",
+    "CFCO": "#REF!"
+  },
+  {
+    "NumeroMembro": "C7A9",
+    "Evento": "Cybersight - Fundamentals of Glaucoma",
+    "Ano": "2026",
+    "CFCO": "#REF!"
+  },
+  {
+    "NumeroMembro": "C7A9",
+    "Evento": "Cybersight - Ocular Genetics",
+    "Ano": "2026",
+    "CFCO": "#REF!"
+  },
+  {
+    "NumeroMembro": "Y6Z9",
+    "Evento": "Alcon - Multifocal Fit Troubleshooting",
+    "Ano": "2026",
+    "CFCO": "#REF!"
+  },
+  {
+    "NumeroMembro": "Y6Z9",
+    "Evento": "Alcon - Patient Identification & Selection Process",
+    "Ano": "2026",
+    "CFCO": "#REF!"
+  },
+  {
+    "NumeroMembro": "Y6Z9",
+    "Evento": "Alcon - Toric Contact Lenses Enhancing Vision in Astigmats",
+    "Ano": "2026",
+    "CFCO": "#REF!"
+  },
+  {
+    "NumeroMembro": "Y6Z9",
+    "Evento": "Alcon - 10403 PRECISION 1 A Comprehensive Guide for Eye Care Professionals",
+    "Ano": "2026",
+    "CFCO": "#REF!"
+  },
+  {
+    "NumeroMembro": "Y6Z9",
+    "Evento": "Alcon - TOTAL30 Revolutionising Monthly Reusable Lenses",
+    "Ano": "2026",
+    "CFCO": "#REF!"
+  },
+  {
+    "NumeroMembro": "Y6Z9",
+    "Evento": "Alcon - Understanding DAILIES TOTAL 1 Water Surface Contact Lenses",
+    "Ano": "2026",
+    "CFCO": "#REF!"
+  },
+  {
+    "NumeroMembro": "Y6Z9",
+    "Evento": "Alcon - Getting behind the Science of TOTAL30 Monthly Contact Lenses",
+    "Ano": "2026",
+    "CFCO": "#REF!"
+  },
+  {
+    "NumeroMembro": "Y6Z9",
+    "Evento": "Alcon - Why to Opt for Water Surface Contact Lenses",
+    "Ano": "2026",
+    "CFCO": "#REF!"
+  },
+  {
+    "NumeroMembro": "Y6Z9",
+    "Evento": "Alcon - Dry Eye & Ocular Health",
+    "Ano": "2026",
+    "CFCO": "#REF!"
+  },
+  {
+    "NumeroMembro": "Y6Z9",
+    "Evento": "Alcon - Dry Eye Foundational Knowledge",
+    "Ano": "2026",
+    "CFCO": "#REF!"
+  },
+  {
+    "NumeroMembro": "F0U8",
+    "Evento": "Cybersight - Fundamentals of Glaucoma",
+    "Ano": "2026",
+    "CFCO": "#REF!"
+  },
+  {
+    "NumeroMembro": "U4D2",
+    "Evento": "Cybersight - Module 2: Manual Small Incision Cataract Surgery",
+    "Ano": "2026",
+    "CFCO": "#REF!"
+  },
+  {
+    "NumeroMembro": "U4D2",
+    "Evento": "Cybersight - Fundamentals of Diabetic Retinopathy",
+    "Ano": "2026",
+    "CFCO": "#REF!"
+  },
+  {
+    "NumeroMembro": "U4D2",
+    "Evento": "Cybersight - Eye Care: Essential Skills for Community Health Workers",
+    "Ano": "2026",
+    "CFCO": "#REF!"
+  },
+  {
+    "NumeroMembro": "U4D2",
+    "Evento": "Cybersight - Module 3: Postoperative Care of the Cataract Patient",
+    "Ano": "2026",
+    "CFCO": "#REF!"
+  },
+  {
+    "NumeroMembro": "U4D2",
+    "Evento": "Cybersight - Module 1: Evaluation of Adult Cataract and Preoperative Assessment",
+    "Ano": "2026",
+    "CFCO": "#REF!"
+  },
+  {
+    "NumeroMembro": "U4D2",
+    "Evento": "Cybersight - Ocular Manifestations of Treatable Metabolic Diseases",
+    "Ano": "2026",
+    "CFCO": "#REF!"
+  },
+  {
+    "NumeroMembro": "G6D5",
+    "Evento": "Cybersight - Cataract | Anterior Segment EyeQ Series by Cybersight",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "G6D5",
+    "Evento": "Cybersight - Cornea EyeQ Series",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "G6D5",
+    "Evento": "Cybersight - Clinical Nursing EyeQ Series by Cybersight",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "G6D5",
+    "Evento": "Cybersight - Advancing Gender Equity in Global Eye Healthcare",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "G6D5",
+    "Evento": "Cybersight - Eye Care: Essential Skills for Community Health Workers",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "B0K8",
+    "Evento": "Health Professions Council of South Africa (HPCSA)",
+    "Ano": "2026",
+    "CFCO": "10"
+  },
+  {
+    "NumeroMembro": "Z3Y7",
+    "Evento": "Cybersight - Fundamentos do Disco Óptico",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P1Q3",
+    "Evento": "Cybersight - Clinical Nursing EyeQ Series by Cybersight",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "P1Q3",
+    "Evento": "Cybersight - Myopia EyeQ Series",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "P1Q3",
+    "Evento": "Alcon - Why to Opt for Water Surface Contact Lenses",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "F6H5",
+    "Evento": "Cybersight - Clinical Nursing EyeQ Series by Cybersight",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "F6H5",
+    "Evento": "Cybersight - An Introduction to Pediatric Eye Disease and Care",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "T3E0",
+    "Evento": "Cybersight - Fundamentos da Facoemulsificação",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "E3B9",
+    "Evento": "Cybersight - Fundamentos da Facoemulsificação",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "E3B9",
+    "Evento": "Cybersight - Genetics in an hour",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "U9D7",
+    "Evento": "Alcon - Dry Eye Foundational Knowledge",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "I1F0",
+    "Evento": "Cybersight - Fundamentals of Motility",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "I9D4",
+    "Evento": "Cybersight - Basic Ophthalmic Pharmacology for Nurses",
+    "Ano": "2026",
+    "CFCO": "3"
+  },
+  {
+    "NumeroMembro": "O9Q8",
+    "Evento": "Neuromind - Congresso “Neurociência, Mente e Comportamento”",
+    "Ano": "2026",
+    "CFCO": "4.5"
+  },
+  {
+    "NumeroMembro": "H5U1",
+    "Evento": "Neuromind - Congresso “Neurociência, Mente e Comportamento”",
+    "Ano": "2026",
+    "CFCO": "4.5"
+  },
+  {
+    "NumeroMembro": "F5F6",
+    "Evento": "Neuromind - Congresso “Neurociência, Mente e Comportamento”",
+    "Ano": "2026",
+    "CFCO": "4.5"
+  },
+  {
+    "NumeroMembro": "B5Q0",
+    "Evento": "Neuromind - Congresso “Neurociência, Mente e Comportamento”",
+    "Ano": "2026",
+    "CFCO": "4.5"
+  },
+  {
+    "NumeroMembro": "C7L3",
+    "Evento": "Neuromind - Congresso “Neurociência, Mente e Comportamento”",
+    "Ano": "2026",
+    "CFCO": "4.5"
+  },
+  {
+    "NumeroMembro": "Y3F8",
+    "Evento": "Neuromind - Congresso “Neurociência, Mente e Comportamento”",
+    "Ano": "2026",
+    "CFCO": "4.5"
+  },
+  {
+    "NumeroMembro": "O6Z1",
+    "Evento": "Neuromind - Congresso “Neurociência, Mente e Comportamento”",
+    "Ano": "2026",
+    "CFCO": "4.5"
+  },
+  {
+    "NumeroMembro": "U8H3",
+    "Evento": "Cybersight - Essentials of Pediatric Ophthalmology and Adult Strabismus",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "U8H3",
+    "Evento": "Cybersight - Inherited Retinal Diseases (IRD) EyeQ Series",
+    "Ano": "2026",
+    "CFCO": "3"
+  },
+  {
+    "NumeroMembro": "U8H3",
+    "Evento": "Cybersight - An Introduction to Pediatric Eye Disease and Care",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "U8H3",
+    "Evento": "Cybersight - Advancing Gender Equity in Global Eye Healthcare",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "U8H3",
+    "Evento": "Cybersight - Pediatric Glaucoma Essentials: Evaluation and Treatment",
+    "Ano": "2026",
+    "CFCO": "1.5"
   }
 ]
