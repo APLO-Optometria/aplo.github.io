@@ -30889,42 +30889,6 @@
   },
   {
     "NumeroMembro": "F4G8",
-    "Evento": "Alcon - Understanding DAILIES TOTAL 1 Water Surface Contact Lenses",
-    "Ano": "2026",
-    "CFCO": "0.5"
-  },
-  {
-    "NumeroMembro": "F4G8",
-    "Evento": "Alcon - A quick Guide to Innovative Contact Lenses for Astigmatism",
-    "Ano": "2026",
-    "CFCO": "0.1"
-  },
-  {
-    "NumeroMembro": "F4G8",
-    "Evento": "Alcon - 10403 PRECISION 1 A Comprehensive Guide for Eye Care Professionals",
-    "Ano": "2026",
-    "CFCO": "0.1"
-  },
-  {
-    "NumeroMembro": "F4G8",
-    "Evento": "Alcon - TOTAL30 Revolutionising Monthly Reusable Lenses",
-    "Ano": "2026",
-    "CFCO": "0.5"
-  },
-  {
-    "NumeroMembro": "F4G8",
-    "Evento": "Alcon - Toric Contact Lenses Enhancing Vision in Astigmats",
-    "Ano": "2026",
-    "CFCO": "0.1"
-  },
-  {
-    "NumeroMembro": "F4G8",
-    "Evento": "Alcon - Why to Opt for Water Surface Contact Lenses",
-    "Ano": "2026",
-    "CFCO": "0.5"
-  },
-  {
-    "NumeroMembro": "F4G8",
     "Evento": "Alcon - Getting behind the Science of TOTAL30 Monthly Contact Lenses",
     "Ano": "2026",
     "CFCO": "0.5"
@@ -30950,24 +30914,6 @@
   {
     "NumeroMembro": "F4G8",
     "Evento": "Alcon - 10413 An intelligent Pupil Multifocal Design",
-    "Ano": "2026",
-    "CFCO": "0.1"
-  },
-  {
-    "NumeroMembro": "F4G8",
-    "Evento": "Alcon - A quick Guide to Innovative Contact Lenses for Astigmatism",
-    "Ano": "2026",
-    "CFCO": "0.1"
-  },
-  {
-    "NumeroMembro": "F4G8",
-    "Evento": "Alcon - 10409 Toric Lenses Fitting Guide",
-    "Ano": "2026",
-    "CFCO": "0.1"
-  },
-  {
-    "NumeroMembro": "F4G8",
-    "Evento": "Alcon - 10408 Understanding Alcon´s Precision Balance 84 Lens Design for Astigmatism",
     "Ano": "2026",
     "CFCO": "0.1"
   },
@@ -33723,7 +33669,7 @@
     "NumeroMembro": "B7R2",
     "Evento": "Cybersight - Fundamentos de Enfermería Oftálmica (Curso Completo)",
     "Ano": "2026",
-    "CFCO": "2.25"
+    "CFCO": "4.5"
   },
   {
     "NumeroMembro": "P4X4",
@@ -34354,5 +34300,1145 @@
     "Evento": "Virtual Low Vision Meeting 2020 - Part I",
     "Ano": "2026",
     "CFCO": "1.75"
+  },
+  {
+    "NumeroMembro": "F4G8",
+    "Evento": "Cybersight - Managing Intraoperative Complications in Adult Cataract Surgery: Prevention, Recognition, and Rescue Strategies",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "F4G8",
+    "Evento": "Cybersight - Ocular Surface Optimization Before Cataract Surgery",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "F4G8",
+    "Evento": "Cybersight - Ocular Surface Reconstruction – Techniques, Cases, and Surgical Pearls",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "F4G8",
+    "Evento": "Alcon - Multifocal Fit Troubleshooting",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "F4G8",
+    "Evento": "Alcon - Dry Eye Foundational Knowledge",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "F4G8",
+    "Evento": "Alcon - Patient Identification & Selection Process",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "P6C3",
+    "Evento": "ABC of Low Vision",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "P6C3",
+    "Evento": "ABC of Low Vision",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "P6C3",
+    "Evento": "Scleral Lens Fitting and Troubleshooting for Ocular Surface Disease",
+    "Ano": "2026",
+    "CFCO": "1.25"
+  },
+  {
+    "NumeroMembro": "P6C3",
+    "Evento": "Scleral GP Contact Lens Insertion, Removal and Care",
+    "Ano": "2026",
+    "CFCO": "1.25"
+  },
+  {
+    "NumeroMembro": "P6C3",
+    "Evento": "Custom Soft Lens Applications for the High Astigmat",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P6C3",
+    "Evento": "GP Multifocals for the Irregular Cornea",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P6C3",
+    "Evento": "Advances in Keratoconus Treatment",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P6C3",
+    "Evento": "Examination of Pupil",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "P6C3",
+    "Evento": "Low vision clinic refraction",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "P6C3",
+    "Evento": "Les Réserves fusionnelles en convergence et en divergence VL VP - EasyOpto - AOF",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "P6C3",
+    "Evento": "Réfraction objective - Skiascopie amétropies sphériques - EasyOpto - AOF",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "P6C3",
+    "Evento": "BINOCULAR_ BALANCING",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "#N/D",
+    "Evento": "Axial Magnification from Distance and Near Corrections",
+    "Ano": "2026",
+    "CFCO": "3"
+  },
+  {
+    "NumeroMembro": "P6C3",
+    "Evento": "Axial Magnification from Distance and Near Corrections",
+    "Ano": "2026",
+    "CFCO": "3"
+  },
+  {
+    "NumeroMembro": "P6C3",
+    "Evento": "Understanding the management of Ptosis",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "P6C3",
+    "Evento": "Lecture on Ophthalmoscopes",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "B1B9",
+    "Evento": "Clinical Use of Continuous IOP Measurement",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "#N/D",
+    "Evento": "Clinical Use of Continuous IOP Measurement",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "A6G7",
+    "Evento": "Introduction to Glaucoma",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "B0A6",
+    "Evento": "Contact Lens Terminology",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "B0A6",
+    "Evento": "Fitting Toric Hydrogel Lenses",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "V2T8",
+    "Evento": "ABC of Low Vision",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "B0A6",
+    "Evento": "Contact Lens Pre-fitting Examination and Guide to the Selection of Lens Type to Fit",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "B0A6",
+    "Evento": "Scleral Lens Fitting and Troubleshooting for Ocular Surface Disease",
+    "Ano": "2026",
+    "CFCO": "1.25"
+  },
+  {
+    "NumeroMembro": "B0A6",
+    "Evento": "Scleral GP Contact Lens Insertion, Removal and Care",
+    "Ano": "2026",
+    "CFCO": "1.25"
+  },
+  {
+    "NumeroMembro": "B0A6",
+    "Evento": "Custom Soft Lens Applications for the High Astigmat",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "B0A6",
+    "Evento": "GP Multifocals for the Irregular Cornea",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "B0A6",
+    "Evento": "GP Multifocal Fitting and Troubleshooting",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "B0A6",
+    "Evento": "Contact Lens Management of the Irregular Cornea: Case Grand Rounds",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Z6S4",
+    "Evento": "Advances in Keratoconus Treatment",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "V2T8",
+    "Evento": "LASERS in Eye Care Part 2  Refraction  Refractive Surgery e Cosmetic LASERs",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "V2T8",
+    "Evento": "Scleral Lens Fitting for Healthy Eyes  Astigmatic and Presbyopic Applications",
+    "Ano": "2026",
+    "CFCO": "1.25"
+  },
+  {
+    "NumeroMembro": "#N/D",
+    "Evento": "Examen Visual del Infante",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "V2T8",
+    "Evento": "Mastering Dry Eye Step by Step",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "#N/D",
+    "Evento": "Advances in Corneal Collagen Crosslinking and the OCULUS Pentacam",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "V2T8",
+    "Evento": "Advances in Corneal Collagen Crosslinking and the OCULUS Pentacam",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "V2T8",
+    "Evento": "Working Smarter with Medicare Part 2",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Z6S4",
+    "Evento": "Clinical Use of Continuous IOP Measurement",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "A6G7",
+    "Evento": "Clinical Use of Continuous IOP Measurement",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "V2T8",
+    "Evento": "Clinical Use of Continuous IOP Measurement",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "N8Z6",
+    "Evento": "EBM application- Diagnostic Test",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "V2T8",
+    "Evento": "EBM application- Diagnostic Test",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "V2T8",
+    "Evento": "Les Réserves fusionnelles en convergence et en divergence VL VP - EasyOpto - AOF",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "V2T8",
+    "Evento": "Réfraction objective - Skiascopie amétropies sphériques - EasyOpto - AOF",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "A6G7",
+    "Evento": "Axial Magnification from Distance and Near Corrections",
+    "Ano": "2026",
+    "CFCO": "3"
+  },
+  {
+    "NumeroMembro": "V2T8",
+    "Evento": "Understanding the management of Ptosis",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "V2T8",
+    "Evento": "Vitamins and Mineral Supplements for Retinitis Pigmentosa",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "A6G7",
+    "Evento": "Aniseikonia",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "V2T8",
+    "Evento": "Crossed Parabolic Cylinder Meridional Maximum Refraction",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "A6G7",
+    "Evento": "JC 2 - Management of adult amblyopia 09/10/2019",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "B0A6",
+    "Evento": "Lecture on Ophthalmoscopes",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "T9G4",
+    "Evento": "Anomalie de la vision binoculaire d'un patient non strabique 1/4 - Arnaud Massenet - Opto'Webinar - AOF",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "T9G4",
+    "Evento": "La maladie de Fabry : comment un examen Ã  la lampe Ã  fente peut sauver une vie ? - Dr Langis Michaud - Opto'Webinar - AOF",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "V2T8",
+    "Evento": "Virtual Low Vision Meeting 2020 - Part II",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "V2T8",
+    "Evento": "KVC Vision Screening Training- Module 4 Infants and Children with Special Considerations",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "A6G7",
+    "Evento": "KVC Vision Screening Training- Module 4 Infants and Children with Special Considerations",
+    "Ano": "2026",
+    "CFCO": "0.75"
+  },
+  {
+    "NumeroMembro": "W0W6",
+    "Evento": "Biomicroscopy Examination Technique",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "V5L8",
+    "Evento": "Axial Magnification from Distance and Near Corrections",
+    "Ano": "2026",
+    "CFCO": "3"
+  },
+  {
+    "NumeroMembro": "W0W6",
+    "Evento": "Vitamins and Mineral Supplements for Retinitis Pigmentosa",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "W0W6",
+    "Evento": "JC 2 - Management of adult amblyopia 09/10/2019",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "W0W6",
+    "Evento": "Evaporative dry eye",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "V5L8",
+    "Evento": "Virtual Low Vision Meeting 2020 - Part II",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "V5L8",
+    "Evento": "Virtual Low Vision Meeting 2020 - Part III",
+    "Ano": "2026",
+    "CFCO": "3"
+  },
+  {
+    "NumeroMembro": "W0W6",
+    "Evento": "Optometry Glaucoma Practice - Possibilities Beyond COVID Crises",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "L3G4",
+    "Evento": "Optical Assistant Training Module 3",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Y6P2",
+    "Evento": "Keratoconus",
+    "Ano": "2026",
+    "CFCO": "1.25"
+  },
+  {
+    "NumeroMembro": "Y6P2",
+    "Evento": "Correction of the Presbyope With Contact Lenses",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "J7H8",
+    "Evento": "ABC of Low Vision",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "Z3A6",
+    "Evento": "ABC of Low Vision",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "Z3A6",
+    "Evento": "ABC of Low Vision",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "Z3A6",
+    "Evento": "Scleral Lens Fitting and Troubleshooting for Ocular Surface Disease",
+    "Ano": "2026",
+    "CFCO": "1.25"
+  },
+  {
+    "NumeroMembro": "Z6I1",
+    "Evento": "Scleral Lens Fitting and Troubleshooting for Ocular Surface Disease",
+    "Ano": "2026",
+    "CFCO": "1.25"
+  },
+  {
+    "NumeroMembro": "P6C3",
+    "Evento": "GP Management of Corneal Pathology Case Grand Rounds Dr. Marlane Brown OD FAAO",
+    "Ano": "2026",
+    "CFCO": "1.25"
+  },
+  {
+    "NumeroMembro": "P6C3",
+    "Evento": "Corneal Anatomy and Physiology",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Y6P2",
+    "Evento": "LASERS in Eye Care Part 2  Refraction  Refractive Surgery e Cosmetic LASERs",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "Z3A6",
+    "Evento": "Low vision clinic refraction",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "L3G4",
+    "Evento": "Clinical Use of Continuous IOP Measurement",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "L3G4",
+    "Evento": "EBM application- Diagnostic Test",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "L3G4",
+    "Evento": "Punctum Proximum de Convergence - EasyOpto - AOF",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "Z6I1",
+    "Evento": "Punctum Proximum de Convergence - EasyOpto - AOF",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "L3G4",
+    "Evento": "Les Réserves fusionnelles en convergence et en divergence VL VP - EasyOpto - AOF",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "Z6I1",
+    "Evento": "Les Réserves fusionnelles en convergence et en divergence VL VP - EasyOpto - AOF",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "A6G7",
+    "Evento": "JC article on Mi Sight contact lenses for myopes",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "P6C3",
+    "Evento": "Aniseikonia",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "L3G4",
+    "Evento": "Crossed Parabolic Cylinder Meridional Maximum Refraction",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "L3G4",
+    "Evento": "Lecture on Ophthalmoscopes",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "A6G7",
+    "Evento": "Lecture on Ophthalmoscopes",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "Z6I1",
+    "Evento": "Virtual Low Vision Meeting 2020 - Part II",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "Z3A6",
+    "Evento": "Optometry Glaucoma Practice - Possibilities Beyond COVID Crises",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Z2P5",
+    "Evento": "Cybersight - Ocular Genetics",
+    "Ano": "2026",
+    "CFCO": "3"
+  },
+  {
+    "NumeroMembro": "I4D3",
+    "Evento": "Cybersight - Eye Care: Essential Skills for Community Health Workers",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "I4D3",
+    "Evento": "Cybersight - Advancing Gender Equity in Global Eye Healthcare",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "I4D3",
+    "Evento": "Cybersight - Clinical Nursing EyeQ Series by Cybersight",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "I4D3",
+    "Evento": "Cybersight - Cataract | Anterior Segment EyeQ Series by Cybersight",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "I4D3",
+    "Evento": "Cybersight - Cornea EyeQ Series",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "D9Y0",
+    "Evento": "Mestrado Optometria Avançada",
+    "Ano": "2026",
+    "CFCO": "10"
+  },
+  {
+    "NumeroMembro": "C0Z6",
+    "Evento": "Cybersight - Essentials of Retinopathy of Prematurity",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "Y3F8",
+    "Evento": "Cybersight - Inherited Retinal Diseases (IRD) EyeQ Series",
+    "Ano": "2026",
+    "CFCO": "3"
+  },
+  {
+    "NumeroMembro": "N1X1",
+    "Evento": "Cybersight - Essentials of Neuro-Ophthalmology",
+    "Ano": "2026",
+    "CFCO": "3"
+  },
+  {
+    "NumeroMembro": "G2T9",
+    "Evento": "Alcon - 10403 PRECISION 1 A Comprehensive Guide for Eye Care Professionals",
+    "Ano": "2026",
+    "CFCO": "0.1"
+  },
+  {
+    "NumeroMembro": "G2T9",
+    "Evento": "Alcon - TOTAL30 Revolutionising Monthly Reusable Lenses",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "W7A6",
+    "Evento": "Cybersight - Essentials of Retinopathy of Prematurity",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "W7A6",
+    "Evento": "Cybersight - Part 2: Essentials of Glaucoma: Lasers and Surgical Management",
+    "Ano": "2026",
+    "CFCO": "1.5"
+  },
+  {
+    "NumeroMembro": "L8H6",
+    "Evento": "Cybersight - Ptosis 101: Evaluation and Management",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "L8H6",
+    "Evento": "Cybersight - Analyzing Complex Inherited Retinal Disease Cases: Five Interesting Patient Cases You Don’t Want to Miss!",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "L8H6",
+    "Evento": "Cybersight - Approach to the Management of Diabetic Macular Edema",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "L8H6",
+    "Evento": "Cybersight - A to Z of Ocular Surface Squamous Neoplasia",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "L8H6",
+    "Evento": "Alcon - Anatomy and Physiology of the Eye",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "L8H6",
+    "Evento": "Alcon - Understanding DAILIES TOTAL 1 Water Surface Contact Lenses",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "L8H6",
+    "Evento": "Alcon - Why to Opt for Water Surface Contact Lenses",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "L8H6",
+    "Evento": "Alcon - 10403 PRECISION 1 A Comprehensive Guide for Eye Care Professionals",
+    "Ano": "2026",
+    "CFCO": "0.1"
+  },
+  {
+    "NumeroMembro": "L8H6",
+    "Evento": "Alcon - TOTAL30 Revolutionising Monthly Reusable Lenses",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "L8H6",
+    "Evento": "Alcon - 10408 Understanding Alcon´s Precision Balance 84 Lens Design for Astigmatism",
+    "Ano": "2026",
+    "CFCO": "0.1"
+  },
+  {
+    "NumeroMembro": "L8H6",
+    "Evento": "Alcon - Toric Contact Lenses Enhancing Vision in Astigmats",
+    "Ano": "2026",
+    "CFCO": "0.1"
+  },
+  {
+    "NumeroMembro": "L8H6",
+    "Evento": "Alcon - 10409 Toric Lenses Fitting Guide",
+    "Ano": "2026",
+    "CFCO": "0.1"
+  },
+  {
+    "NumeroMembro": "X9O7",
+    "Evento": "Alcon - Anatomy and Physiology of the Eye",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "X9O7",
+    "Evento": "Alcon - Contact Lenses",
+    "Ano": "2026",
+    "CFCO": "1.25"
+  },
+  {
+    "NumeroMembro": "T9T2",
+    "Evento": "Cybersight - Fundamentos de la Retinopatía de la Prematuridad",
+    "Ano": "2026",
+    "CFCO": "6"
+  },
+  {
+    "NumeroMembro": "T9T2",
+    "Evento": "Cybersight - Essentials of Neuro-Ophthalmology",
+    "Ano": "2026",
+    "CFCO": "3"
+  },
+  {
+    "NumeroMembro": "T9T2",
+    "Evento": "Cybersight - Basics of Phacoemulsification",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "B7R2",
+    "Evento": "Cybersight - Cataract | Anterior Segment EyeQ Series by Cybersight",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "B7R2",
+    "Evento": "Cybersight - Eye Care: Essential Skills for Community Health Workers",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "P1G1",
+    "Evento": "Cybersight - Uveitis: Diagnosis & Therapeutics",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "Q1Q2",
+    "Evento": "Alcon - Anatomy and Physiology of the Eye",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "Q1Q2",
+    "Evento": "Alcon - Contact Lenses",
+    "Ano": "2026",
+    "CFCO": "1.25"
+  },
+  {
+    "NumeroMembro": "Q1Q2",
+    "Evento": "Alcon - Getting behind the Science of TOTAL30 Monthly Contact Lenses",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "Q1Q2",
+    "Evento": "Alcon - Patient Identification & Selection Process",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "F9G16",
+    "Evento": "UBI - XVI Colóquio de Optometria - Sábado",
+    "Ano": "2026",
+    "CFCO": "4"
+  },
+  {
+    "NumeroMembro": "W4B8",
+    "Evento": "UBI - XVI Colóquio de Optometria - Sábado",
+    "Ano": "2026",
+    "CFCO": "4"
+  },
+  {
+    "NumeroMembro": "D8S3",
+    "Evento": "UBI - XVI Colóquio de Optometria",
+    "Ano": "2026",
+    "CFCO": "6.5"
+  },
+  {
+    "NumeroMembro": "L6F2",
+    "Evento": "UBI - XVI Colóquio de Optometria",
+    "Ano": "2026",
+    "CFCO": "6.5"
+  },
+  {
+    "NumeroMembro": "V5Y1",
+    "Evento": "UBI - XVI Colóquio de Optometria",
+    "Ano": "2026",
+    "CFCO": "6.5"
+  },
+  {
+    "NumeroMembro": "J7Y9",
+    "Evento": "UBI - XVI Colóquio de Optometria",
+    "Ano": "2026",
+    "CFCO": "6.5"
+  },
+  {
+    "NumeroMembro": "U2D6",
+    "Evento": "Cybersight - Myopia EyeQ Series",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "L8B1",
+    "Evento": "UBI - XVI Colóquio de Optometria",
+    "Ano": "2026",
+    "CFCO": "6.5"
+  },
+  {
+    "NumeroMembro": "S5C1",
+    "Evento": "Alcon - Anatomy and Physiology of the Eye",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "S5C1",
+    "Evento": "Alcon - Contact Lenses",
+    "Ano": "2026",
+    "CFCO": "1.25"
+  },
+  {
+    "NumeroMembro": "A5K9",
+    "Evento": "Cybersight - Fundamentos de Oftalmologia Pediátrica e Estrabismo em Adultos",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "A5K9",
+    "Evento": "Cybersight - Advancing Gender Equity in Global Eye Healthcare",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "M9V2",
+    "Evento": "Cybersight - Eyelid Procedures (Non-Ptosis)",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "M9V2",
+    "Evento": "Cybersight - Fundamentals of the Optic Disc",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "M9V2",
+    "Evento": "Cybersight - Fundamentos da Facoemulsificação",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "M9V2",
+    "Evento": "Cybersight - Eye Care: Essential Skills for Community Health Workers",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "M9V2",
+    "Evento": "Cybersight - Fundamentos do Disco Óptico",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "M9V2",
+    "Evento": "Cybersight - Fundamentos de Oftalmologia Pediátrica e Estrabismo em Adultos",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "G8U6",
+    "Evento": "Alcon - Multifocal Fit Troubleshooting",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "G8U6",
+    "Evento": "Alcon - Contact Lenses",
+    "Ano": "2026",
+    "CFCO": "1.25"
+  },
+  {
+    "NumeroMembro": "G8U6",
+    "Evento": "Alcon - Dry Eye & Ocular Health",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "G8U6",
+    "Evento": "Alcon - Dry Eye Foundational Knowledge",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "G8U6",
+    "Evento": "Alcon - Getting behind the Science of TOTAL30 Monthly Contact Lenses",
+    "Ano": "2026",
+    "CFCO": "0.5"
+  },
+  {
+    "NumeroMembro": "G8U6",
+    "Evento": "Alcon - Patient Identification & Selection Process",
+    "Ano": "2026",
+    "CFCO": "0.25"
+  },
+  {
+    "NumeroMembro": "K8W3",
+    "Evento": "Cybersight - Optometry EyeQ Series",
+    "Ano": "2026",
+    "CFCO": "3"
+  },
+  {
+    "NumeroMembro": "N0R6",
+    "Evento": "Cybersight - Advancing Gender Equity in Global Eye Healthcare",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "N0R6",
+    "Evento": "Cybersight - Fundamentos da Facoemulsificação",
+    "Ano": "2026",
+    "CFCO": "1"
+  },
+  {
+    "NumeroMembro": "H6J1",
+    "Evento": "Cybersight - Cuidados oculares: habilidades essenciais para Trabalhadores·Comunitários·da·Saúde",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "W9G7",
+    "Evento": "Cybersight - Eye Care: Essential Skills for Community Health Workers",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "Z6I1",
+    "Evento": "Cybersight - Cornea EyeQ Series",
+    "Ano": "2026",
+    "CFCO": "2"
+  },
+  {
+    "NumeroMembro": "X9N6",
+    "Evento": "Jornadas de Gestão da Miopia – O que muda amanhã na sua prática clínica?",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "U7E8",
+    "Evento": "Jornadas de Gestão da Miopia – O que muda amanhã na sua prática clínica?",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "Y2X4",
+    "Evento": "Jornadas de Gestão da Miopia – O que muda amanhã na sua prática clínica?",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "C1N9",
+    "Evento": "Jornadas de Gestão da Miopia – O que muda amanhã na sua prática clínica?",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "J0A7",
+    "Evento": "Jornadas de Gestão da Miopia – O que muda amanhã na sua prática clínica?",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "E9K1",
+    "Evento": "Jornadas de Gestão da Miopia – O que muda amanhã na sua prática clínica?",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "I7F8",
+    "Evento": "Jornadas de Gestão da Miopia – O que muda amanhã na sua prática clínica?",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "G1T4",
+    "Evento": "Jornadas de Gestão da Miopia – O que muda amanhã na sua prática clínica?",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "H1Z5",
+    "Evento": "Jornadas de Gestão da Miopia – O que muda amanhã na sua prática clínica?",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "L6Q2",
+    "Evento": "Jornadas de Gestão da Miopia – O que muda amanhã na sua prática clínica?",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "L8X9",
+    "Evento": "Jornadas de Gestão da Miopia – O que muda amanhã na sua prática clínica?",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "A6E19",
+    "Evento": "Jornadas de Gestão da Miopia – O que muda amanhã na sua prática clínica?",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "N7W4",
+    "Evento": "Jornadas de Gestão da Miopia – O que muda amanhã na sua prática clínica?",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "S9U6",
+    "Evento": "Jornadas de Gestão da Miopia – O que muda amanhã na sua prática clínica?",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "I9S8",
+    "Evento": "Jornadas de Gestão da Miopia – O que muda amanhã na sua prática clínica?",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "T2C1",
+    "Evento": "Jornadas de Gestão da Miopia – O que muda amanhã na sua prática clínica?",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "G7B6",
+    "Evento": "Jornadas de Gestão da Miopia – O que muda amanhã na sua prática clínica?",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "W7L0",
+    "Evento": "Jornadas de Gestão da Miopia – O que muda amanhã na sua prática clínica?",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "D9E4",
+    "Evento": "Jornadas de Gestão da Miopia – O que muda amanhã na sua prática clínica?",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "H3W3",
+    "Evento": "Jornadas de Gestão da Miopia – O que muda amanhã na sua prática clínica?",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "S7J6",
+    "Evento": "Jornadas de Gestão da Miopia – O que muda amanhã na sua prática clínica?",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "D7I2",
+    "Evento": "Jornadas de Gestão da Miopia – O que muda amanhã na sua prática clínica?",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "B7M2",
+    "Evento": "Jornadas de Gestão da Miopia – O que muda amanhã na sua prática clínica?",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "L9G1",
+    "Evento": "Jornadas de Gestão da Miopia – O que muda amanhã na sua prática clínica?",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "Q7W4",
+    "Evento": "Cybersight - Introduction to Adult Glaucoma",
+    "Ano": "2026",
+    "CFCO": "4"
+  },
+  {
+    "NumeroMembro": "B0V3",
+    "Evento": "Cybersight - Fundamentals of Diabetic Retinopathy (PT)",
+    "Ano": "2026",
+    "CFCO": "5"
+  },
+  {
+    "NumeroMembro": "B0V3",
+    "Evento": "Cybersight - Fundamentals of MSICS",
+    "Ano": "2026",
+    "CFCO": "4"
   }
 ]
