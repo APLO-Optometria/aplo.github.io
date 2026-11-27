@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="pt-PT">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Certificado de Participação · Conferências Abertas de Optometria</title>
+<style>
+  :root { --roxo:#2a1250; --roxo2:#5b2a86; --rosa:#f073c0; --laranja:#f79049; --azul:#6ba0db; --tinta:#1d1530; --suave:#6b6480; }
+  * { box-sizing: border-box; }
+  body { margin:0; min-height:100vh; display:grid; place-items:center; padding:24px 16px;
+         font:16px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif; color:var(--tinta);
+         background:radial-gradient(1200px 700px at 85% -10%,#7a2f8f 0%,transparent 60%),
+                    radial-gradient(900px 600px at -10% 110%,#3b2a8c 0%,transparent 55%), var(--roxo); }
+  main { width:100%; max-width:560px; background:#fff; border-radius:18px; padding:32px 28px 26px;
+         box-shadow:0 20px 60px rgba(0,0,0,.35); }
+  main.largo { max-width:960px; }
+  .ed { display:inline-block; font-size:12px; font-weight:700; letter-spacing:.08em; text-transform:uppercase;
+        color:var(--roxo2); background:#f3ebfa; padding:4px 10px; border-radius:99px; }
+  h1 { font-size:26px; line-height:1.2; margin:14px 0 4px; }
+  .sub { margin:0 0 22px; color:var(--suave); }
+  form { display:flex; gap:10px; flex-wrap:wrap; }
+  label { flex-basis:100%; font-size:14px; font-weight:600; }
+  input { flex:1 1 180px; font:600 22px/1 ui-monospace,Menlo,Consolas,monospace; letter-spacing:.14em; text-align:center;
+          text-transform:uppercase; padding:14px 12px; border:2px solid #d9d1e6; border-radius:12px; outline:none; }
+  input:focus { border-color:var(--roxo2); box-shadow:0 0 0 4px #5b2a8622; }
+  button { font-size:16px; font-weight:600; line-height:1; font-family:inherit; border:0; border-radius:12px; padding:15px 22px; cursor:pointer;
+           background:linear-gradient(135deg,var(--roxo2),#8a3a9e); color:#fff; }
+  button:hover:not(:disabled) { filter:brightness(1.1); }
+  button:disabled { opacity:.55; cursor:wait; }
+  button.sec { background:#fff; color:var(--roxo2); border:2px solid var(--roxo2); }
+  .ajuda { font-size:13px; color:var(--suave); margin:12px 0 0; }
+  #msg { min-height:1.4em; margin:14px 0 0; font-weight:600; }
+  #msg.erro { color:#b3261e; }
+  #resultado[hidden] { display:none; }
+  #resultado { margin-top:22px; border-top:1px solid #eee; padding-top:20px; }
+  .ok { display:flex; gap:14px; align-items:center; flex-wrap:wrap; justify-content:space-between; }
+  .ok h2 { margin:0; font-size:20px; }
+  .ok p { margin:2px 0 0; color:var(--suave); }
+  .cf { color:#c4601a; font-weight:700; }
+  .acoes { display:flex; gap:10px; flex-wrap:wrap; }
+  iframe { display:none; width:100%; aspect-ratio:16/9; border:1px solid #ddd; border-radius:10px; margin-top:18px; background:#eee; }
+  @media (min-width:760px) { iframe.on { display:block; } }
+  footer { margin-top:22px; font-size:12px; color:var(--suave); text-align:center; }
+</style>
+</head>
+<body>
+<main id="card">
+  <span class="ed" id="ed"></span>
+  <h1>Certificado de Participação</h1>
+  <p class="sub" id="sub"></p>
+
+  <form id="form" autocomplete="off" novalidate>
+    <label for="codigo">Código de participante (recebido por email)</label>
+    <input id="codigo" inputmode="text" autocapitalize="characters" spellcheck="false" maxlength="9"
+           placeholder="XXXX-XXXX" aria-describedby="msg" required>
+    <button id="btn" type="submit" disabled>Obter certificado</button>
+  </form>
+  <p id="msg" role="status" aria-live="polite"></p>
+
+  <section id="resultado" hidden>
+    <div class="ok">
+      <div>
+        <h2 id="nome"></h2>
+        <p>Participação registada: <span class="cf" id="cfco"></span> CFCO</p>
+      </div>
+      <div class="acoes">
+        <button id="baixar" type="button">Descarregar PDF</button>
+        <button id="imprimir" type="button" class="sec">Imprimir</button>
+      </div>
+    </div>
+    <iframe id="previa" title="Pré-visualização do certificado"></iframe>
+  </section>
+
+  <p class="ajuda" id="ajuda"></p>
+  <footer>APLO · Associação de Profissionais Licenciados de Optometria</footer>
+</main>
+<noscript><p style="color:#fff">É necessário ativar o JavaScript para gerar o certificado.</p></noscript>
+
+<script src="config.js"></script>
+<script src="jspdf.umd.min.js"></script>
+<script src="certificado.js"></script>
+<script>
+(() => {
+  const C = window.CAO, $ = (id) => document.getElementById(id);
+  const input = $("codigo"), btn = $("btn"), msg = $("msg");
+  let base = null, fundo = null, atual = null, urlPrevia = null;
+
+  $("ed").textContent = `${C.edicao} Edição`;
+  $("sub").textContent = `${C.edicao} ${C.evento} · ${C.datasCurto} · ${C.local.split(",").pop().trim()}`;
+  $("ajuda").textContent = "Introduza o código único que recebeu no seu email. " +
+    (C.contacto ? `Em caso de dúvida: ${C.contacto}.` : "Em caso de dúvida, contacte a APLO.");
+
+  const dizer = (t, erro) => { msg.textContent = t; msg.className = erro ? "erro" : ""; };
+  const b64 = (s) => Uint8Array.from(atob(s), (c) => c.charCodeAt(0));
+  const hex = (u8) => [...u8].map((x) => x.toString(16).padStart(2, "0")).join("");
+  const norm = (s) => s.toUpperCase().replace(/[^A-Z0-9]/g, "");
+
+  // ---- carregar base de dados e fundo
+  async function preparar() {
+    if (!window.crypto || !crypto.subtle) {
+      dizer("Este site tem de ser aberto através de uma ligação segura (https://).", true); return;
+    }
+    try {
+      const [r, img] = await Promise.all([
+        fetch("data.json", { cache: "no-cache" }).then((x) => { if (!x.ok) throw 0; return x.json(); }),
+        new Promise((ok, ko) => { const i = new Image(); i.onload = () => ok(i); i.onerror = ko; i.src = "fundo.jpg"; }),
+      ]);
+      await Promise.all((C.assinaturas || []).filter((a) => a.imagem).map((a) => new Promise((ok) => {
+        const i = new Image(); i.onload = () => { a.img = i; ok(); }; i.onerror = ok; i.src = a.imagem;
+      })));
+      base = r; fundo = img; btn.disabled = false;
+    } catch { dizer("Não foi possível carregar os dados. Tente novamente dentro de instantes.", true); }
+  }
+
+  // ---- uma derivação lenta (PBKDF2) → id de procura + chave AES
+  async function abrir(codigo) {
+    const k = await crypto.subtle.importKey("raw", new TextEncoder().encode(codigo), "PBKDF2", false, ["deriveBits"]);
+    const bits = new Uint8Array(await crypto.subtle.deriveBits(
+      { name: "PBKDF2", hash: "SHA-256", salt: b64(base.salt), iterations: base.iter }, k, 384));
+    const cifra = base.r[hex(bits.slice(0, 16))];
+    if (!cifra) return null;
+    try {
+      const aes = await crypto.subtle.importKey("raw", bits.slice(16), "AES-GCM", false, ["decrypt"]);
+      const buf = b64(cifra);
+      const claro = await crypto.subtle.decrypt({ name: "AES-GCM", iv: buf.slice(0, 12) }, aes, buf.slice(12));
+      return JSON.parse(new TextDecoder().decode(claro));
+    } catch { return null; }
+  }
+
+  const semAcentos = (s) => s.normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/[^A-Za-z0-9]+/g, "_").replace(/^_|_$/g, "");
+
+  async function submeter(e) {
+    e && e.preventDefault();
+    const codigo = norm(input.value);
+    if (codigo.length !== 8) { dizer("O código tem 8 caracteres (formato XXXX-XXXX).", true); return; }
+    btn.disabled = true; dizer("A validar…"); $("resultado").hidden = true;
+    const reg = await abrir(codigo);
+    btn.disabled = false;
+    if (!reg) { dizer("Código não reconhecido. Verifique o código no email recebido.", true); return; }
+    dizer("");
+    atual = reg;
+    $("nome").textContent = reg.n; $("cfco").textContent = reg.c;
+    $("resultado").hidden = false; $("card").classList.add("largo");
+    mostrarPrevia();
+  }
+
+  function mostrarPrevia() {
+    const f = $("previa");
+    if (urlPrevia) URL.revokeObjectURL(urlPrevia);
+    if (navigator.pdfViewerEnabled === false) { f.classList.remove("on"); return; }
+    urlPrevia = URL.createObjectURL(Certificado.criar(atual.n, atual.c, fundo).output("blob"));
+    f.src = urlPrevia + "#toolbar=0&navpanes=0&view=Fit"; f.classList.add("on");
+  }
+
+  $("baixar").onclick = () =>
+    Certificado.criar(atual.n, atual.c, fundo).save(`${C.prefixoFicheiro}_${semAcentos(atual.n)}.pdf`);
+  $("imprimir").onclick = () => {
+    const url = Certificado.criar(atual.n, atual.c, fundo, { imprimir: true }).output("bloburl");
+    if (!window.open(url, "_blank")) dizer("O browser bloqueou a janela de impressão. Utilize “Descarregar PDF”.", true);
+  };
+
+  // formatação automática XXXX-XXXX
+  input.addEventListener("input", () => {
+    const n = norm(input.value).slice(0, 8);
+    input.value = n.length > 4 ? `${n.slice(0, 4)}-${n.slice(4)}` : n;
+  });
+  $("form").addEventListener("submit", submeter);
+
+  preparar().then(() => {
+    const c = new URLSearchParams(location.search).get("c");   // link direto: ?c=XXXX-XXXX
+    if (c && base) { input.value = norm(c).slice(0, 8).replace(/^(.{4})(.+)$/, "$1-$2"); submeter(); }
+  });
+})();
+</script>
+</body>
+</html>
